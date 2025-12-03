@@ -1,0 +1,405 @@
+Academy Bank NA
+Alerus Financial Corp
+Alliance Bank NA
+Ally Bank
+Amalgamated Bank
+Amarillo National Bank
+Amegy
+Amegy Bank NA
+Amerant Bank
+American Bank NA
+American Bank of Missouri
+American National Bank
+American National Bank of Texas
+American Savings Bank
+Ameris Bancorp
+Apple Bank
+Apple Bank for Savings
+Arvest Bank
+Associated Bank NA
+Atlantic Capital Bank
+Atlantic Union Bank
+Axos Bank
+BAC Florida Bank
+BBVA Compass
+BMO Harris Bank NA
+BMO/Harris Bank
+BOK Financial Corp
+BOKF NA
+Banc of California
+BancFirst Corp
+BancorpSouth
+BancorpSouth Bank
+Bangor Savings Bank
+Bank Leumi Trust
+Bank Leumi USA
+Bank OZK
+Bank United
+Bank of Albuquerque NA
+Bank of America
+Bank of America Corp
+Bank of America NA
+Bank of Blue Valley
+Bank of California
+Bank of Hawaii
+Bank of Hope
+Bank of Missouri
+Bank of New York
+Bank of New York Mellon
+Bank of North Dakota
+Bank of Oklahoma
+Bank of Oklahoma NA
+Bank of Sun Prairie
+Bank of Texas NA
+Bank of the West
+BankFinancial
+BankPlus
+BankUnited FSB
+BankUnited Inc
+BankUnited NA
+Bankers Trust Co
+Bankwell Financial Group
+Banner Bank
+Bar Harbor Bank & Trust
+Beal Bank SSB
+Bell Bank
+Belmont Bank & Trust
+Berkshire Bank
+Boston Private
+Boston Private Bank & Trust
+Bremer Bank NA
+Bridge Bank NA
+Broadway Bank
+Brown Brothers Harriman & Co
+Bryant Bank
+Burling Bank
+Busey Bank
+Byline Bank
+CB&S Bank
+CIBC Bank USA
+Cadence Bank NA
+California Bank & Trust
+California Bank of Commerce
+Cambridge Savings Bank
+Camden National Bank
+Canandaigua National Bank & Trust
+Capital Bank NA
+Capital One Bank
+Capital One NA
+Carver Federal Savings Bank
+Cathay Bank
+Centennial Bank
+Centennial Bank Holdings Inc
+CenterState Bank
+Centier Bank
+Central Pacific Bank
+Century Bank
+Chambers Bank
+Charles Schwab Corp
+Choice Bank
+Citi
+Citibank
+Citibank NA
+Citigroup
+Citizens Bank NA
+Citizens Financial Group
+Citizens National Bank
+City National Bank
+Citywide Banks
+Civista Bank
+Columbia Bank
+Columbia State Bank
+Comerica Bank
+Comerica Bank NA
+Commerce Bancorp Inc
+Commerce Bank NA
+CommerceOne Bank
+Compass Bank
+Congressional Bank
+Cornerstone Bank
+Cross River Bank
+CrossFirst Bank
+Customers Bank
+Dart Bank
+Deutsche Bank Trust Co Americas
+Devon Bank
+Dime Commercial Corp
+Dime Community Bank
+Dime Saving Bank of New York
+Dollar Bank
+Dominion Bank
+Eagle Bancorp
+EagleBank
+East West
+East West Bank
+Eastern Bank
+Emigrant Bank
+Emprise Bank NA
+Enterprise Bank & Trust
+Enterprise Bank & Trust Co
+Enterprise Bank NA
+Everbank NA
+FCBank
+FVCBank
+Farmers & Merchant Bank
+Fifth Third Bank
+First Bank Chicago
+First Bank NA
+First Bank of Highland Park
+First Citizens Bank & Trust
+First Commonwealth Bank
+First Eagle Bank
+First Financial Bank
+First Florida Bank
+First Foundation Bank
+First Hawaiian Bank
+First Horizon Bank
+First Independence Bank
+First Merchants Bank NA
+First Mid Bank & Trust
+First Midwest
+First Midwest Bancorp
+First Midwest Bank
+First National Bank
+First National Bank & Trust
+First National Bank of Omaha
+First National Bank of Pennsylvania
+First Security Bancorp / First Security Bank NA
+First Source Bank
+First Tennessee Bank
+First US Bank
+First Womens Bank
+FirstBank Florida
+Firstbank Southwest
+Five Star Bank
+Flagstar Bancorp
+Flagstar Bank
+Flushing Bank
+Forbright Bank
+Freedom Bank
+Frost Bank
+Frost National Bank
+Fulton Bank
+GBC Bancorp
+Georgia Banking Co
+Goldman Sachs Bank USA
+Great Southern Bank
+Gulf Capital Bank
+HSBC Bank USA NA
+Hancock Bank
+Hancock Whitney Bank
+Hanmi Bank
+Heartland Bank
+Heartland Financial USA Inc
+Heritage Bank SSB
+Hickory Point Bank & Trust
+Highland Bank
+Hinsdale Bank
+HomeStreet Bank
+HomeTrust Bank
+Horizon Bank
+Howard Bank
+Huntington Bancshares
+Huntington Bank
+Huntington National Bank
+IDB Bank
+IberiaBank
+Independent Bank (TIB)
+Independent Bank Corp
+Independent Bankshares
+Inland Bank
+International Bank of Commerce
+Intrust Bank
+Investors Bank & Trust Co
+Israel Discount Bank of New York Inc [IDBNY]
+JP Morgan Chase
+JP Morgan Chase & Co
+JP Morgan Chase Bank
+JP Morgan Chase Bank NA
+JPMorgan Chase Bank National Association
+Johnson Bank NA
+Key Bank NA
+KeyBank
+Keybank NA
+LCA Bank Corp
+Lake City Bank
+Lake Forest Bank & Trust
+Lakeside Bank
+Leaders Bank
+Liberty Bank
+Lincoln Bank
+Live Oak Bank
+M&T Bank
+MUFG Union Bank NA
+MVB Bank Inc
+Mabrey Bank
+Manufacturers & Traders Trust Co
+Manufacturers Bank
+Manufacturers and Traders Trust Company
+MapleMark Bank
+Marine Bank
+Mellon Bank
+Merchants Bank NA
+Merchants Bank of Indiana
+Meridian Bank
+Metropolitan Commercial Bank
+MidCountry Bank
+MidWestOne Bank
+Midfirst Bank
+Midland States Bank
+Midwest Bank
+Mission Bank
+Modern Bank
+Montgomery Bank
+Morgan Stanley Bank
+Morgan Stanley Bank NA
+Morton Community Bank
+NBH Bank NA
+National Bank of Arizona
+National Bank of Indianapolis
+National Exchange Bank & Trust
+Needham Bank
+Nevada State Bank
+New York Community Bank
+Nicolet National Bank
+Northern Trust
+Northern Trust Co
+Northern Trust Corp
+Northrim Bank
+Northwest Bank & Trust Co
+Northwest Savings Bank
+Oakworth Capital Bank
+Old National Bancorp
+Old National Bank
+Old Second Bank
+Old Second National Bank
+One National Bank
+Origin Bank
+PNC Bank NA
+Pacific Mercantile Bank
+Pacific Premier Bank
+Pacific Western Bank
+Palatine Bank & Trust
+Palatine Bank & Trust [PBT]
+Park National Bank
+People's Bank
+People's Trust Bank
+People's United Bank
+Peoples Bank
+Peoples Bank NA
+Pinnacle Financial Partners Inc
+Pinnacle National Bank
+Popular Bank
+Preferred Bank
+Premier Bank
+Prosperity Bank
+Provident Bank
+Rabobank NA
+Raymond James Bank FSB
+Raymond James Bank NA
+Red River Bank
+Regions
+Regions Bank
+Renasant Bank
+Renesant Bank
+Republic Bank
+River Bank & Trust
+Robertson Banking Co
+Rockland Trust
+S&T Bank
+Sabadell Bank
+Salem Five Bank
+Santa Lucia National Bank
+Santander Bank NA
+Seacoast National Bank
+Security National Bank of Omaha
+ServisFirst Bank
+Signature Bank
+Silicon Valley Bank
+Simmons Bank
+SmartBank
+Solera Bank
+South State Bank
+SouthState Bank NA
+Southern Bancorp Bank
+Southside Bank
+Southwest Bank
+State Street Bank
+State Street Bank & Trust
+State Street Bank & Trust Co
+Sterling Bank
+Sterling National Bank
+Stifel Bank & Trust
+Stride Bank
+Summit Community Bank
+Sun West Bank
+SunTrust Bank
+Sunflower Bank
+Susser Bank
+Synovus Bank
+Synovus Financial Corp
+TBK Bank
+TCF Bank Minnesota
+TCF Financial Corp
+TCF National Bank
+TD Bank NA
+TIAA FSB Holdings Inc
+Texas Capital Bank
+Texas Capital Bank NA
+Texas Partners Bank
+Third Coast Bank SSB
+Transportation Alliance Bank
+Tri Counties Bank
+Tristate Capital Bank
+Truist Bank
+Truist Financial
+Trustmark National Bank
+UMB Bank
+UMB Bank NA
+US Bank NA
+US Bank National Association
+Umpqua Bank
+Union Bank & Trust Co
+Union Bank NA
+United Bank
+United Community Bank
+United Texas Bank
+VNB New York
+Valley Bank & Trust
+Valley National Bank
+Valley Republic Bank
+Vast Bank
+Vectra Bank of Colorado NA
+Vectra Banking Corp
+Veritex Community Bank
+Village Bank
+Village Bank & Trust NA
+WSFS Bank
+Washington Federal Inc
+Washington Federal Savings Bank
+Washington Financial Bank
+Washington Trust
+WebBank
+Webster Bank NA
+Wells Fargo & Co
+Wells Fargo Bank
+Wells Fargo Bank NA
+WesBanco Inc
+Wesbanco Bank Inc
+West Alabama Bank & Trust
+West Suburban Bank
+West Texas National Bank
+Western Alliance Bancorp
+Wheaton Bank & Trust
+Whitney Bank
+Wilmington Bank
+Wilmington Savings Fund Society
+Wilmington Trust Co
+Wilmington Trust National Association
+Wintrust Financial Corp
+Wisconsin Bank & Trust
+Wood Forest National Bank
+WoodTrust Bank
+Woodforest National Bank
+Zions Bancorporation
+Zions Bank

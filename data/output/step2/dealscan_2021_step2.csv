@@ -1,0 +1,1021 @@
+Lender_Name,Lender_Id,Lender_Operating_Country,Lender_Institution_Type,year,quarter
+Bank of America NA,46975,United States,Multinational Investment Bank & Financial Services,2021,1
+Inter American Investment Corporation,126291,United States,,2021,1
+PNC Bank NA,31841,United States,US Bank,2021,1
+Barclays,103475,United Kingdom,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+National Bank Financial,58470,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+BBVA,77776,Spain,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+State Bank of India,11744,India,"Asian Bank, Canadian Bank, US Bank",2021,1
+Equitable Bank,119789,Canada,"Asian Bank, Canadian Bank, US Bank",2021,1
+Northern Trust,12940,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Citigroup,13703,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Citibank,29606,United States,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Comerica Bank,31836,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+JP Morgan Chase,14263,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Silicon Valley Bank,53329,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+TD Bank NA,50531,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+Truist Financial,150321,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of America,15447,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Truist Bank,153976,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Credit Suisse AG,17261,Switzerland,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+RBC Capital Markets,17835,Canada,"Asian Bank, Canadian Bank, US Bank",2021,1
+Bank of Montreal,12677,Canada,"Asian Bank, Canadian Bank, US Bank",2021,1
+Wells Fargo & Co,19499,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Lloyds Bank,49089,United States,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+HSBC,23803,United Kingdom,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Goldman Sachs & Co,43219,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Mizuho Bank Ltd,23894,Japan,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Mellon Bank,26419,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Keybank NA,26206,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of the West,50489,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Cadence Bank NA,101682,United States,US Bank,2021,1
+Renasant Bank,104224,United States,"Canadian Bank, US Bank",2021,1
+Renesant Bank,124275,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+CIBC Bank USA,135396,United States,"Canadian Bank, US Bank",2021,1
+Congressional Bank,106301,United States,"Canadian Bank, US Bank",2021,1
+Forbright Bank [fka Congressional Bank],106301,United States,"Canadian Bank, US Bank",2021,1
+West Suburban Bank,107540,United States,"Canadian Bank, US Bank",2021,1
+Flagstar Bank,49883,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+Citizens Bank NA,52640,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+HomeStreet Bank,127948,United States,"Canadian Bank, US Bank",2021,1
+Bank of Hope,136201,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+TBK Bank,141300,United States,"Canadian Bank, US Bank",2021,1
+JP Morgan,14261,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+JP Morgan Chase Bank NA,17665,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Cross River Bank,156839,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+First Bank Chicago,167249,United States,"Canadian Bank, US Bank",2021,1
+LCA Bank Corp,174404,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+BMO Harris Bank NA,101691,United States,Canadian Bank,2021,1
+Wells Fargo Bank,27003,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Wells Fargo Bank NA,27004,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Capital One NA,118531,United States,"Canadian Bank, US Bank",2021,1
+Goldman Sachs Specialty Lending Group,131868,United States,Asset Manager,2021,1
+Bremer Bank NA,58475,United States,"Canadian Bank, US Bank",2021,1
+Old Second Bank,143069,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Old Second Bancorp Inc,47045,United States,"Canadian Bank, US Bank",2021,1
+M&T Bank,48436,United States,US Bank,2021,1
+First Bank NA,49164,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Banc of California,127813,United States,"Canadian Bank, US Bank",2021,1
+Bank of California,47341,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+First Merchants Bank NA,58127,United States,"Canadian Bank, US Bank",2021,1
+Sterling National Bank,51544,United States,US Bank,2021,1
+Old National Bank,51679,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+Intrust Bank,51999,United States,"Canadian Bank, US Bank",2021,1
+Alliance Bank NA,53515,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+Transportation Alliance Bank,55146,United States,"Canadian Bank, US Bank",2021,1
+First Bank of Highland Park,60971,United States,"Canadian Bank, US Bank",2021,1
+Ally Bank,92462,United States,US Bank,2021,1
+First Merchant Bank,86545,United States,"Canadian Bank, US Bank",2021,1
+East West Bank,93936,United States,"Asian Bank, Canadian Bank, US Bank",2021,1
+Federation des Caisses Desjardins du Quebec,157420,United States,Canadian Bank,2021,1
+Texas Capital Bank NA,66827,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of Nova Scotia,13099,Canada,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Banco Bradesco SA,10926,Brazil,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Man Varagon,114658,United States,"Asset Manager, BDC",2021,1
+Varagon Capital Partners,114658,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,1
+Prosperity Bank,114808,United States,US Bank,2021,1
+Industrial and Commercial Bank of China Ltd,104356,China,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Raiffeisen Bank SA [Romania],17199,Romania,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Citi,13704,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Citigroup Global Markets Ltd,51394,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Comerica Bank NA,31838,United States,"Asian Bank, US Bank",2021,1
+JP Morgan Chase & Co,14262,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Third Coast Bank SSB,163225,United States,US Bank,2021,1
+Morgan Stanley,17669,United States,"Asset Manager, BDC, Multinational Investment Bank & Financial Services",2021,1
+US Bank NA,32997,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Webster Bank NA,48050,United States,US Bank,2021,1
+Alliance Bernstein LP,49192,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,1
+Texas Capital Bank,66826,United States,US Bank,2021,1
+Ares Capital Corp,52334,United States,"Asset Manager, BDC, Multinational Investment Bank & Financial Services",2021,1
+Associated Bank NA,52356,United States,"Asian Bank, US Bank",2021,1
+Thoma Bravo,56627,United States,"Asset Manager, BDC, Multinational Investment Bank & Financial Services",2021,1
+Golub Capital Inc,71915,United States,"Asset Manager, BDC, Multinational Investment Bank & Financial Services",2021,1
+KBC Bank NV,49315,Belgium,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Citibank NA,29607,United States,Multinational Investment Bank & Financial Services,2021,1
+City National Bank,23674,United States,"Canadian Bank, European Bank, US Bank",2021,1
+Antares Holdings,61916,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+State Street Bank,88345,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Regions Bank,49928,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+CoBank,52582,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bain Capital,109813,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+HPS Investment Partners LLC,131952,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,1
+Monroe Capital Corporation,140787,United States,"Asset Manager, BDC, Diversified Financial Services Company",2021,1
+Monroe Capital Income Plus Corp,144592,United States,"Asset Manager, BDC, Diversified Financial Services Company",2021,1
+BofA Securities,151226,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Monroe Capital Private Credit Master Fund IV (Unleveraged) SCSp,154980,United States,"Asset Manager, BDC, Diversified Financial Services Company",2021,1
+Monroe Capital Private Credit Master Fund IV SCSp,154989,United States,"Asset Manager, BDC, Diversified Financial Services Company",2021,1
+Monroe Capital Private Credit Fund IV Financing SPV I SCSp,160307,United States,"Asset Manager, BDC, Diversified Financial Services Company",2021,1
+Credit Suisse Loan Funding LLC,56075,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Huntington National Bank,17130,United States,US Bank,2021,1
+PNC Bank,31840,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+BlackRock Inc,41055,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+BlackRock Financial,92582,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,1
+Goldman Sachs Asset Management,64312,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Goldman Sachs Asset Management LP,64312,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services, Other",2021,1
+Blackstone Credit [Ex-GSO Capital Partners],51194,United States,Diversified Financial Services Company,2021,1
+Oaktree Capital Management LLC,54696,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Oaktree Capital Management LP,54696,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services, Other",2021,1
+Oaktree Capital Management,54697,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,1
+Monroe Capital LLC,57402,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Sycamore Partners,101778,United States,Multinational Investment Bank & Financial Services,2021,1
+Bank of America Merrill Lynch,15450,United States,Multinational Investment Bank & Financial Services,2021,1
+International Finance Corp,30600,United States,,2021,1
+Goldman Sachs Bank USA,49902,United States,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+MUFG Union Bank NA,116485,United States,"Development Finance Institution, Diversified Financial Services Company, Japanese Bank",2021,1
+Jefferies,120870,United States,"Canadian Bank, Diversified Financial Services Company, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+JP Morgan & Co,46786,United States,Multinational Investment Bank & Financial Services,2021,1
+BOK Financial Corp,27214,United States,US Bank,2021,1
+Trustmark National Bank,51912,United States,US Bank,2021,1
+Hickory Point Bank & Trust,89638,United States,US Bank,2021,1
+US International Development Finance Corp,151579,United States,Development Finance Institution,2021,1
+Caisse Federale de Credit Mutuel,156731,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+BNF Bank plc,157376,United States,"Asian Bank, European Bank, Japanese Bank",2021,1
+Callodine Commercial Finance,163749,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services",2021,1
+Signature Bank,49973,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Great Southern Bank,54505,United States,US Bank,2021,1
+Crystal Financial LLC,57441,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services",2021,1
+Eastern Bank,52557,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+People's United Bank,53373,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Adams Street Private Credit,156229,United States,,2021,1
+Metrobank,51324,United States,"Asian Bank, Diversified Financial Services Company",2021,1
+ANZ Banking Group Ltd,101939,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Banco Bilbao Vizcaya Argentaria SA,22248,United States,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Citizens Financial Group,116754,United States,"Asset Manager, Canadian Bank, European Bank, US Bank",2021,1
+Bank of America Securities,62312,United States,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+CIT Bank Ltd,15808,United Kingdom,"Asset Manager, Canadian Bank, European Bank, US Bank",2021,1
+Morgan Stanley Bank NA,103799,United States,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+ING Capital LLC,52090,United States,"Asset Manager, Canadian Bank, European Bank, US Bank",2021,1
+HSBC Bank USA NA,50505,United States,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Keybanc Capital Markets,51639,United States,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Sunflower Bank,56663,United States,"Asset Manager, Canadian Bank, European Bank, US Bank",2021,1
+Credit Agricole,119938,France,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+National Westminster Bank Plc,11320,United Kingdom,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+BBVA Compass,57073,United States,"European Bank, US Bank",2021,1
+BancAlliance Inc,121871,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of Ireland Group,12675,Ireland,"Asset Manager, European Bank, US Bank",2021,1
+Bank of Ireland Ltd,12676,Ireland,"Asset Manager, European Bank, US Bank",2021,1
+BankUnited NA,128659,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Hancock Whitney Bank,142472,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of Oklahoma NA,20993,United States,"European Bank, US Bank",2021,1
+Fifth Third Bank,29604,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+First Midwest Bank,110446,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+AgFirst Farm Credit Bank,47956,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+KeyBank,51838,United States,"European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+KKR,140814,United States,"BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Synovus Bank,103840,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Antares Capital,124168,United States,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+First Horizon Bank,73447,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+South State Bank,116737,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+World Bank,17914,United States,Government Sponsored Lender,2021,1
+Inter-American Investment Corp,53539,United States,"Asian Bank, European Bank, Japanese Bank",2021,1
+CIBC,105527,United States,"Asian Bank, Canadian Bank",2021,1
+Santander Bank NA,111453,United States,"Asian Bank, Business Corporation, European Bank, Japanese Bank, US Bank",2021,1
+AB Private Credit Investors Corp,159144,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Other",2021,1
+AllianceBernstein LP,160731,United States,"Asset Manager, Hedge Fund, Multinational Investment Bank & Financial Services",2021,1
+Morgan Stanley Bank,92232,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Other",2021,1
+Wintrust Financial Corp,42405,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Siemens AG,5847,Germany,"Asian Bank, Business Corporation, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Umpqua Bank,60043,United States,US Bank,2021,1
+International Bank for Economic Cooperation,61474,United States,"Development Finance Institution, European Bank",2021,1
+Western Alliance Bancorp,104660,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Zions Bancorporation,120947,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Vectra Banking Corp,66153,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Zions Bank,72806,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+HomeTrust Bank,150365,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Ameris Bancorp,49355,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+First National Bank of Pennsylvania,51959,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+First National Bank,52133,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+United Bank,52641,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+SMBC,50974,United States,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Vectra Bank of Colorado NA,78944,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Woodforest National Bank,110740,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+NatWest Bank NA,75551,United States,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,1
+First Citizens Bank Limited,121757,Trinidad and Tobago,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Lucid Agency Services Ltd,142066,United Kingdom,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,1
+Numis Corp,145410,United Kingdom,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,1
+Atlantic Union Bank,146835,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank OZK,164651,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+CB&S Bank,164698,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+First Citizens Bank & Trust,34737,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+New York Community Bank,55298,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Investec Bank Plc,13554,United Kingdom,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,1
+IDB Bank,56903,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+AgChoice Farm Credit,103361,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Capital Bank NA,60367,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Rabobank,11096,Netherlands,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+FirstBank Florida,111795,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+American AG Credit FLCA,118456,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Generate Capital Inc,124520,United States,,2021,1
+Northern Trust Co,34537,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Eastern Bank Ltd,137286,Bangladesh,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Compeer Financial,135902,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Horizon Farm Credit,169776,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+High Plains Farm Credit ACA,170911,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Greenstone Farm Credit Services,171433,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Huntington Bank,17131,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank United,45678,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+ING Bank,11660,Netherlands,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Farm Credit Bank of Texas,50000,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+First Hawaiian Bank,51055,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Cobank ACB,51412,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Central Pacific Bank,52562,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+United FCS,56183,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+First Florida Bank,56870,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+American AgCredit ACA,58751,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+American Agcredit PCA,76342,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Atlantic Capital Bank,61668,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+AG Credit,80572,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Greenstone Farm Credit Services FLCA,82904,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank Hapoalim BM,97263,Israel,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Israel Discount Bank Ltd [IDB],98639,Israel,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Mabrey Bank,126428,United States,"European Bank, US Bank",2021,1
+Commerce Bank NA,52309,United States,"European Bank, US Bank",2021,1
+Vast Bank,154183,United States,"European Bank, US Bank",2021,1
+Firstbank Southwest,161577,United States,"European Bank, US Bank",2021,1
+UMB Bank,52946,United States,US Bank,2021,1
+Desjardins Capital Markets,103043,Canada,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+BayernLB,10858,Germany,"Canadian Bank, European Bank, US Bank",2021,1
+Customers Bank,113348,United States,"Business Corporation, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+NBH Bank NA,113691,United States,"Business Corporation, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Hitachi Capital America Corp,115589,United States,"Business Corporation, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Jefferies Financial Group Inc,120870,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,1
+Swedbank AB [Ex-ForeningsSparbanken AB],12249,Sweden,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+BancorpSouth Bank,122664,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+TIAA FSB Holdings Inc,140299,United States,"Business Corporation, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+First Financial Bank,77777,United States,US Bank,2021,1
+Owl Rock Capital Corp,127196,United States,"Asset Manager, BDC",2021,1
+JPMorgan Chase Bank National Association,108563,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Live Oak Bank,142907,United States,US Bank,2021,1
+First Foundation Bank,144667,United States,"Business Corporation, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Blue Owl Capital Corp [Ex - Owl Rock Capital Corp],127196,United States,"Asset Manager, BDC",2021,1
+Raymond James Bank NA,111253,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+MS Capital Partners Adviser Inc,171730,United States,"Asset Manager, Private Equity",2021,1
+Trust Bank Ltd,19988,Bangladesh,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Stifel Nicolaus & Co,139761,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Stifel Bank & Trust,56733,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,1
+Boston Private Financial Holdings Inc,39983,United States,US Bank,2021,1
+IberiaBank,47387,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of New York Mellon,50203,United States,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+TCW Asset Management Co,77522,United States,,2021,1
+KKR Capital Markets,55825,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,1
+KKR Capital Markets LLC,55825,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,1
+UMB Bank NA,52947,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Enterprise Bank & Trust Co,90454,United States,,2021,1
+Galatioto Sports Partners,59390,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Boston Private Bank & Trust,59990,United States,"Diversified Financial Services Company, US Bank",2021,1
+First South Farm Credit ACA,85593,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services",2021,1
+Jefferies Finance LLC,60862,United States,"Asian Bank, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Crescent Capital Group LP,126646,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Pacific Premier Bank,130824,United States,"Japanese Bank, US Bank",2021,1
+Alter Domus US LLC,153769,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Northwestern Mutual,136678,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+IDB Invest,144098,United States,Development Finance Institution,2021,1
+Regions,119466,United States,"Canadian Bank, European Bank, Farm Credit Bank, US Bank",2021,1
+Maranon Capital LP,55290,United States,"Asset Manager, Canadian Bank",2021,1
+Farmers & Merchant Bank,87033,United States,Multinational Investment Bank & Financial Services,2021,1
+Macquarie Capital USA Inc,113399,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Macquarie Capital (USA) Inc,120780,United States,"Asian Bank, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+JPMorgan Chase Bank,17666,United States,Multinational Investment Bank & Financial Services,2021,1
+Merchants Bank of Indiana,157041,United States,US Bank,2021,1
+OTP Bank CJSC,19926,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+BankFinancial,156965,United States,Canadian Bank,2021,1
+Agricultural Bank of China New York,108983,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Popular Bank,123814,United States,US Bank,2021,1
+Metropolitan Commercial Bank,134573,United States,US Bank,2021,1
+Veritex Community Bank,138186,United States,US Bank,2021,1
+Dominion Bank,61188,United States,US Bank,2021,1
+Independent Bank (TIB),32226,United States,US Bank,2021,1
+Lake Forest Bank & Trust,53070,United States,US Bank,2021,1
+Blackstone Holdings Finance Co LLC,89652,United States,"Asset Manager, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Amarillo National Bank,53112,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Manufacturers Bank,50208,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Madison Capital Funding LLC,66286,United States,"Canadian Bank, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,1
+DNB Capital LLC,113764,United States,"European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+TD Securities,16412,Canada,"Canadian Bank, Farm Credit Bank, US Bank",2021,1
+First Independence Bank,167023,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Capital One Bank,46962,United States,"Canadian Bank, Farm Credit Bank, US Bank",2021,1
+Northwest Bank & Trust Co,30403,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Inter-American Development Bank,48190,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Siemens Financial Services Inc,71442,United States,"Diversified Financial Services Company, European Bank",2021,1
+Credit Agricole de la Touraine et du Poitou,157989,United States,European Bank,2021,1
+Valley National Bank,50512,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Manufacturers and Traders Trust Company,118934,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Manufacturers & Traders Trust Co,24589,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Banco Banorte,48694,United States,"Canadian Bank, European Bank, Farm Credit Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Howard Bank,49665,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+NYCB Specialty Finance Company LLC,109476,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Wells Fargo Securities LLC,118702,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Beal Bank SSB,92618,United States,"Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Apollo Global Management,92746,United States,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Banco Pichincha,21108,United States,"European Bank, Latin America & Caribbean Bank",2021,1
+Morgan Stanley MUFG Loan Partners LLC,60963,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Banco Bancrea SA,112704,United States,"European Bank, Latin America & Caribbean Bank",2021,1
+Fidus Investment Corp,154599,United States,Asian Bank,2021,1
+Banco Base SA Institucion de Banca,157210,United States,"European Bank, Latin America & Caribbean Bank",2021,1
+Morgan Stanley Senior Funding Inc,69677,United States,"Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Leaders Bank,52630,United States,Canadian Bank,2021,1
+Apple Bank for Savings,59494,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Washington Federal Savings Bank,92959,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of Oklahoma,20992,United States,US Bank,2021,1
+Metropolitan Tower Life Insurance Company,113793,United States,"European Bank, US Bank",2021,1
+PineBridge Investments,57064,United States,"Asset Manager, Diversified Financial Services Company",2021,1
+National Bank of Indianapolis,57751,United States,US Bank,2021,1
+Arvest Bank,90419,United States,US Bank,2021,1
+Bastion Funding IV LLC,157000,United States,Multinational Investment Bank & Financial Services,2021,1
+Jefferies & Co,45483,United States,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,1
+New York Green Bank,125730,United States,"Asian Bank, European Bank, Japanese Bank, US Bank",2021,1
+Northern Trust Corp,12941,United States,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+EKF Danmarks Eksportkredit,151161,United States,"European Bank, Government Sponsored Lender",2021,1
+Bank of Texas NA,62037,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Heritage Bank SSB,75373,United States,Canadian Bank,2021,1
+Amegy Bank NA,49942,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Ares Commercial Finance,129705,United States,,2021,1
+California Bank & Trust,48989,United States,"Diversified Financial Services Company, US Bank",2021,1
+Civista Bank,121114,United States,US Bank,2021,1
+Riyad Bank Houston Agency,122250,United States,"African Bank, Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Governor & Co of the Bank of Ireland,37325,United States,"European Bank, US Bank",2021,1
+VNB New York,132414,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Axos Bank,149089,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+International Finance Corporation(IFC),153150,United States,"Development Finance Institution, Government Sponsored Lender, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Montreal Chicago,54483,United States,"African Bank, Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Blackstone Group Inc,48987,United States,"Multinational Investment Bank & Financial Services, Private Equity",2021,1
+National Bank of Kuwait International,98390,Kuwait,"African Bank, Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Jefferies Group Inc,45484,United States,Multinational Investment Bank & Financial Services,2021,1
+KCM Capital Partners LLC,140729,United States,Multinational Investment Bank & Financial Services,2021,1
+Pentagon Federal Credit Union,153655,United States,Multinational Investment Bank & Financial Services,2021,1
+Itau Corpbanca,153860,United States,"Canadian Bank, European Bank, Latin America & Caribbean Bank",2021,1
+Cathay Bank,52281,United States,US Bank,2021,1
+Deutsche Bank Securities Inc,50214,United States,"African Bank, Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Nationwide Bank,136488,United States,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Export Import Bank of the United States,14099,United States,Export-Import Bank/ECA,2021,1
+OceanFirst Bank,142353,United States,"European Bank, Middle Eastern Bank, US Bank",2021,1
+Intesa Sanpaolo SpA New York Branch,103822,United States,"African Bank, Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bayerische Landesbank GZ,10860,Germany,"European Bank, Japanese Bank, US Bank",2021,1
+Old Mutual Life Assurance Company,121601,United States,African Bank,2021,1
+Wilmington Trust National Association,109182,United States,"Diversified Financial Services Company, Private Equity",2021,1
+Flushing Bank,105086,United States,US Bank,2021,1
+CIBC [Canadian Imperial Bank of Commerce],12302,Canada,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bankers Trust Co,16736,United States,"Canadian Bank, US Bank",2021,1
+Montgomery Bank,110493,United States,"Canadian Bank, US Bank",2021,1
+MVB Bank Inc,121719,United States,"Asian Bank, US Bank",2021,1
+Muzinich & Co,124101,United States,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bankwell Financial Group,144069,United States,"Asian Bank, US Bank",2021,1
+Solera Bank,152803,United States,US Bank,2021,1
+Cliffwater LLC,156754,United States,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Blue Owl Capital Inc,162620,United States,"Asset Manager, Canadian Bank, US Bank",2021,1
+Dime Community Bank,167787,United States,US Bank,2021,1
+Everbank NA,183900,United States,US Bank,2021,1
+TCF Financial Corp,23887,United States,"Canadian Bank, US Bank",2021,1
+Alberta Treasury Branches,33197,Canada,"Canadian Bank, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,1
+HSBC Bank Canada,13264,Canada,"Asian Bank, Canadian Bank, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Investors Bank & Trust Co,50765,United States,US Bank,2021,1
+Dime Commercial Corp,66742,United States,US Bank,2021,1
+Cambridge Savings Bank,79756,United States,US Bank,2021,1
+WSFS Bank,80687,United States,US Bank,2021,1
+Wilmington Savings Fund Society,87204,United States,US Bank,2021,1
+Bank Hapolin,97262,Israel,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank Leumi Trust,68336,United States,US Bank,2021,1
+Israel Discount Bank of New York Inc [IDBNY],52643,United States,"Asian Bank, US Bank",2021,1
+Situs Asset Management Ltd,114252,United States,"Asset Manager, European Bank, Japanese Bank",2021,1
+Compass Bank,38705,United States,US Bank,2021,1
+ServisFirst Bank,55409,United States,US Bank,2021,1
+Century Bank,89600,United States,US Bank,2021,1
+Alliance Partners,109377,United States,"Asset Manager, Japanese Bank, US Bank",2021,1
+Teachers Insurance and Annuity Association of America,133379,United States,"Japanese Bank, US Bank",2021,1
+Centennial Bank,181472,United States,"Japanese Bank, US Bank",2021,1
+Centennial Bank Holdings Inc,49596,United States,"Asset Manager, Japanese Bank, US Bank",2021,1
+Riyadh Bank,58009,United States,Middle Eastern Bank,2021,1
+Neuberger Berman Group LLC,103336,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,1
+Wheaton Bank & Trust,113380,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Neuberger Berman Inc,42632,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,1
+Goldman Sachs Mortgage Co,122529,United States,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bridge Bank NA,47678,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Brown Brothers Harriman & Co,77773,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Wilmington Trust Co,1666,United States,"European Bank, US Bank",2021,1
+Starwood Capital Group,57051,United States,,2021,1
+Wilmington Bank,55289,United States,,2021,1
+Deutsche Bank AG New York Branch,11283,Germany,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of China LA Branch,57434,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+CenterState Bank,139805,United States,"Canadian Bank, US Bank",2021,1
+SouthState Bank NA,177049,United States,"Canadian Bank, US Bank",2021,1
+Heartland Financial USA Inc,48952,United States,"Canadian Bank, US Bank",2021,1
+People's Bank,23078,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Bank of Blue Valley,59026,United States,"Canadian Bank, US Bank",2021,1
+JP Morgan Securities Plc,135289,United States,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Hamburg Commercial Bank AG,145967,United States,"European Bank, US Bank",2021,1
+Oldenburgische Landesbank AG,147649,Germany,"European Bank, US Bank",2021,1
+Sparkasse KolnBonn,16322,Germany,"European Bank, US Bank",2021,1
+Pacific Western Bank,88609,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+MidCap Financial Trust,120662,United States,Asset Manager,2021,1
+Hercules Capital Inc,129019,United States,,2021,1
+Inmomutua Madrilena SLU,129946,United States,"European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Quadra Gestao de Recursos,154387,United States,,2021,1
+BP Oil International Ltd,157965,United States,Other,2021,1
+TPG Capital,56156,United States,"Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Santa Lucia National Bank,64085,United States,"European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Banco Ve por Mas,106758,United States,"Canadian Bank, European Bank, Latin America & Caribbean Bank",2021,1
+Emigrant Bank,50425,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+GLAS USA LLC,139518,United States,"European Bank, Multinational Investment Bank & Financial Services, Other",2021,1
+TCG Senior Funding,145812,United States,"Asset Manager, Private Equity",2021,1
+First Eagle Bank,62694,United States,"BDC, Diversified Financial Services Company",2021,1
+State Street Bank & Trust Co,17121,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Principal Life Insurance Co,45415,United States,Asset Manager,2021,1
+Audax Group LP,51655,United States,"Asset Manager, Canadian Bank, Diversified Financial Services Company",2021,1
+Cantor Fitzgerald Securities,57163,United States,Asset Manager,2021,1
+Sterling Group,60774,United States,Asset Manager,2021,1
+Bancaribe Curacao Bank NV,103981,United States,"Asian Bank, Diversified Financial Services Company, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Oquendo Capital,128041,United States,,2021,1
+HIG WhiteHorse,119464,United States,"Asset Manager, European Bank",2021,1
+Fortress Credit Corp,64296,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,1
+CAL Bank,104118,Ghana,"African Bank, Asian Bank, US Bank",2021,1
+China Merchants Bank New York,101932,United States,Asian Bank,2021,1
+New York Life Investment Management LLC,59535,United States,US Bank,2021,1
+Wesbanco Bank Inc,90375,United States,"Asian Bank, US Bank",2021,1
+Carlyle Group Inc,51172,United States,"European Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+First Security Bancorp,134960,United States,"Canadian Bank, US Bank",2021,1
+First Security Bank NA,13526,United States,"Canadian Bank, US Bank",2021,1
+Old Second National Bank,169497,United States,"Canadian Bank, US Bank",2021,1
+Alcentra Capital Corp,114779,United States,Asset Manager,2021,1
+Societe Generale Bank & Trust [SGBT],114148,Luxembourg,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+BNP Paribas (Suisse) SA,18546,Switzerland,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Byline Bank,119902,United States,US Bank,2021,1
+Pinnacle Bank,104348,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+State Bank of India Johannesburg,149528,United States,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Kish Bank,157789,United States,Canadian Bank,2021,1
+Bank of New York,50202,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Hancock Bank,77767,United States,"Asset Manager, Diversified Financial Services Company",2021,1
+ICBC International Holdings Ltd,134181,Hong Kong,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+BioPharma Credit PLC,158059,United States,,2021,1
+US Bancorp,27016,United States,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+BOKF NA,53847,United States,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Mediobanca SpA,58830,Italy,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Aperture Media Partners,122837,United States,"Asian Bank, US Bank",2021,1
+First Caribbean International Bank (Bahamas) Limited,126866,United States,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Citicorp International Ltd,49725,United States,"Asian Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Benefit Street Partners,105838,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Other, Private Equity, US Bank",2021,1
+Credit Agricole Bank Polska,145396,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+ASR Levensverzekering NV,153092,United States,"Diversified Financial Services Company, European Bank",2021,1
+Silver Point Finance,73623,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Other, Private Equity, US Bank",2021,1
+Apogem Capital,169678,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Other, Private Equity, US Bank",2021,1
+TCF National Bank,51681,United States,US Bank,2021,1
+Carlyle Group LP,131968,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Other, Private Equity, US Bank",2021,1
+Audax Private Debt LLC,155526,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Other, Private Equity, US Bank",2021,1
+Fulton Bank,51668,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Apollo Global Funding LLC,173451,United States,"Asset Manager, Multinational Investment Bank & Financial Services, Other, Private Equity, US Bank",2021,1
+Scor SE,146699,United States,"Asian Bank, Canadian Bank, Development Finance Institution, European Bank, Japanese Bank",2021,1
+Goldman Sachs International Ltd,43195,United States,Multinational Investment Bank & Financial Services,2021,1
+Frost National Bank,43872,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Greenstone Capital,78605,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Agcountry Farm Credit Services FLCA,85371,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,1
+Barings BDC Inc,144318,United States,"Asset Manager, Canadian Bank",2021,1
+First US Bank,157907,United States,European Bank,2021,1
+Gulf Capital Bank,158704,United States,US Bank,2021,1
+First Commonwealth Bank,53698,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,1
+Graycliff Partners LP,154463,United States,US Bank,2021,1
+Bank Leumi USA,52837,United States,"Asian Bank, European Bank, US Bank",2021,1
+Scotia Bank,29285,Canada,"Canadian Bank, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+PennantPark Investment Corp,114872,United States,"Asset Manager, BDC, European Bank",2021,2
+Houlihan Lokey Inc,121465,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+MetLife Investments,128635,United States,,2021,2
+Willow Tree Credit Partners,150114,United States,"Asset Manager, BDC, European Bank",2021,2
+SPC Financing Co LLC,155482,United States,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,2
+Blackstone Capital Partners LLP,49959,United States,"Canadian Bank, Multinational Investment Bank & Financial Services",2021,2
+Peoples Bank,53372,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Stone Point Capital,65461,United States,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,2
+State Street Bank & Trust,17120,United States,"Australian/New Zealand Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Coast Capital,103261,United States,"Asian Bank, Canadian Bank, Credit Union, US Bank",2021,2
+Hudson Cove Capital Management,158159,United States,Multinational Investment Bank & Financial Services,2021,2
+General Bank of Canada,158942,United States,"Asian Bank, Canadian Bank, Credit Union, US Bank",2021,2
+Concentra Bank,158944,United States,"Asian Bank, Canadian Bank, Credit Union, US Bank",2021,2
+Preferred Bank,60429,United States,"Asian Bank, European Bank, Japanese Bank, US Bank",2021,2
+Hitachi Capital Corp Japan,92544,Japan,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Helia Conseil,158435,United States,European Bank,2021,2
+Habib Bank Dubai branch,105179,United Arab Emirates,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Deutsche Bank AG London,10886,United Kingdom,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Pasha Bank OJSC,108493,Azerbaijan,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Apollo Bank,116974,United States,"Canadian Bank, Multinational Investment Bank & Financial Services",2021,2
+Habib Bank Ltd,120911,Pakistan,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+ICBC Turkey Bank A.S.,136403,Turkey,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Twin Brook Capital,121274,United States,Asset Manager,2021,2
+Jordan Commercial Bank,132506,Jordan,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Citibank NA Sydney,43841,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Bank of America Australia,10651,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+BPER Bank Luxembourg SA,158349,Luxembourg,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+HBL Bank UK,158363,United Kingdom,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Morgan Stanley Bank International Ltd,137648,United Kingdom,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Emirates NBD Bank PJSC,26060,United Arab Emirates,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Goldman Sachs International Bank,51731,United States,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Sumitomo Mitsui Banking Corp Sydney,146229,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+BNP Paribas Australia,13205,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital ABS Funding 2021-1 Ltd,158586,United States,"Asset Manager, BDC, Diversified Financial Services Company",2021,2
+Dollar Bank,73797,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Greenstone Farm Credit Services ACA/FLCA,104023,United States,"Canadian Bank, Farm Credit Bank, US Bank",2021,2
+Rabo Agrifinance Inc,55458,United States,"Canadian Bank, Farm Credit Bank, US Bank",2021,2
+UBS AG Australia,11204,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Farm Credit Mid-America PCA,111424,United States,"Canadian Bank, Farm Credit Bank, US Bank",2021,2
+JP Morgan Chase Bank Sydney,20540,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Macquarie Capital Principal Finance,158283,United States,,2021,2
+American Bank NA,52615,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Bank Mandiri,127185,Indonesia,"Asia-Pacific Bank, Foreign Bank, US Bank, Western European Bank",2021,2
+CrossFirst Bank,113392,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Chambers Bank,149603,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Dart Bank,163172,United States,US Bank,2021,2
+BancorpSouth,18079,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+First Midwest Bancorp,36390,United States,"Canadian Bank, US Bank",2021,2
+Key Bank NA,26205,United States,US Bank,2021,2
+Farm Credit Services of America FLCA,122266,United States,"Canadian Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Capital Farm Credit,78593,United States,"Canadian Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Agribank FCB,90688,United States,"Canadian Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Aareal Bank,11080,Germany,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+ICBC New York,128377,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Intesa Sanpaolo Bank Ireland,145887,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Lake City Bank,62693,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Landesbank,118897,Germany,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+Rockland Trust,111800,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+Apollo Global Securities,103319,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+Darby International Capital,158668,United States,,2021,2
+Regions Capital Markets,118805,United States,"Asian Bank, Asset Manager, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+North American Development Bank,66461,United States,,2021,2
+Berenberg Bank,76984,United States,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Nevada State Bank,52272,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Chatham Asset Management,127939,United States,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,2
+CBAM Partners,143929,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,2
+Canadian Imperial Bank of Commerce London,148552,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+RM Funds,158546,United States,,2021,2
+Monroe Capital Private Credit Fund IV Financing SPV II SCSp,164039,United States,"Asset Manager, Diversified Financial Services Company",2021,2
+Premier Bank,59342,United States,US Bank,2021,2
+Flagstar Bancorp,108640,United States,"Asian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+BankPlus,110441,United States,"Canadian Bank, Farm Credit Bank, US Bank",2021,2
+National Exchange Bank & Trust,115723,United States,"Canadian Bank, US Bank",2021,2
+Farm Credit West FLCA,118444,United States,"Canadian Bank, Farm Credit Bank, US Bank",2021,2
+Northwest Farm Credit Services PCA,83172,United States,"Canadian Bank, Farm Credit Bank, US Bank",2021,2
+Palatine Bank & Trust [PBT],85874,United States,"European Bank, US Bank",2021,2
+Bank Gaborone,159101,United States,"African Bank, Asian Bank, Development Finance Institution, European Bank, Japanese Bank",2021,2
+QNB Bank,55295,United States,"African Bank, Asian Bank, Development Finance Institution, European Bank, Japanese Bank",2021,2
+Amalgamated Bank,53437,United States,European Bank,2021,2
+Rabobank NA,108876,United States,"Diversified Financial Services Company, European Bank, Government Sponsored Lender, Multinational Investment Bank & Financial Services, US Bank",2021,2
+UBS Switzerland AG,133839,Switzerland,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Amerant Bank,146542,United States,"Diversified Financial Services Company, European Bank, Government Sponsored Lender, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Raiffeisen Bank International AG,130293,Austria,"Diversified Financial Services Company, European Bank, Government Sponsored Lender, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Unicredit Bank Austria AG,23272,United States,European Bank,2021,2
+Emprise Bank NA,70269,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Farm Credit East,58144,United States,"European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Gordon Brothers Group LLC,59289,United States,Australian/New Zealand Bank,2021,2
+Devon Bank,71297,United States,US Bank,2021,2
+Illimity Bank SpA,145052,United States,,2021,2
+California Bank of Commerce,158956,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Blackstone Inc,171444,United States,"Asset Manager, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+Blackstone Capital Partners LP,49959,United States,"BDC, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Other, Private Equity",2021,2
+Golub Capital Markets,166177,United States,"BDC, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Other, Private Equity",2021,2
+Sparkasse Zollernalb,158682,United States,European Bank,2021,2
+Bain Capital Credit [ex- Sankaty Advisors LLC],71428,United States,"Asset Manager, BDC, Diversified Financial Services Company",2021,2
+New Mountain Finance Corp,115178,United States,"Asset Manager, BDC, Diversified Financial Services Company",2021,2
+Kommunalkredit International Bank Ltd,93398,Cyprus,"European Bank, US Bank",2021,2
+Infrastructure Company Pty Ltd,24598,Australia,"European Bank, US Bank",2021,2
+Midfirst Bank,49945,United States,US Bank,2021,2
+UBS AG Stamford Branch,48437,United States,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Federated Project and Trade Finance Core Fund,134962,United States,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Federated Project and Trade Finance Tender Fund,136185,United States,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Azania Bank Ltd,158757,United States,,2021,2
+SLR Business Credit,158925,United States,,2021,2
+CVC,176792,United States,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+Crescent Direct Lending LLC,118357,United States,"Asset Manager, Canadian Bank",2021,2
+BancFirst Corp,23678,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Banque Populaire Mediterranee,152938,United States,European Bank,2021,2
+Banner Bank,53516,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,2
+Nationwide Mutual Insurance Co,47081,United States,,2021,2
+Columbia State Bank,50150,United States,US Bank,2021,2
+BNP Paribas BIBF,98220,France,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Sterling Bank,51407,United States,"European Bank, US Bank",2021,2
+TD Asset Management Inc,143157,United States,,2021,2
+Sumitomo Mitsui Financial Group Inc,55526,Japan,"Diversified Financial Services Company, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Oak Hill Advisors LP,139890,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,2
+Sixth Street Partners LLC,157333,United States,Multinational Investment Bank & Financial Services,2021,2
+Pacific Mercantile Bank,61140,United States,,2021,2
+Everbank Commercial Finance Inc,120161,United States,"Asian Bank, Canadian Bank, US Bank",2021,2
+Georgia Banking Co,160584,United States,"Canadian Bank, US Bank",2021,2
+Lakeside Bank,160786,United States,"Canadian Bank, European Bank, US Bank",2021,2
+US Bank National Association,32998,United States,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Old National Bancorp /IN/,13515,United States,"Canadian Bank, European Bank, US Bank",2021,2
+Synovus Financial Corp,57348,United States,"Canadian Bank, European Bank, US Bank",2021,2
+Hanmi Bank,98033,South Korea,"Canadian Bank, European Bank, US Bank",2021,2
+Carver Federal Savings Bank,51044,United States,Multinational Investment Bank & Financial Services,2021,2
+Societe Generale BIBF,100586,France,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Highland Bank,112167,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Red River Bank,115463,United States,"Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Abn Amro Asset Based Finance NV,158930,United States,Middle Eastern Bank,2021,2
+TCF Bank Minnesota,75680,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+First Midwest,121311,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+S&T Bank,53818,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Golub Capital Finance Funding LLC,121052,United States,"BDC, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+East West,80658,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+MNG Enterprises Inc,159043,United States,,2021,2
+KKR & Co Inc,52484,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+Rivage Euro Debt Infrastructure 3,148880,United States,Development Finance Institution,2021,2
+Aviva Infrastructure Debt Europe I SA,148937,United States,Development Finance Institution,2021,2
+Frost Bank,45717,United States,"Asian Bank, US Bank",2021,2
+Doha Bank QSC,10360,Qatar,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,2
+Citigroup Global Markets Inc,48798,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Citibank SA,58480,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Federated Hermes Family of Funds,153113,United States,"Asian Bank, European Bank, Latin America & Caribbean Bank",2021,2
+Blackstone Inc,48987,United States,"Asset Manager, Private Equity, US Bank",2021,2
+Halyk Savings Bank of Kazakhstan JSC [HSBK],5996,Kazakhstan,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,2
+One National Bank,75162,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Inland Bank,114673,United States,US Bank,2021,2
+Provident Bank,48133,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Meridian Bank,50286,United States,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services",2021,2
+Tristate Capital Bank,60748,United States,US Bank,2021,2
+PNC Capital Corp,72270,United States,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+PGIM Inc [FKA Prudential Investment Management Inc],58245,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Prudential Insurance Co of America,22469,United States,Canadian Bank,2021,2
+Mission Bank,57366,United States,Canadian Bank,2021,2
+CIC Co Ltd,88142,Japan,"Diversified Financial Services Company, European Bank, US Bank",2021,2
+UBS Asset Management Inc,131916,United States,,2021,2
+SPC Capital Markets LLC,159233,United States,"BDC, Canadian Bank, Diversified Financial Services Company, Japanese Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,2
+Sera Global Securities US LLC,159275,United States,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Brookfield Capital Solutions LLC,176905,United States,"Asian Bank, Asset Manager, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Guggenheim Partners Investment Management,62393,United States,"Asset Manager, Diversified Financial Services Company, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,2
+Origin Bank,125561,United States,US Bank,2021,2
+Independent Bank Corp,164541,United States,US Bank,2021,2
+WebBank,52907,United States,US Bank,2021,2
+American Stock Transfer & Trust Co Inc,88588,United States,"Asian Bank, Canadian Bank, European Bank",2021,2
+"Svenska Handelsbanken AB, New York Branch",104753,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Svenska Handelsbanken AB (publ) [SHBA],10500,Sweden,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Sanpaolo IMI SpA,86424,Italy,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+BNP Capital Markets,100443,France,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Mercedes-Benz Financial Services USA LLC,101710,United States,"Business Corporation, US Bank",2021,2
+International Monetary Fund [IMF],120655,United States,,2021,2
+Commercial Bank,139601,Qatar,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+RCB Bank Ltd,148583,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital Private Credit Versailles Master Fund SCSp SICAV-RAIF,169317,United States,"Asset Manager, Diversified Financial Services Company",2021,2
+Rosbank OJSC,51409,Russian Federation,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Annaly Middle Market Lending LLC,132567,United States,"Canadian Bank, Diversified Financial Services Company, US Bank",2021,2
+Washington Federal Inc,124983,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+BankUnited Inc,133433,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Eclipse Business Capital LLC,160989,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Pinnacle Financial Partners Inc,125355,United States,US Bank,2021,2
+Camden National Bank,120832,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Bangor Savings Bank,121212,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Farm Credit Services of America,68822,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Union Bank of India (UK),171975,United States,"Asian Bank, European Bank",2021,2
+Partners for Growth Inc,159727,United States,Multinational Investment Bank & Financial Services,2021,2
+Liberty Bank,45264,United States,"Canadian Bank, US Bank",2021,2
+Morton Community Bank,49751,United States,"Canadian Bank, US Bank",2021,2
+Cassa di Risparmio di Orvieto Spa,159963,United States,European Bank,2021,2
+Nomura Corporate Funding Americas LLC,63665,United States,Japanese Bank,2021,2
+SunTrust Bank,49246,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+CIT Group Inc,1616,United States,US Bank,2021,2
+United Community Bank,110102,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO 2017-1 Ltd,140137,Cayman Islands,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO VI Ltd,140145,Cayman Islands,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO VII Ltd,140147,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+China Construction Bank [ex-People's Construction Bank of China],14111,China,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO VIII Ltd,142629,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe (NP) US Private Debt Fund LP,147909,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO XI Ltd,156794,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO IX Ltd,156821,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO X Ltd,156822,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO XII Ltd,160288,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Monroe Capital MML CLO XIII Ltd,160292,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,2
+SBI Canada Bank,160339,United States,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Sun Life Assurance Co of Canada,13105,Canada,"Asian Bank, Insurance Company, US Bank",2021,2
+Artemid Senior Loan II,148309,United States,"Diversified Financial Services Company, European Bank, Insurance Company",2021,2
+GBC Bancorp,24039,United States,"Asian Bank, US Bank",2021,2
+Northwest Savings Bank,101920,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,2
+Banco Leon,103605,United States,,2021,2
+Summit Community Bank,105317,United States,US Bank,2021,2
+Salem Five Bank,106176,United States,US Bank,2021,2
+Monroe Capital Private Credit Versailles Master Fund SCSp,159478,United States,"Asset Manager, BDC",2021,2
+Fiera Private Debt Fund VI LP,159872,United States,Canadian Bank,2021,2
+Owl Rock Technology Finance Corp,160264,United States,,2021,2
+Mega International Commercial Bank Public Co Ltd,24752,Thailand,"Asian Bank, US Bank",2021,2
+WesBanco Inc,50727,United States,US Bank,2021,2
+Farallon Capital Management LLC,50957,United States,"Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Atradius Credit Insurance NV,54458,United States,"Asian Bank, European Bank, Insurance Company, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Liberty Mutual Insurance Co,56129,United States,"Asian Bank, European Bank, Insurance Company, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Banco Popular de Puerto Rico,45427,United States,,2021,2
+Simmons Bank,135973,United States,"Canadian Bank, US Bank",2021,2
+Bain Capital LLC,51981,United States,"Asset Manager, Australian/New Zealand Bank",2021,3
+Goldman Sachs (Asia) Ltd,52921,United States,Private Equity,2021,3
+B Riley Securities Inc,159873,United States,,2021,3
+Rocky Mountain Bank,161721,United States,US Bank,2021,3
+American Savings Bank,23064,United States,"Asian Bank, Canadian Bank, US Bank",2021,3
+Stifel Financial Corp,35830,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Webster Business Credit Corp,67452,United States,"Canadian Bank, European Bank",2021,3
+AB Private Credit Investors LLC,129170,United States,"Asset Manager, BDC, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Private Equity",2021,3
+Bank of China London,13810,China,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Industrial & Commercial Bank of China London,35911,China,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+United Overseas Bank London,45832,United Kingdom,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Allied Irish Bank,54430,United States,"European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Carlyle Global Partners,146354,United States,Multinational Investment Bank & Financial Services,2021,3
+Metlife Bank NA,88572,United States,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Cassa Rurale di Bolzano Sc,160123,United States,European Bank,2021,3
+Africa Growing Together Fund [AGTF],144652,United States,,2021,3
+ResponsAbility Investments AG,150573,United States,Diversified Financial Services Company,2021,3
+MetLife,61731,United States,"Canadian Bank, European Bank, Insurance Company, Multinational Investment Bank & Financial Services, Private Equity",2021,3
+Wood Forest National Bank,77784,United States,US Bank,2021,3
+FNB,16264,South Africa,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Sabcapital SA de CV SOFOM ER,125171,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Banco Santander (Suisse) SA,32061,Switzerland,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+HSBC UK Bank Plc,148442,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+American Bank of Missouri,124548,United States,"Canadian Bank, US Bank",2021,3
+China Co-financing Fund for Latin America & the Caribbean,146068,United States,"Business Corporation, Development Finance Institution, Other",2021,3
+Bank of Missouri,152843,United States,"Canadian Bank, US Bank",2021,3
+Busey Bank,60036,United States,"Canadian Bank, US Bank",2021,3
+Bank of Ceylon Ltd [BOC],14522,Sri Lanka,"Development Finance Institution, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Raiffeisenbank (Bulgaria) EAD,97833,Bulgaria,"Development Finance Institution, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Fairwinds Credit Union,135520,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+United Texas Bank,146378,United States,Multinational Investment Bank & Financial Services,2021,3
+MS Capital Advisor,161172,United States,"Asset Manager, Diversified Financial Services Company, Private Equity",2021,3
+Amegy,121282,United States,US Bank,2021,3
+Blackstone Mortgage Trust Inc,145153,United States,,2021,3
+Apollo Commercial Real Estate Finance Inc,145337,United States,,2021,3
+Commerce Bancorp Inc,92420,United States,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Northwest Farm Credit Services,83556,United States,"European Bank, Farm Credit Bank, US Bank",2021,3
+Union Bank NA,55889,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+BBVA Bancomer,10452,Mexico,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Citicorp North America Inc,51189,United States,"Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,3
+ICF Bank AG,156330,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Whitney Bank,105831,United States,"Diversified Financial Services Company, US Bank",2021,3
+SCOR Global Investments,107975,France,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,3
+Banca Generali SpA,144831,Italy,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,3
+Edmond de Rothschild Suisse SA,144849,Switzerland,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,3
+Polish Development Fund [PFR],160215,United States,European Bank,2021,3
+Infranity SAS,171166,France,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,3
+MapleMark Bank,138972,United States,US Bank,2021,3
+Stride Bank,145374,United States,US Bank,2021,3
+Washington Financial Bank,115593,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Oriental Bank,38508,Malaysia,"Asian Bank, European Bank, US Bank",2021,3
+Farm Credit Services Commercial Finance,86693,United States,"Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+R Seelaus & Co LLC,170594,United States,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Bank of Hawaii,34534,United States,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+TPG Capital LP,56156,United States,"Asian Bank, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,3
+Investec Group Ltd,9247,South Africa,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Susser Bank,160505,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+Broadway Bank,160760,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+Heartland Bank,51392,United States,US Bank,2021,3
+Norddeutsche Landesbank GZ New York,50359,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+DBS Bank London,45642,United Kingdom,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Wells Fargo Bank International (WFBI),132974,Ireland,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+First Bank Puerto Rico,21637,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Federated Life Insurance Co,58132,United States,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+Banco Lafise Panama,115492,Panama,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Banco Ficohsa,116365,Honduras,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Banco Internacional de Costa Rica SA,25767,Panama,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Towerbank International Inc,121587,Panama,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+BAC International Bank Inc,26335,Panama,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Metrobank SA,125199,Panama,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Mercantil Banco,139715,Venezuela,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Mercantil Bank,136015,United States,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+BPR Bank,160764,United States,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+MMG Bank Corp,160777,United States,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Multibank Panama,22884,Panama,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Prival Bank,23112,Panama,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Banco Popular Inc,64837,United States,"Asian Bank, European Bank, Latin America & Caribbean Bank, US Bank",2021,3
+Capital Southwest Co,128329,United States,,2021,3
+Village Bank,105183,United States,"Canadian Bank, Multinational Investment Bank & Financial Services",2021,3
+HSBC Bank Oman SAOG,143798,United States,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Village Bank & Trust NA,167777,United States,"Canadian Bank, Multinational Investment Bank & Financial Services",2021,3
+Columbia Bank,50667,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+Owl Rock Capital Partners LP,136958,United States,"Asset Manager, BDC, European Bank, Private Equity",2021,3
+SLR Investment Corp,160581,United States,"Asset Manager, BDC, European Bank, Private Equity",2021,3
+ING Capital Corp,52089,United States,"Canadian Bank, European Bank",2021,3
+Goldman Sachs Lending Partners LLC,57167,United States,"Asian Bank, Canadian Bank, Development Finance Institution, Multinational Investment Bank & Financial Services",2021,3
+Southside Bank,122807,United States,US Bank,2021,3
+Huntington Bancshares,17317,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+American National Bank of Texas,61874,United States,US Bank,2021,3
+AFC Gamma Inc,159504,United States,,2021,3
+Intensa Sanpaolo SPA New York,55235,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Bar Harbor Bank & Trust,139502,United States,US Bank,2021,3
+Eurobank Ergasias Services & Holdings SA,160533,United States,European Bank,2021,3
+Goldman Sachs BDC Inc,110599,United States,"Asset Manager, BDC",2021,3
+BlackRock Capital Investment Corporation,62061,United States,"Asset Manager, BDC",2021,3
+Fonds de solidarite FTQ,132999,United States,,2021,3
+Stadt und Kreis Sparkasse Leipzig,156101,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+GKB Ventures Ltd,160706,United States,,2021,3
+SD Capital Advisory Ltd,160725,United States,,2021,3
+Caterpillar Financial Services Corp,31820,United States,"Asian Bank, Canadian Bank, Diversified Financial Services Company, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Caterpillar Finance Corp,52999,United States,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Citizens National Bank,115462,United States,"European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Bank America Securities Inc,80591,United States,Multinational Investment Bank & Financial Services,2021,3
+Valley Republic Bank,161223,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Bryant Bank,104955,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+SouthPoint Bank,122670,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+Sabadell Bank,108817,United States,"Canadian Bank, European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,3
+CommerceOne Bank,160974,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+Oakworth Capital Bank,161017,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+Robertson Banking Co,161066,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+West Alabama Bank & Trust,174075,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+River Bank & Trust,174081,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+First National Bank of Omaha,48306,United States,"European Bank, Farm Credit Bank, Japanese Bank, US Bank",2021,3
+Union Bank & Trust Co,61696,United States,"European Bank, Farm Credit Bank, Japanese Bank, US Bank",2021,3
+Park National Bank,65366,United States,US Bank,2021,3
+Burling Bank,136286,United States,"Canadian Bank, US Bank",2021,3
+Belmont Bank & Trust,147834,United States,"Canadian Bank, US Bank",2021,3
+First Eagle Alternative Credit,153972,United States,,2021,3
+Freedom Bank,167728,United States,European Bank,2021,3
+Synovous,163979,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Ares Capital Management LLC,182068,United States,"Asian Bank, Asset Manager, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,3
+Citywide Banks,70813,United States,US Bank,2021,3
+Middlesex Savings Bank,120275,United States,"Asset Manager, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Apple Bank,186058,United States,"Asset Manager, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Seacoast National Bank,55523,United States,Asian Bank,2021,3
+Blue Torch Capital,152427,United States,"Asset Manager, Private Equity",2021,3
+Camco Clean Energy,160787,United States,,2021,3
+Charles Schwab Corp,48134,United States,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Project & Trade Finance Core Fund,160821,United States,"Asian Bank, Middle Eastern Bank",2021,3
+Federated Hermes Project and Trade Finance Primary Loan Fund,160829,United States,"Asian Bank, Middle Eastern Bank",2021,3
+Atlantic Forfaiting Co Ltd,125340,United States,"African Bank, Asian Bank, Development Finance Institution, European Bank, Multinational Investment Bank & Financial Services",2021,3
+WhiteHorse Finance Inc,124657,United States,,2021,3
+American National Bank,53048,United States,US Bank,2021,3
+Silver Point Capital,156153,United States,"Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,3
+People's Trust Bank,140550,United States,Canadian Bank,2021,3
+Peoples Bank NA,23077,United States,"Canadian Bank, US Bank",2021,3
+Scotia Capital,14682,Canada,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Bank of China New York,23411,China,"Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Standard Chartered Bank New York,19557,United Kingdom,"Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+ING Bank NV Dublin Branch,118304,Ireland,"Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Bank of Tokyo-Mitsubishi UFJ Ltd [BTMU],46801,Japan,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Johnson Bank NA,53661,United States,"Canadian Bank, US Bank",2021,3
+Australian & New Zealand Bank Group (New York),55450,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Texas Partners Bank,161616,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+Credit Suisse New York,20109,United States,"Asian Bank, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Berkshire Bank,52270,United States,US Bank,2021,3
+Loop Capital Markets LLC,114864,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+China Construction Bank Corporation New York Branch,123259,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+SVB Financial Group,144984,United States,"Asian Bank, Canadian Bank, Development Finance Institution, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Stonepeak Partners LP,151742,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+FVCBank,160963,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,3
+Raymond James Bank FSB,73235,United States,"Canadian Bank, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Bank of North Dakota,41543,United States,"Canadian Bank, Diversified Financial Services Company, Multinational Investment Bank & Financial Services, US Bank",2021,3
+First National Bank & Trust,53072,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,3
+Sixth Street Specialty Lending Inc,155183,United States,,2021,4
+Northwest Farm Credit Services FLCA,118291,United States,"Farm Credit Bank, US Bank",2021,4
+Mega Bank,106689,Taiwan,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Veritas Capital,67370,United States,"Asset Manager, BDC, Diversified Financial Services Company, Private Equity",2021,4
+Saudi National Bank,161725,United States,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+The National Bank of Ras Al-Khaimah (PSC),162021,United States,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Canadian Imperial Bank of Commerce New York,27230,Canada,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Deutsche Bank New York,11282,Germany,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Banco Bilbao Vizcaya Argentaria (New York),55793,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Credit Suisse AG New York Branch,121941,United States,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Southern Bancorp Bank,161907,United States,"Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Washington Trust,51021,United States,US Bank,2021,4
+Banca UBAE,57953,United States,"Development Finance Institution, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Pacific Investment Management Co,50283,United States,,2021,4
+IQ Credit Union,124574,United States,"Canadian Bank, Credit Union",2021,4
+Fidelity Bank Plc [Nigeria],104073,Nigeria,"African Bank, US Bank",2021,4
+Sunlife Holdings LLC,115727,United States,US Bank,2021,4
+Sun Life Financial Inc,12701,Canada,"Business Corporation, US Bank",2021,4
+SEB AG,13362,Germany,"Canadian Bank, European Bank, Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Intesa Sanpaolo SpA [ex-Banca Intesa SpA],69227,Italy,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Access Bank Plc,78800,Nigeria,"African Bank, US Bank",2021,4
+DZ Bank AG [Ex-Deutsche Genissenschaftsbank AG],10544,Germany,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+PJT Partners Holdings LP,122533,United States,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+NatWest Markets Plc,166524,United Kingdom,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+International Bank of Azerbaijan JSC [IBA],10097,Azerbaijan,"African Bank, Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,4
+Al Ahli Bank of Kuwait KSCP,101369,Kuwait,"African Bank, Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other, US Bank",2021,4
+Whitehorse Capital Management LLC,139947,United States,Multinational Investment Bank & Financial Services,2021,4
+Green Bank,57074,United States,European Bank,2021,4
+Farm Credit East ACA,118460,United States,"Farm Credit Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Kayne Anderson Capital,84307,United States,"Asset Manager, Multinational Investment Bank & Financial Services",2021,4
+First Commercial Bank Los Angeles,89961,United States,Asian Bank,2021,4
+Craig-Hallum Capital Group LLC,148344,United States,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services",2021,4
+West Texas National Bank,55262,United States,"Asian Bank, US Bank",2021,4
+First Mid Bank & Trust,162131,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Northbrook Bank & Trust Co,57999,United States,"Canadian Bank, US Bank",2021,4
+Goldman Sachs Credit Partners LP,64313,United States,Canadian Bank,2021,4
+Midland States Bank,67543,United States,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Banque Rhone Alpes SA,149030,United States,European Bank,2021,4
+TREC II,161769,United States,,2021,4
+EagleBank,124709,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,4
+Allied Bank Bahrain,155119,Bahrain,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+BlueOrchard Microfinance Fund,149826,United States,"European Bank, Government Sponsored Lender, Japanese Bank",2021,4
+Emirates Development Bank,161851,United States,Middle Eastern Bank,2021,4
+Bank of Albuquerque NA,78302,United States,US Bank,2021,4
+BankUnited FSB,45677,United States,US Bank,2021,4
+Cargill Financial Services Corp,64543,United States,"European Bank, Government Sponsored Lender, Japanese Bank",2021,4
+First Independent Bank,58759,United States,Multinational Investment Bank & Financial Services,2021,4
+Thoma Bravo Credit Fund II LP,168349,United States,"Asset Manager, Diversified Financial Services Company, Multinational Investment Bank & Financial Services",2021,4
+CNB Financial,44588,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,4
+TCG BDC Inc,134931,United States,"Asset Manager, BDC, European Bank",2021,4
+Eagle Bancorp,73709,United States,US Bank,2021,4
+Mercuria Energy Trading Inc,57359,United States,,2021,4
+ESL Federal Credit Union,148565,United States,"Diversified Financial Services Company, US Bank",2021,4
+Five Star Bank,55354,United States,"Diversified Financial Services Company, US Bank",2021,4
+Oak Hill Capital Management Inc,88296,United States,Private Equity,2021,4
+Vancity Community Investment Bank,162042,United States,,2021,4
+Oxford Finance LLC,117436,United States,US Bank,2021,4
+Security National Bank of Omaha,162814,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,4
+TPG BD Finance LP,179596,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Metropolitan Life Insurance Co,1930,United States,"Australian/New Zealand Bank, Canadian Bank, European Bank, Insurance Company, Multinational Investment Bank & Financial Services, Private Equity",2021,4
+ANZ Bank (US),25181,United States,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+ArcLight Capital Partners LLC,89548,United States,Multinational Investment Bank & Financial Services,2021,4
+Credit Agricole (Suisse) SA,21393,Switzerland,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Citibank Ltd,86797,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,4
+BMO/Harris Bank,88871,United States,"Diversified Financial Services Company, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Credit Europe Bank (Suisse) SA,21780,Switzerland,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Lincoln Bank,52486,United States,"Asian Bank, Asset Manager, Australian/New Zealand Bank, Business Corporation, Canadian Bank, European Bank, Farm Credit Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Bell Bank,148894,United States,"Canadian Bank, US Bank",2021,4
+Bell Capital Finance,172945,United States,"Canadian Bank, US Bank",2021,4
+Wisconsin Bank & Trust,163936,United States,"Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Commerzbank Aktiengesellschaft,57189,United States,"African Bank, Asian Bank, Australian/New Zealand Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank",2021,4
+Avenue Capital Group,127023,United States,,2021,4
+Caisse de depot et placement du Quebec,16222,Canada,"Asset Manager, Canadian Bank, US Bank",2021,4
+SharpVue Capital,169864,United States,Asian Bank,2021,4
+First Womens Bank,73615,United States,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Haymarket Insurance Co,163616,United States,Diversified Financial Services Company,2021,4
+Oak Hill Capital Partners,7026,United States,"BDC, Canadian Bank",2021,4
+Modern Bank,89181,Indonesia,"Farm Credit Bank, US Bank",2021,4
+ESun Commercial Bank Ltd,48744,United States,Asian Bank,2021,4
+Patriot Capital IV A LP,172601,United States,Asian Bank,2021,4
+Al Khaliji France SA,132511,France,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Banco Santander SA New York,62906,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Aurelius Finance Company Ltd,162126,United States,,2021,4
+Lloyds Bank London,23367,United Kingdom,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Sparebank 1 SR Bank ASA,164770,United States,,2021,4
+Caja de Ahorros,163393,United States,"Asian Bank, Canadian Bank, European Bank, Japanese Bank",2021,4
+National Bank of Arizona,57297,United States,US Bank,2021,4
+Sparkasse Spree-Neisse,147225,United States,European Bank,2021,4
+Eksportfinansiering Norge,163117,United States,European Bank,2021,4
+Bank of Hapoalim,136485,Israel,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+First Capital Bank Zimbabwe Ltd,162682,United States,African Bank,2021,4
+Northrim Bank,40599,United States,"Asian Bank, Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+WoodTrust Bank,162386,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Bank of Communications Sydney,146532,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, Development Finance Institution, European Bank, US Bank",2021,4
+Targobank SA,163643,United States,"European Bank, Latin America & Caribbean Bank",2021,4
+Dime Saving Bank of New York,88250,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Toyota Motor Credit Corp,19496,United States,"Business Corporation, US Bank",2021,4
+Pinnacle National Bank,101768,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Landesbank Baden-Wurttemberg New York Branch,20571,Germany,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+CTBC Bank New York,110352,United States,Asian Bank,2021,4
+E Sun Commercial Bank Los Angeles,146680,United States,Asian Bank,2021,4
+First Tennessee Bank,29835,United States,"Asian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Valley Bank & Trust,88787,United States,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Export-Import Bank of the United States of America,92775,United States,,2021,4
+Paragon Mortgage Corp,163384,United States,,2021,4
+Alerus Financial Corp,167618,United States,US Bank,2021,4
+MidCountry Bank,55640,United States,US Bank,2021,4
+Marine Bank,66013,United States,"Canadian Bank, US Bank",2021,4
+CIGNA Investments,78308,United States,Asset Manager,2021,4
+Deutsche Bank Trust Co Americas,54986,United States,Canadian Bank,2021,4
+Blackstone Advisory Partners LP,145425,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,4
+Farmer Mac,54520,United States,"Business Corporation, Canadian Bank, Farm Credit Bank, US Bank",2021,4
+Centier Bank,65369,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,4
+Bank of America Corp,15449,United States,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Fidelity Direct Lending Fund LP,164149,United States,"Asset Manager, Canadian Bank",2021,4
+Bridge Funding Group Inc,167951,United States,"Asian Bank, Canadian Bank, US Bank",2021,4
+Goldman Sachs Group Inc,26805,United States,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Nicolet National Bank,57605,United States,"Canadian Bank, US Bank",2021,4
+BNG Bank NV,143017,United States,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+International Bank of Commerce,79179,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,4
+Third Eye Capital,162518,United States,,2021,4
+Lord Abbett Private Credit Fund,181470,United States,"Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,4
+Benefit Street Partners LLC,182979,United States,"Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,4
+Mitsubishi Bank Ltd,53707,Japan,"Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Z Capital Inc,75225,United States,"Canadian Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,4
+Choice Bank,162833,United States,US Bank,2021,4
+Midwest Bank,163200,United States,US Bank,2021,4
+Merchants Bank NA,50029,United States,US Bank,2021,4
+Prospect Capital Corp,56066,United States,"Asian Bank, European Bank",2021,4
+Royal Bank of Scotland Plc [US],58369,United States,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+BHD International Bank Panama,125739,United States,"Asian Bank, Japanese Bank, Latin America & Caribbean Bank, US Bank",2021,4
+Canandaigua National Bank & Trust,127465,United States,US Bank,2021,4
+Bancaribe International Bank Inc,163005,United States,"Asian Bank, Latin America & Caribbean Bank",2021,4
+Tri Counties Bank,167315,United States,"European Bank, Multinational Investment Bank & Financial Services, US Bank",2021,4
+Security Benefit Life Insurance Co,44960,United States,"Asset Manager, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,4
+BAC Florida Bank,55083,United States,"Asian Bank, Japanese Bank, Latin America & Caribbean Bank, US Bank",2021,4
+MidCap Financial Investment Corp (fka 	Apollo Investment Corp),171954,United States,Asset Manager,2021,4
+Stone Point Credit Corp,163600,United States,Asset Manager,2021,4
+MidWestOne Bank,162992,United States,Canadian Bank,2021,4
+SmartBank,53523,United States,US Bank,2021,4
+FCBank,121563,United States,US Bank,2021,4
+Sun West Bank,51750,United States,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+First Source Bank,58998,United States,"Canadian Bank, US Bank",2021,4
+Southwest Bank,72802,United States,US Bank,2021,4
+Republic Bank,49970,United States,"Canadian Bank, US Bank",2021,4
+Midcap Funding IV Trust,124552,United States,Asset Manager,2021,4
+Knuru Capital,163294,United States,,2021,4
+Wilton Re Ltd,171336,United States,Private Equity,2021,4
+Arizona Bank,33382,United States,"Canadian Bank, US Bank",2021,4
+Employers Reassurance Corp,59575,United States,Private Equity,2021,4
+Independent Bankshares,63982,United States,"Asian Bank, US Bank",2021,4
+Intermediate Capital Group PLC [ICG],7071,United Kingdom,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services, Other, Private Equity, US Bank",2021,4
+Academy Bank NA,115452,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,4
+Muzinich European Private Debt Fund,148408,United States,European Bank,2021,4
+Hatton National Bank,15013,Sri Lanka,"Asian Bank, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity, US Bank",2021,4
+Banco G&T Continental,155176,United States,Latin America & Caribbean Bank,2021,4
+Unibank SA,163222,United States,Latin America & Caribbean Bank,2021,4
+Enterprise Bank NA,121718,United States,Canadian Bank,2021,4
+Bank Ireland,75024,United States,"Diversified Financial Services Company, US Bank",2021,4
+Sachsische Aufbaubank,163650,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Investitionsbank Sachsen-Anhalt,163654,United States,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Desjardins Florida Branch,139208,United States,Canadian Bank,2021,4
+Delaware Life Insurance Co,164142,United States,"Asset Manager, Business Corporation",2021,4
+Hinsdale Bank,73246,United States,"Canadian Bank, US Bank",2021,4
+Horizon Bank,52886,United States,"Canadian Bank, European Bank, Farm Credit Bank, US Bank",2021,4
+Green Stone Farm Credit,56163,United States,"Canadian Bank, European Bank, Farm Credit Bank, US Bank",2021,4
+Bank of Sun Prairie,133082,United States,US Bank,2021,4
+Cornerstone Bank,137364,United States,"Multinational Investment Bank & Financial Services, US Bank",2021,4
+LandMark Credit Union,162918,United States,US Bank,2021,4
+Needham Bank,162986,United States,US Bank,2021,4

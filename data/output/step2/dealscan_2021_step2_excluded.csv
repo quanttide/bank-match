@@ -1,0 +1,2155 @@
+Lender_Name,Lender_Id,Lender_Operating_Country,Lender_Institution_Type,year,quarter
+Canadian Imperial Bank of Commerce,12303,Canada,"Canadian Bank, Diversified Financial Services Company",2021,1
+Agricultural Bank of China,11002,China,Asian Bank,2021,1
+Agricultural Bank of China Guizhou,111071,China,Asian Bank,2021,1
+Agricultural Bank of China Nanjing,119623,China,Asian Bank,2021,1
+Bank of China Guizhou,117075,China,Asian Bank,2021,1
+Bank of China Jiangsu Branch,11778,China,Asian Bank,2021,1
+Bank of China Shanghai Branch,11780,China,Asian Bank,2021,1
+China Merchants Bank Co Ltd,11784,China,Asian Bank,2021,1
+Shanghai Pudong Development Bank,13254,China,Asian Bank,2021,1
+Shanghai Pudong Development Bank Nanjing,20484,China,Asian Bank,2021,1
+Otera Capital Inc,133284,Canada,"Canadian Bank, Diversified Financial Services Company",2021,1
+Northern Australian Infrastructure Facility,141558,Australia,Government Sponsored Lender,2021,1
+Standard Chartered Bank Plc [SCB],14558,United Kingdom,"European Bank, Middle Eastern Bank",2021,1
+China Minsheng Banking Corp,14711,China,Asian Bank,2021,1
+Bank of Communications Shanghai,40246,China,Asian Bank,2021,1
+Bank of Ningbo,19270,China,Asian Bank,2021,1
+Dubai Islamic Bank PSJ,23629,United Arab Emirates,"European Bank, Middle Eastern Bank",2021,1
+Postal Savings Bank of China,24216,China,Asian Bank,2021,1
+Banco da Amazonia SA,27037,Brazil,Foreign Bank,2021,1
+Commercial Bank of Dubai PSC,29077,United Arab Emirates,"European Bank, Middle Eastern Bank",2021,1
+HSBC Shanghai,39245,China,Asian Bank,2021,1
+China Development Bank Guizhou,106468,China,Asian Bank,2021,1
+Mashreqbank psc,9248,United Arab Emirates,"European Bank, Middle Eastern Bank",2021,1
+Export-Import Bank of China [China Eximbank],9558,China,Asian Bank,2021,1
+Emirates NBD Capital Ltd,119644,United Arab Emirates,"European Bank, Middle Eastern Bank",2021,1
+Australia & New Zealand Banking Group Ltd [ANZ],10476,Australia,"Australian/New Zealand Bank, Canadian Bank",2021,1
+DZ Bank AG,10543,Germany,"Australian/New Zealand Bank, European Bank",2021,1
+Export Development Bank of Canada,39113,Canada,"Asian Bank, Canadian Bank",2021,1
+DBS Bank Ltd,10854,Singapore,European Bank,2021,1
+Commerzbank AG,11279,Germany,European Bank,2021,1
+National Bank of Canada,11354,Canada,"Asian Bank, Canadian Bank",2021,1
+Hua Nan Commercial Bank Ltd,12080,Taiwan,Asian Bank,2021,1
+Bank of China Ltd,11773,China,Asian Bank,2021,1
+Bank of China Sichuan Branch,17519,China,Asian Bank,2021,1
+Landesbank Hessen-Thuringen GZ [Helaba],11847,Germany,European Bank,2021,1
+Bank Albilad,118785,Saudi Arabia,Middle Eastern Bank,2021,1
+Land Bank of Taiwan,12292,Taiwan,Asian Bank,2021,1
+Taiwan Business Bank,12462,Taiwan,Asian Bank,2021,1
+Bank of Kaohsiung Ltd,12463,Taiwan,Asian Bank,2021,1
+Chang Hwa Commercial Bank,13040,Taiwan,Asian Bank,2021,1
+First Commercial Bank,19525,Taiwan,Asian Bank,2021,1
+China Construction Bank [CCB],14108,China,Asian Bank,2021,1
+China Construction Bank SiChuan Branch,20290,China,Asian Bank,2021,1
+Taiwan Cooperative Bank,14761,Taiwan,Asian Bank,2021,1
+Toronto Dominion Bank,14846,Canada,"Asian Bank, Canadian Bank",2021,1
+Jiangsu Haimen Rural Commercial Bank,157917,China,Asian Bank,2021,1
+Bank of Communications,146477,China,Asian Bank,2021,1
+Bank of Nanjing,17043,China,Asian Bank,2021,1
+Bank of Taiwan,17729,Taiwan,Asian Bank,2021,1
+Royal Bank of Canada,11142,Canada,"Australian/New Zealand Bank, Canadian Bank",2021,1
+Ping An Bank,17235,China,Asian Bank,2021,1
+Industrial Bank Co Ltd (China),31122,China,Asian Bank,2021,1
+ING Bank NV,11662,Netherlands,European Bank,2021,1
+HSBC Bank Plc,10903,United Kingdom,"Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Commonwealth Bank of Australia,44923,Australia,"Australian/New Zealand Bank, European Bank",2021,1
+UniCredit Bank AG,119541,Germany,European Bank,2021,1
+China Development Bank [CDB],9096,China,Asian Bank,2021,1
+Credit Lyonnais SA,127198,France,European Bank,2021,1
+Credit Agricole Corporate & Investment Bank SA [Credit Agricole CIB],97222,France,European Bank,2021,1
+Caisse Regionale de Credit Agricole Mutuel de Paris et d'Ile de France,99003,France,European Bank,2021,1
+Societe Generale SA,97329,France,European Bank,2021,1
+BNP Paribas SA,98068,France,European Bank,2021,1
+Natixis SA,98442,France,European Bank,2021,1
+Caixabank SA,102711,Spain,European Bank,2021,1
+Union Bank of Taiwan,11533,Taiwan,Asian Bank,2021,1
+State Bank of India Tokyo,38441,India,Asian Bank,2021,1
+Tai Fung Bank,13966,Hong Kong,"Asian Bank, Japanese Bank",2021,1
+CMB Wing Lung Bank Ltd,142044,Hong Kong,"Asian Bank, Japanese Bank",2021,1
+Industrial & Commercial Bank of China,12714,China,Asian Bank,2021,1
+Export-Import Bank of the Republic of China,12661,Taiwan,Asian Bank,2021,1
+Danske Bank A/S,12736,Denmark,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Shin Kong Commercial Bank,29619,Taiwan,Asian Bank,2021,1
+Silver Colt Opportunity Ltd,156411,Australia,,2021,1
+Bank of Jiangsu Nantong,105133,China,Asian Bank,2021,1
+Taichung Commercial Bank,19537,Taiwan,Asian Bank,2021,1
+Bank SinoPac,15335,Taiwan,"Asian Bank, Japanese Bank",2021,1
+Mega International Commercial Bank Co Ltd,18731,Taiwan,Asian Bank,2021,1
+Sumitomo Mitsui Banking Corp,31824,Japan,"Asian Bank, Japanese Bank",2021,1
+Siemens Bank GmbH,26530,Germany,European Bank,2021,1
+Sumitomo Mitsui Trust Bank Ltd,103322,Japan,"Asian Bank, Japanese Bank",2021,1
+Caisse Centrale Desjardins,10928,Canada,Canadian Bank,2021,1
+Barclays Bank Plc,11130,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+DNB Bank ASA,103815,Norway,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Agricultural Bank of China Hong Kong Branch,13429,Hong Kong,Asian Bank,2021,1
+Agricultural Bank of China Jiangsu Branch,19046,China,Asian Bank,2021,1
+KfW IPEX-Bank GmbH,28488,Germany,European Bank,2021,1
+China Construction Bank Jiangsu Branch,21482,China,Asian Bank,2021,1
+ICICI Bank,17587,India,Asian Bank,2021,1
+Huaxia Bank,19262,China,Asian Bank,2021,1
+Scandinaviska Enskilda Banken (SEBank),11310,Sweden,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+IndusInd Bank Ltd,15422,India,Asian Bank,2021,1
+China Citic Bank,16052,China,Asian Bank,2021,1
+Nordea Bank AB,16858,Norway,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+CIMB Bank Bhd,14068,Malaysia,"Asian Bank, European Bank",2021,1
+Bank of Shanghai,36381,China,Asian Bank,2021,1
+Lloyds Bank Plc,13762,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+MUFG Bank Ltd,138429,Japan,"Asian Bank, Japanese Bank",2021,1
+Svenska Handelsbanken AB (publ),10501,Sweden,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Handelsbanken Capital Markets,15813,Sweden,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Deutsche Bank AG,10669,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of East Asia Ltd,11393,Hong Kong,Asian Bank,2021,1
+Banco Bilbao Vizcaya Argentaria SA [BBVA],11460,Spain,European Bank,2021,1
+Banco Santander SA,11671,Spain,"Asian Bank, European Bank",2021,1
+Malayan Banking Bhd,12203,Malaysia,Asian Bank,2021,1
+Dah Sing Bank Ltd,12340,Hong Kong,Asian Bank,2021,1
+China Everbright Bank Hong Kong,108899,Hong Kong,Asian Bank,2021,1
+OP Corporate Bank Plc,128282,Finland,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bankinter SA,12787,Spain,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Chang Hwa Commercial Bank Ltd,13041,Taiwan,Asian Bank,2021,1
+Shanghai Pudong Development Bank Hong Kong Branch,22354,China,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Chong Hing Bank,13431,Hong Kong,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Cathay United Bank,12290,Taiwan,Asian Bank,2021,1
+JP Morgan Hong Kong,39080,Hong Kong,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Skandinaviska Enskilda Banken AB [SEB],11314,Sweden,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of England,152167,United Kingdom,European Bank,2021,1
+Jiangsu Jurong Rural Commercial Bank,157261,China,Asian Bank,2021,1
+China Citic Bank International,20689,China,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Communications Hong Kong,14486,Hong Kong,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Jiangsu,19056,China,Asian Bank,2021,1
+Agricultural Bank of Taiwan,25755,Taiwan,Asian Bank,2021,1
+Industrial Bank Co Ltd Hong Kong,120823,Hong Kong,Asian Bank,2021,1
+Bank of Shanghai (Hong Kong) Ltd,112785,Hong Kong,Asian Bank,2021,1
+Caja Rural de Navarra,42316,Spain,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Resona Bank Ltd,48918,Japan,Asian Bank,2021,1
+Shoko Chukin Bank,48828,Japan,Asian Bank,2021,1
+Mitsubishi UFJ Financial Group Inc,49511,Japan,"Asian Bank, European Bank",2021,1
+Raiffeisen Bank International AG [RBI],51170,Austria,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+UBS AG,11126,Switzerland,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Northleaf Capital Partners Ltd,117611,Canada,"Asset Manager, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Kartesia Advisor LLP,119410,United Kingdom,Diversified Financial Services Company,2021,1
+Delight Time Opportunity V Ltd,156535,Australia,,2021,1
+Nomura Holdings Inc,52495,Japan,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+UniCredito Italiano SpA,47979,Italy,European Bank,2021,1
+Intesa Sanpaolo SpA [ISP],69226,Italy,European Bank,2021,1
+Banca Nazionale del Lavoro SpA [BNL],58819,Italy,European Bank,2021,1
+Daisan Bank,54404,Japan,"Asian Bank, Japanese Bank",2021,1
+Bank of Suzhou,108591,China,Asian Bank,2021,1
+Kiraboshi Bank Ltd,139273,Japan,"Asian Bank, Japanese Bank",2021,1
+Chiba Bank Ltd,36406,Japan,"Asian Bank, Japanese Bank",2021,1
+Shokochukin Bank,48827,Japan,"Asian Bank, Japanese Bank",2021,1
+Al Rajhi Banking & Investment Corp [RBIC],46275,Saudi Arabia,Middle Eastern Bank,2021,1
+EnTie Commercial Bank,11534,Taiwan,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Fubon Bank (Hong Kong) Ltd,13251,Hong Kong,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Bank of China (Hong Kong) Ltd,14887,Hong Kong,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Nanyang Commercial Bank Ltd,127169,Hong Kong,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Land Bank of Taiwan Hong Kong,43444,Taiwan,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Hang Seng Bank Ltd,12711,Hong Kong,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Bangkok Bank Hong Kong,11392,Hong Kong,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Bank of Communications offshore unit,119362,China,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Ajman Bank PJSC,20930,United Arab Emirates,Middle Eastern Bank,2021,1
+Bank Sinopac Hong Kong,23195,Hong Kong,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Luso International Bank,44721,Macao,"Asia-Pacific Bank, Corporation, Foreign Bank, Other, Western European Bank",2021,1
+Guangzhou Rural Commercial Bank,105652,China,Asian Bank,2021,1
+Landesbank Baden-Wurttemberg [LBBW],10670,Germany,,2021,1
+Bayerische Landesbank GZ [BayernLB],10857,Germany,,2021,1
+UBS Securities LLC,22172,Switzerland,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Croatian Bank for Reconstruction & Dvlpt [HBOR] [Hrvatska Bk Obnovu i Rzvk],11667,Croatia,European Bank,2021,1
+Development Bank of Japan Inc,12939,Japan,Japanese Bank,2021,1
+Banco BPM SpA,130707,Italy,European Bank,2021,1
+Bank of Jiangsu Wuxi,102216,China,Asian Bank,2021,1
+Erste Bank AG,46241,Austria,European Bank,2021,1
+Iyo Bank Ltd,50268,Japan,Japanese Bank,2021,1
+UniCredit,57267,Italy,European Bank,2021,1
+Sberbank OJSC [Savings Bank of the Russian Federation],7131,Russian Federation,European Bank,2021,1
+BDO Unibank,110333,Philippines,Asian Bank,2021,1
+Bank of the Philippine Islands,93692,Philippines,Asian Bank,2021,1
+CTBC Bank Co Ltd,109582,Taiwan,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+RK Mine Finance,111263,United Kingdom,,2021,1
+NatWest Markets,17606,United Kingdom,European Bank,2021,1
+Hua Nan Commercial Bank Sydney Branch,144133,Australia,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+Turkiye Garanti Bankasi AS,9011,Turkey,Asian Bank,2021,1
+State Bank of India Sydney,136325,Australia,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+Ziraat Katilim Bankasi,124610,Turkey,Asian Bank,2021,1
+United Overseas Bank Ltd,12979,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+Financiera de Desarrollo Nacional,130796,Colombia,"Development Finance Institution, Diversified Financial Services Company, Japanese Bank",2021,1
+Japan Bank for International Cooperation,13119,Japan,Export-Import Bank/ECA,2021,1
+European Investment Bank [EIB],13355,Luxembourg,European Bank,2021,1
+Corporacion Andina de Fomento [CAF],15840,Venezuela,"Development Finance Institution, Diversified Financial Services Company, Japanese Bank",2021,1
+Banco de Bogota SA,16802,Colombia,"Development Finance Institution, Diversified Financial Services Company, Japanese Bank",2021,1
+ING,104608,Netherlands,European Bank,2021,1
+Corporacion Interamericana para el Financiamiento de Infraestructuras SA,43172,Panama,,2021,1
+Mega International Commercial Bank Offshore Banking Branch,25404,Taiwan,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+IMI - Intesa Sanpaolo,153334,Spain,,2021,1
+Korea Development Bank London,97191,South Korea,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+Banco Portugues de Investimento SA [BPI],97515,Portugal,European Bank,2021,1
+Deutsche Bank AG Singapore Branch,15350,Singapore,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank",2021,1
+Bank of Tianjin,107361,China,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank",2021,1
+Shanghai Rural Commercial Bank,108089,China,Asian Bank,2021,1
+Agricultural Bank of China Shanghai,15709,China,Asian Bank,2021,1
+Rabobank NV,11098,Netherlands,European Bank,2021,1
+China Merchants Bank Shanghai,40542,China,Asian Bank,2021,1
+China Guangfa Bank,120286,China,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank",2021,1
+Industrial & Commercial Bank of China Shanghai,18069,China,Asian Bank,2021,1
+Maybank Kim Eng Securities (Hong Kong) Ltd,152433,Hong Kong,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank",2021,1
+China Everbright Bank,12528,China,Asian Bank,2021,1
+United Overseas Bank,12978,Singapore,Asian Bank,2021,1
+Shanghai Pudong Development Bank Shanghai,114559,China,Asian Bank,2021,1
+China Construction Bank Shanghai,13824,China,Asian Bank,2021,1
+Hua Xia Bank Co Ltd,14312,China,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank",2021,1
+Envy Flair Opportunity V Ltd,156572,Australia,,2021,1
+Oversea-Chinese Banking Corp Ltd [OCBC],17269,Singapore,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank",2021,1
+Morgan Stanley Bank AG,21942,Germany,Multinational Investment Bank & Financial Services,2021,1
+ABN AMRO Bank NV,45978,Netherlands,European Bank,2021,1
+Nomura Securities Co Ltd,47025,Japan,"Canadian Bank, Diversified Financial Services Company, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Macquarie Group Ltd,8791,Australia,"Canadian Bank, Diversified Financial Services Company, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+China Development Bank Shanghai,110174,China,Asian Bank,2021,1
+Union Bank of the Philippines,93361,Philippines,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Rizal Commercial Banking Corp,93512,Philippines,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Banco Comercial Portugues Macau,44553,Macao,Asian Bank,2021,1
+Natixis Hong Kong Branch,23192,Hong Kong,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank",2021,1
+La Banque Postale SA,101709,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Deutsche Bank AG Luxembourg,11082,Luxembourg,European Bank,2021,1
+Agricultural Bank of China (UK) Ltd,129553,United Kingdom,"Asian Bank, European Bank, Japanese Bank",2021,1
+BPCE SA,126437,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Sparkasse Rhein-Maas,142881,Germany,European Bank,2021,1
+Volksbank an der Niers eG,142901,Germany,European Bank,2021,1
+Jiangsu Suzhou Rural Commercial Bank Co Ltd,145948,China,Asian Bank,2021,1
+NRW BANK,14798,Germany,European Bank,2021,1
+Toronto-Dominion Bank,138579,Canada,Canadian Bank,2021,1
+Envy Flair Opportunity VIII Ltd,156611,Australia,,2021,1
+Nordea Bank Norge ASA,11114,Norway,European Bank,2021,1
+Kommunalkredit Austria AG,21004,Austria,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Aozora Bank,26224,Japan,"Asian Bank, European Bank, Japanese Bank",2021,1
+Shinsei Bank Ltd,33020,Japan,"Asian Bank, European Bank, Japanese Bank",2021,1
+Hokuriku Bank Ltd,33789,Japan,"Asian Bank, Japanese Bank",2021,1
+Bank of Yokohama,36017,Japan,"Asian Bank, Japanese Bank",2021,1
+Norddeutsche Landesbank GZ [NordLB],18381,Germany,European Bank,2021,1
+Higashi-Nippon Bank,47620,Japan,Japanese Bank,2021,1
+Bank of Fukuoka Ltd,47643,Japan,Japanese Bank,2021,1
+Howa Bank,49605,Japan,Japanese Bank,2021,1
+Higo Bank,54061,Japan,Japanese Bank,2021,1
+Sumitomo Mitsui Banking Corp Europe Ltd [SMBCE],97552,France,European Bank,2021,1
+Toyama Bank,65855,Japan,"Asian Bank, Japanese Bank",2021,1
+Kumamoto Daiichi Shinkin,80299,Japan,Japanese Bank,2021,1
+Credit Industriel et Commercial SA [CIC],101531,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Banque Europeenne du Credit Mutuel [BECM],105106,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Banca Popolare dell'Emilia Romagna SCRL [BPER],58834,Italy,European Bank,2021,1
+Union Bank of India,15842,India,Asian Bank,2021,1
+Qatar Islamic Bank QSC,19232,Qatar,,2021,1
+Taipei Fubon Commercial Bank,16957,Taiwan,Asian Bank,2021,1
+KGI Bank,118227,Taiwan,Asian Bank,2021,1
+Taishin International Bank,13034,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Swedbank AB (publ),12245,Sweden,European Bank,2021,1
+Yuanta Commercial Bank Co Ltd,12466,Taiwan,Asian Bank,2021,1
+Kasikornbank Public Co Ltd,13394,Thailand,Asian Bank,2021,1
+Shanghai Commercial & Savings Bank,13462,Taiwan,Asian Bank,2021,1
+E Sun Commercial Bank Ltd,14383,Taiwan,Asian Bank,2021,1
+E Sun Commercial Bank Hong Kong,39096,Hong Kong,Asian Bank,2021,1
+Jiangsu Yancheng Rural Commercial Bank Co Ltd,153410,China,Asian Bank,2021,1
+International Bills Finance Corp,15868,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+China Bills Finance Corp,16592,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Grand Bills Finance Corp,17348,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Taiwan Finance Corp,22704,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Bank of Panhsin,24299,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Dah Chung Bills Finance Corp,25752,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Norinchukin Bank,43946,Japan,Asian Bank,2021,1
+Mega Bills Finance Corp,18329,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Metropolitan Bank & Trust Co,93598,Philippines,"Asian Bank, Diversified Financial Services Company",2021,1
+Unione di Banche Italiane ScpA [UBI Banca],93707,Italy,"Diversified Financial Services Company, European Bank",2021,1
+Banca Ifis Spa,93781,Italy,"Diversified Financial Services Company, European Bank",2021,1
+Korea Development Bank,97190,South Korea,Asian Bank,2021,1
+Korea Development Bank Asia,98701,South Korea,Asian Bank,2021,1
+Credit Agricole SA,97457,France,European Bank,2021,1
+CDC Group plc,118236,United Kingdom,,2021,1
+Industrial & Commercial Bank of China Ltd [ICBC],12171,China,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+First Abu Dhabi Bank,131723,United Arab Emirates,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Citibank NA London,23374,United Kingdom,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+QNB Finansbank AS,146383,Turkey,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Akbank Turk AS,7069,Turkey,Asian Bank,2021,1
+HSBC Bank Middle East Ltd,18227,United Arab Emirates,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+HSBC Singapore,42176,Hong Kong,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Hiroshima Bank,41793,Japan,"Asian Bank, Japanese Bank",2021,1
+Odea Bank,105298,Turkey,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Momiji Bank,47940,Japan,"Asian Bank, Japanese Bank",2021,1
+77 Bank Ltd,49310,Japan,"Asian Bank, Japanese Bank",2021,1
+Chugoku Bank Ltd,50052,Japan,"Asian Bank, Japanese Bank",2021,1
+Turkiye Vakiflar Bankasi TAO [Vakifbank],6573,Turkey,Asian Bank,2021,1
+Abu Dhabi Commercial Bank PJSC [ADCB],6990,United Arab Emirates,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Alternatifbank AS,8264,Turkey,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Mashreqbank psc [Bahrain],7121,Bahrain,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Turkiye Is Bankasi AS [Isbank],9429,Turkey,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Yapi ve Kredi Bankasi AS [YKB],9432,Turkey,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Nonghyup Bank,103562,South Korea,Asian Bank,2021,1
+Tokyo Star Bank,50945,Japan,Japanese Bank,2021,1
+Toyohashi Shoko Shinkumi,119031,Japan,Japanese Bank,2021,1
+Akita Bank Ltd,123100,Japan,"Government Sponsored Lender, Japanese Bank",2021,1
+Banque Populaire Rives de Paris,98016,France,European Bank,2021,1
+La Banque Postale Asset Management [LBPAM],134234,France,European Bank,2021,1
+Japan Finance Corporation,136837,Japan,"Government Sponsored Lender, Japanese Bank",2021,1
+SP EuroCreances 2020 PME,155652,France,European Bank,2021,1
+KIAMCO Green Power,157593,South Korea,,2021,1
+Multi Asset Hyundai Green Power,157603,South Korea,,2021,1
+PT Bank OCBC NISP Tbk,69246,Indonesia,"Asian Bank, European Bank, Japanese Bank",2021,1
+BMO Capital Markets Financing Inc,18837,Canada,"Asset Manager, Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Postal Savings Bank of China Jiangsu,118627,China,Asian Bank,2021,1
+PT Bank CIMB Niaga Tbk,94211,Indonesia,"Asian Bank, European Bank, Japanese Bank",2021,1
+PT Bank HSBC Indonesia,145777,Indonesia,"Asian Bank, European Bank, Japanese Bank",2021,1
+PT Bank Mizuho Indonesia,94311,Indonesia,"Asian Bank, European Bank, Japanese Bank",2021,1
+Saitama Resona Bank,77559,Japan,"Asian Bank, Japanese Bank",2021,1
+Sumitomo Mitsui Banking Corp Singapore,23332,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,1
+Arai Shinkin Bank,73523,Japan,Japanese Bank,2021,1
+Export-Import Bank of Korea (Kexim),97319,South Korea,Asian Bank,2021,1
+Hyundai Marine & Fire Insurance,97904,South Korea,,2021,1
+BNP Paribas Indonesia,96884,Indonesia,"Asian Bank, European Bank, Japanese Bank",2021,1
+Banco Nacional de Obras y Servicios Publicos SNC,10643,Mexico,"Asian Bank, European Bank, Japanese Bank",2021,1
+Bancomext,10822,Mexico,"European Bank, Latin America & Caribbean Bank",2021,1
+mBank SA,115125,Poland,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Kita Osaka Shinkin Bank,118080,Japan,Asian Bank,2021,1
+Deutsche Investitions und Entwicklungsgesellschaft [DEG],112600,Germany,Development Finance Institution,2021,1
+Caisse d'Epargne et de Prevoyance Ile-de-France,105512,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Caisse d'Epargne et de Prevoyance de Rhone Alpes,119303,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Banque Palatine SA,97874,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Berlin Hyp,128705,Germany,European Bank,2021,1
+MIDF Amanah Investment Bank Bhd,136775,Malaysia,Asian Bank,2021,1
+Banco Nacional De Mexico SA,117448,Mexico,"Asian Bank, European Bank, Japanese Bank",2021,1
+Banamex,27745,Mexico,"European Bank, Latin America & Caribbean Bank",2021,1
+Aware Super Pty Ltd [ex-First State Super],156865,Australia,"Australian/New Zealand Bank, Multinational Investment Bank & Financial Services",2021,1
+OCBC Bank Bangkok,39251,China,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Samba Financial Group,18408,Saudi Arabia,Middle Eastern Bank,2021,1
+Bridgepoint Capital Ltd,21593,United Kingdom,Asset Manager,2021,1
+ORIX Corp,24251,Japan,Asian Bank,2021,1
+CIMB Investment Bank Bhd,129239,Malaysia,Asian Bank,2021,1
+MBSB Bank Bhd,148775,Malaysia,Asian Bank,2021,1
+HSBC France,97520,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Asian Development Bank,47976,Philippines,,2021,1
+Bank of Ayudhya Ltd,14514,Thailand,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Caisse Regionale de Credit Agricole Mutuel Des Savoie,128083,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Le Credit Lyonnais SA [LCL],97889,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Credit du Nord,97322,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank Pekao Tel Aviv,100649,Israel,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+KEB Hana Bank,122364,South Korea,"Asian Bank, European Bank",2021,1
+Capzanine,98817,France,Asset Manager,2021,1
+Arkea Banque Entreprises et Institutionnels,120902,France,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+NH Investment & Securities,97755,South Korea,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Allied Irish Banks Plc [AIB],10750,Ireland,European Bank,2021,1
+Westpac Banking Corp,11013,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+National Australia Bank Ltd [NAB],11024,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+State Bank of India London,17186,India,"Asian Bank, European Bank, Japanese Bank",2021,1
+Laurentian Bank of Canada,11763,Canada,Canadian Bank,2021,1
+Bank of China Suzhou Xiangcheng Sub-Branch,148077,China,Asian Bank,2021,1
+Standard Bank of South Africa Ltd,8868,South Africa,African Bank,2021,1
+Business Development Bank of Canada,13079,Canada,"Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Axis Bank Singapore,130980,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,1
+Credit Agricole Italia SpA,148766,Italy,European Bank,2021,1
+Uco Bank Singapore,38615,India,"Asian Bank, European Bank, Japanese Bank",2021,1
+FirstRand Bank Ltd [FRB],15711,South Africa,African Bank,2021,1
+National Bank Ltd,20624,Bangladesh,"Asian Bank, Canadian Bank",2021,1
+ATB Financial,33198,Canada,"Asian Bank, Canadian Bank",2021,1
+Ashikaga Bank,35665,Japan,"Asian Bank, Japanese Bank",2021,1
+Kansai Mirai Bank Ltd,145510,Japan,"Asian Bank, Japanese Bank",2021,1
+Minato Bank,50250,Japan,"Asian Bank, Japanese Bank",2021,1
+Allianz Bank Bulgaria,104155,Bulgaria,"Development Finance Institution, European Bank",2021,1
+Russian Regional Development Bank [VBRR],47216,Russian Federation,,2021,1
+Credit Bank of Moscow JSCB [CBM],58472,Russian Federation,,2021,1
+Accident Compensation Corp,58940,New Zealand,"Australian/New Zealand Bank, Insurance Company",2021,1
+DSK Bank Plc,97867,Bulgaria,"Development Finance Institution, European Bank",2021,1
+Intesa Sanpaolo Singapore,21729,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,1
+Punjab National Bank,9112,India,"Asian Bank, European Bank, Japanese Bank",2021,1
+Nedbank Ltd [South Africa],12352,South Africa,African Bank,2021,1
+Bank Zenit OJSC,48031,Russian Federation,,2021,1
+Bank of Baroda,9926,India,"Asian Bank, European Bank, Japanese Bank",2021,1
+Towa Bank,50641,Japan,"Asian Bank, Japanese Bank",2021,1
+Gunma Bank Ltd,50845,Japan,"Asian Bank, Japanese Bank",2021,1
+Yamanashi Chuo Bank,52129,Japan,"Asian Bank, Japanese Bank",2021,1
+Hachijuni Bank Ltd,54825,Japan,"Asian Bank, Japanese Bank",2021,1
+Axis Finance Ltd,113465,India,Asian Bank,2021,1
+Kotak Mahindra Investment Ltd,119538,India,Asian Bank,2021,1
+Shanghai Electric Group Financial Ltd,157147,China,Asian Bank,2021,1
+Scotiabank,103593,Canada,"Canadian Bank, European Bank",2021,1
+Nacional Financiera SNC,10641,Mexico,"Development Finance Institution, European Bank",2021,1
+Cooperatieve Rabobank UA Hong Kong Branch,146705,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Spd Silicon Valley Bank,114193,China,"Asian Bank, European Bank",2021,1
+Bank of China Shaanxi,117506,China,Asian Bank,2021,1
+CMB International Finance Ltd,135301,Hong Kong,"Asian Bank, European Bank",2021,1
+CNCB (Hong Kong) Investment Co Ltd,140328,Hong Kong,"Asian Bank, European Bank",2021,1
+SPDB International Holdings Ltd,119112,Hong Kong,"Asian Bank, European Bank",2021,1
+Bangkok Bank Plc,13393,Thailand,Asian Bank,2021,1
+Standard Chartered Bank Hong Kong,13247,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,1
+Far Eastern International Bank,14764,Taiwan,Asian Bank,2021,1
+Creation Knight Ltd,157218,Hong Kong,"Asian Bank, European Bank",2021,1
+Farm Credit Canada,20723,Canada,"Canadian Bank, Multinational Investment Bank & Financial Services",2021,1
+Jih Sun International Bank,22686,Taiwan,Asian Bank,2021,1
+ING Bank NV Singapore,11661,Netherlands,"Asian Bank, European Bank, Japanese Bank",2021,1
+Norinchukin Trust & Banking Co Ltd,109302,Japan,Asian Bank,2021,1
+Nomura Bank International Plc,10909,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Musashino Bank,77401,Japan,"Asian Bank, Japanese Bank",2021,1
+Exim Bank of China,116945,China,Asian Bank,2021,1
+Agricultural Development Bank of China,103149,China,Asian Bank,2021,1
+BRED Banque Populaire SA,93959,France,European Bank,2021,1
+Joyo Bank Ltd,49281,Japan,"Asian Bank, Japanese Bank",2021,1
+Daishi Hokuetsu Bank Ltd,156763,Japan,Japanese Bank,2021,1
+Tokushima Taisho Bank,151107,Japan,Japanese Bank,2021,1
+Juhachi-Shinwa Bank Ltd,155223,Japan,Asian Bank,2021,1
+Bank of Beijing,20859,China,Asian Bank,2021,1
+Bank of Nagoya Ltd,39669,Japan,"Asian Bank, Japanese Bank",2021,1
+Fukui Bank,45032,Japan,"Asian Bank, Japanese Bank",2021,1
+Nanto Bank Ltd,45040,Japan,"Asian Bank, Japanese Bank",2021,1
+Awa Bank,45041,Japan,"Asian Bank, Japanese Bank",2021,1
+Fukuoka Bank,73040,Japan,"Asian Bank, Japanese Bank",2021,1
+Bank of Kyoto,47741,Japan,"Asian Bank, Japanese Bank",2021,1
+Shiga Bank,48507,Japan,"Asian Bank, Japanese Bank",2021,1
+Kagoshima Bank,49798,Japan,"Asian Bank, Japanese Bank",2021,1
+Tottori Bank,50447,Japan,Japanese Bank,2021,1
+Kiyo Bank Ltd,50540,Japan,"Asian Bank, Japanese Bank",2021,1
+Chukyo Bank,51628,Japan,"Asian Bank, Japanese Bank",2021,1
+Aichi Bank,53185,Japan,"Asian Bank, Japanese Bank",2021,1
+Ogaki Kyoritsu Bank Ltd,53321,Japan,"Asian Bank, Japanese Bank",2021,1
+Keiyo Bank,53484,Japan,"Asian Bank, Japanese Bank",2021,1
+Bank of Kochi,54563,Japan,Japanese Bank,2021,1
+Kinki Sangyou Shinyoukumiai,55147,Japan,Japanese Bank,2021,1
+Osakafu Shinren,55771,Japan,Japanese Bank,2021,1
+Hyogoken Shinren,55861,Japan,"Asian Bank, Japanese Bank",2021,1
+Japan Post Bank Co Ltd,58008,Japan,"Asian Bank, Japanese Bank",2021,1
+Bank of Saga,58379,Japan,"Asian Bank, Japanese Bank",2021,1
+Osaka City Shinkin Bank,58584,Japan,"Asian Bank, Japanese Bank",2021,1
+Brazilian Development Bank,138819,Brazil,,2021,1
+Hyakujushi Bank,53064,Japan,"Asian Bank, Japanese Bank",2021,1
+European Bank for Reconstruction & Development (EBRD),10479,United Kingdom,Development Finance Institution,2021,1
+Banco de Credito Inversiones SA [BCI],11584,Chile,Latin America & Caribbean Bank,2021,1
+KfW International Finance Inc,10668,Germany,,2021,1
+HalkBank AD,130014,Serbia,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+O-Bank Co Ltd,130745,Taiwan,Asian Bank,2021,1
+China Southern Power Grid Finance Co Ltd,157231,China,Asian Bank,2021,1
+E Sun Commercial Bank,14382,Taiwan,Asian Bank,2021,1
+DekaBank,32597,Germany,European Bank,2021,1
+India Infrastructure Finance Co Ltd,19014,India,"Asian Bank, Diversified Financial Services Company",2021,1
+Liberbank SA,27711,Spain,European Bank,2021,1
+San-In Godo Bank Ltd,43585,Japan,"Asian Bank, Japanese Bank",2021,1
+Mizuho Trust Bank ABL,56933,Japan,"Asian Bank, Japanese Bank",2021,1
+Shinkin Chukin Bank,75325,Japan,"Asian Bank, Japanese Bank",2021,1
+Dai-Ichi Mutual Life Insurance Co,50071,Japan,"Insurance Company, Japanese Bank",2021,1
+Kanto Tsukuba Bank Ltd,50493,Japan,"Asian Bank, Japanese Bank",2021,1
+Yamaguchi Bank,51541,Japan,"Asian Bank, Japanese Bank",2021,1
+Nippon Life Insurance Co,53363,Japan,"Insurance Company, Japanese Bank",2021,1
+Hyogo Shinkin Bank,64264,Japan,Japanese Bank,2021,1
+CIB Hungaria Bank Rt,93617,Hungary,European Bank,2021,1
+Intermediate Capital Group [ICG],7071,United Kingdom,,2021,1
+Infrastructure Development Finance Co Ltd,9752,India,"Asian Bank, Diversified Financial Services Company",2021,1
+National Bank of Kuwait SAK [NBK],97690,Kuwait,"Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Turk Ekonomi Bankasi AS [TEB],9612,Turkey,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+DenizBank AS,6571,Turkey,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+DNB ASA,102615,Norway,European Bank,2021,1
+Cooperatieve Rabobank UA,146693,Netherlands,"Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+KUTXABANK,111188,Spain,European Bank,2021,1
+SGBT Finance Ireland Ltd,121151,Ireland,European Bank,2021,1
+Jiangsu Jiangyan Rural Commercial Bank Co Ltd,145931,China,Asian Bank,2021,1
+Kinetic Capital,156758,United Kingdom,,2021,1
+Mie Bank,42777,Japan,"Asian Bank, Japanese Bank",2021,1
+Auxifip SA,98514,France,European Bank,2021,1
+Manulife Financial Corp,12892,Canada,Private Equity,2021,1
+Bank of China Ningbo,12874,China,Asian Bank,2021,1
+Industrial & Commercial Bank of China Ningbo,105147,China,Asian Bank,2021,1
+Maybank International Ltd,17108,Malaysia,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Shanghai Commercial Bank Ltd,13430,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Banco de Sabadell SA,14232,Spain,European Bank,2021,1
+Bank of Taiwan Tokyo,44200,Taiwan,"Asian Bank, Japanese Bank",2021,1
+Bank of Jiangsu Yancheng,121896,China,Asian Bank,2021,1
+RHB Bank Bhd,14817,Malaysia,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Fukushima Bank,42772,Japan,Japanese Bank,2021,1
+Caja Laboral Popular Cooperativa de Credito [CLP],44519,Spain,European Bank,2021,1
+Bankia SA,153634,Spain,European Bank,2021,1
+Shinkin Central Bank,48862,Japan,Asian Bank,2021,1
+Seibu Shinkin Bank,83408,Japan,"Asian Bank, Japanese Bank",2021,1
+Bankoa SA,14613,Spain,European Bank,2021,1
+BNP Paribas European SME Debt Fund,133067,France,European Bank,2021,1
+Yamagata Bank,48894,Japan,"Asian Bank, Japanese Bank",2021,1
+BOT Lease and Finance Philippines Inc,136057,Philippines,"Asian Bank, Diversified Financial Services Company",2021,1
+Mitsubishi UFJ Lease & Finance Co Ltd,20793,Japan,"Asian Bank, Japanese Bank",2021,1
+Kagosima Bank Ltd,49797,Japan,"Asian Bank, Japanese Bank",2021,1
+Suruga Bank Ltd,50652,Japan,"Asian Bank, Japanese Bank",2021,1
+Sugamo Shinkin Bank,52214,Japan,"Asian Bank, Japanese Bank",2021,1
+Juroku Bank Ltd,52517,Japan,"Asian Bank, Japanese Bank",2021,1
+Senshu Ikeda Bank,52676,Japan,"Asian Bank, Japanese Bank",2021,1
+Gamagori Shinkin,73540,Japan,"Asian Bank, Japanese Bank",2021,1
+National Commercial Bank (Saudi Arabia) [NCB] [AlAhli Bank],16713,Saudi Arabia,Middle Eastern Bank,2021,1
+Riyad Bank [RB],17109,Saudi Arabia,"Asian Bank, European Bank, Middle Eastern Bank",2021,1
+Bank of China Taizhou,113004,China,,2021,1
+Jiangyan Rural Commercial Bank,132500,China,,2021,1
+National Bank of Ras Al-Khaimah [Rakbank],16812,United Arab Emirates,"European Bank, Middle Eastern Bank",2021,1
+Zurcher Kantonalbank [ZKB],11297,Switzerland,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+GarantiBank International NV [GBI],10277,Netherlands,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of China Zhejiang,11777,China,Asian Bank,2021,1
+Canadian Western Bank,15823,Canada,Canadian Bank,2021,1
+China Citic Bank Suzhou,21505,China,Asian Bank,2021,1
+Banque de Commerce et de Placements SA [BCP],18963,Switzerland,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Banco do Nordeste do Brasil SA,23024,Brazil,Latin America & Caribbean Bank,2021,1
+CIMB Bank Singapore,25925,Singapore,,2021,1
+Erste Group Bank,120948,Austria,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank GPB International SA,134112,Luxembourg,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Gazprombank OJSC [GPM],6008,Russian Federation,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Banque Internationale a Luxembourg SA [BIL],13370,Luxembourg,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Belfius Bank & Insurance SA/NV,103300,Belgium,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+DNB Bank ASA Sweden,105353,Sweden,European Bank,2021,1
+DBS Bank (Hong Kong) Ltd,11183,Hong Kong,European Bank,2021,1
+Credit Suisse Securities LLC,54996,Russian Federation,Multinational Investment Bank & Financial Services,2021,1
+Banque et Caisse d'Epargne de L'Etat Luxembourg [BCEE],11477,Luxembourg,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of China Sydney,39457,China,"Asian Bank, Australian/New Zealand Bank, Multinational Investment Bank & Financial Services",2021,1
+United Overseas Bank Sydney,46030,Australia,"Asian Bank, Australian/New Zealand Bank, Multinational Investment Bank & Financial Services",2021,1
+Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden NV [FMO],17086,Netherlands,European Bank,2021,1
+HSBC Trinkaus & Burkhardt AG,11078,Germany,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Hongkong & Shanghai Banking Corp Ltd,18058,Hong Kong,Asian Bank,2021,1
+HSBC Sydney,42285,Hong Kong,"Asian Bank, Australian/New Zealand Bank, Multinational Investment Bank & Financial Services",2021,1
+Hyakugo Bank Ltd,42754,Japan,"Asian Bank, Japanese Bank",2021,1
+Mizuho Trust & Banking Co Ltd,56932,Japan,"Asian Bank, Japanese Bank",2021,1
+BGL BNP Paribas SA,119693,Luxembourg,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Banque Federative du Credit Mutuel [BFCM],93945,France,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Export Finance & Insurance Corp,10850,Australia,"European Bank, Export-Import Bank/ECA, Japanese Bank, Latin America & Caribbean Bank",2021,1
+Bank of China Tokyo,38785,China,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of China Singapore,42792,China,Asian Bank,2021,1
+Industrial & Commercial Bank of China (Asia) Ltd,13606,Hong Kong,Asian Bank,2021,1
+Pensionskasse des Bundes PUBLICA,131391,Switzerland,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, Pension Fund",2021,1
+Shanghai Pudong Development Bank Singapore,134373,Singapore,Asian Bank,2021,1
+Bangkok Bank Public Co Ltd,13392,Thailand,Asian Bank,2021,1
+China Construction Bank (Asia) Ltd,15090,China,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+JP Morgan Chase Bank [Hong Kong],14718,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Standard Chartered Bank Hong Kong Branch,5858,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Taiwan Cooperative Bills Finance Corp,26545,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Bank of America Hongkong,42789,China,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Dai-Ichi Life Holdings Inc,154878,Japan,"Asian Bank, Japanese Bank",2021,1
+Cota Commercial Bank,15539,Taiwan,Asian Bank,2021,1
+Ta Ching Bill Finance Corp,18910,Taiwan,"Asian Bank, Diversified Financial Services Company",2021,1
+Nishi-Nippon City Bank,22260,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,1
+Norinchukin Bank Singapore,12603,Singapore,"Asian Bank, Japanese Bank",2021,1
+Mitsui Sumitomo Insurance Co Ltd,44388,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,1
+Royal & Sun Alliance Insurance Group Plc,6437,United Kingdom,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services, Pension Fund",2021,1
+Natixis,102165,France,"European Bank, Export-Import Bank/ECA, Japanese Bank, Latin America & Caribbean Bank",2021,1
+PT Bank DBS Indonesia,93388,Indonesia,"Asian Bank, Japanese Bank",2021,1
+PT Bank CTBC Indonesia,115835,Indonesia,"Asian Bank, Japanese Bank",2021,1
+Bank of China Changshu,111523,China,Asian Bank,2021,1
+Mizuho Leasing Co Ltd,150712,Japan,"Asian Bank, Japanese Bank",2021,1
+OCBC Bank,17270,Singapore,"Asian Bank, European Bank",2021,1
+Hokkaido Bank,43200,Japan,"Export-Import Bank/ECA, Japanese Bank",2021,1
+Ceska Sporitelna as,93317,Czech Republic,European Bank,2021,1
+Expobank Ltd,52238,Russian Federation,European Bank,2021,1
+Nomura Capital Investment Co Ltd,58696,Japan,"Asian Bank, Japanese Bank",2021,1
+PT Bank BTPN Tbk,147019,Indonesia,"Asian Bank, Japanese Bank",2021,1
+PT Bank Mandiri Persero,69238,Indonesia,"Asian Bank, Japanese Bank",2021,1
+Ceskoslovenska Obchodni Banka AS [CSOB],91305,Czech Republic,European Bank,2021,1
+PT Bank Permata Tbk,93417,Indonesia,"Asian Bank, Japanese Bank",2021,1
+Komercni Banka as,10603,Czech Republic,European Bank,2021,1
+PT Bank KEB Hana Indonesia,134840,Indonesia,"Asian Bank, Japanese Bank",2021,1
+Banque Publique d'Investissement [BPI France],113505,France,European Bank,2021,1
+Fubon Financial Holding Co Ltd,11542,Taiwan,"Asian Bank, European Bank",2021,1
+SBI Capital Markets,12514,India,"Asia-Pacific Bank, Corporation",2021,1
+Bank of China Qingdao,141512,China,Asian Bank,2021,1
+Bancoppel,135851,Mexico,"Canadian Bank, European Bank, Farm Credit Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Unifergie,123314,France,European Bank,2021,1
+Indian Bank,16621,India,"Asia-Pacific Bank, Corporation",2021,1
+Chiyu Banking Corp,12876,Hong Kong,Asian Bank,2021,1
+Bank of Maharashtra,13986,India,"Asia-Pacific Bank, Corporation",2021,1
+Axis Bank Ltd,14195,India,Asian Bank,2021,1
+Banco Sabadell,11674,Spain,"Canadian Bank, European Bank, Farm Credit Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Canara Bank,14360,India,"Asia-Pacific Bank, Corporation",2021,1
+Syndicate Bank,15036,India,"Asia-Pacific Bank, Corporation",2021,1
+Bank of India,18427,India,"Asia-Pacific Bank, Corporation",2021,1
+Andhra Bank,18431,India,"Asia-Pacific Bank, Corporation",2021,1
+Oriental Bank of Commerce,20411,India,"Asia-Pacific Bank, Corporation",2021,1
+Bajio,26931,Mexico,"Canadian Bank, European Bank, Farm Credit Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Housing & Urban Development Corp,37865,India,"Asia-Pacific Bank, Corporation",2021,1
+Sumitomo Mitsui Finance & Leasing Co Ltd,60794,Japan,Diversified Financial Services Company,2021,1
+Lucid Trustee Services Ltd,143115,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Trafigura Group Pte Ltd,124958,Singapore,,2021,1
+Barclays Bank SA,97579,France,"Asian Bank, Asset Manager, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Export Development Canada [EDC],10549,Canada,"Asian Bank, Canadian Bank, Development Finance Institution, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Banque Centrale Populaire [BCP],109315,Morocco,"African Bank, European Bank",2021,1
+Hua Nan Commercial Bank Singapore,15694,Taiwan,Asian Bank,2021,1
+Taipei Fubon Commercial Bank Singapore,128378,Singapore,Asian Bank,2021,1
+Novo Banco SA,116886,Portugal,"European Bank, Latin America & Caribbean Bank",2021,1
+Scottish Widows,126198,United Kingdom,,2021,1
+Caisse d'Epargne et de Prevoyance Provence Alpes Corse [CEPAC],106968,France,European Bank,2021,1
+Chaabi International Bank Offshore [CIBO],129207,Morocco,"African Bank, European Bank",2021,1
+Stanbic IBTC Bank Plc,142782,Nigeria,"African Bank, European Bank",2021,1
+Coris Bank International SA,132121,Burkina Faso,,2021,1
+First Commercial Bank Singapore,19116,Taiwan,Asian Bank,2021,1
+First Rand Bank Limited,129433,South Africa,African Bank,2021,1
+Credit Suisse Singapore,26128,Singapore,"Asian Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Taiwan Singapore,20812,Taiwan,Asian Bank,2021,1
+Mauritius Commercial Bank Ltd,18068,Mauritius,"African Bank, European Bank",2021,1
+Mizuho Bank (China) Ltd,111550,China,Asian Bank,2021,1
+Union Bank of Nigeria Plc [UBN],53017,Nigeria,"African Bank, European Bank",2021,1
+United Bank for Africa Plc [UBA],54082,Nigeria,"African Bank, European Bank",2021,1
+First City Monument Bank Plc [FCMB],59242,Nigeria,"African Bank, European Bank",2021,1
+Zenith Bank (UK) Ltd,102252,United Kingdom,"African Bank, European Bank",2021,1
+Attijariwafa Bank Europe,25429,France,"African Bank, European Bank",2021,1
+Attijariwafa Bank,97924,Morocco,"African Bank, European Bank",2021,1
+Australia & New Zealand Banking Group Ltd Hong Kong Branch,17715,Hong Kong,"Asian Bank, Australian/New Zealand Bank, Multinational Investment Bank & Financial Services",2021,1
+ODDO BHF [fka BHF Bank AG],10686,Germany,"Asian Bank, European Bank",2021,1
+Metrics Credit Partners,109353,Australia,"Diversified Financial Services Company, European Bank",2021,1
+Clean Energy Finance Corp,109881,Australia,Government Sponsored Lender,2021,1
+Hua Nan Commercial Bank Ltd Hong Kong,42674,Hong Kong,"Asian Bank, Australian/New Zealand Bank, Multinational Investment Bank & Financial Services",2021,1
+Pemberton Capital Advisors LLP,123112,United Kingdom,"Diversified Financial Services Company, Multinational Investment Bank & Financial Services",2021,1
+OP Financial Group,125507,Finland,European Bank,2021,1
+Citigroup Global Markets Asia Ltd,26669,Hong Kong,"Asian Bank, Australian/New Zealand Bank, Multinational Investment Bank & Financial Services",2021,1
+Ardent Joy Opportunity II Ltd,157003,Australia,,2021,1
+Banco Del Bajio,21251,Mexico,"European Bank, Latin America & Caribbean Bank",2021,1
+Aegon NV,7009,Netherlands,"Asian Bank, European Bank",2021,1
+Nomura Capital Partners,143851,Japan,"Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Nomura Securities International,51969,Japan,"Canadian Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Abanca Corporacion Bancaria SA,138727,Spain,European Bank,2021,1
+Industrial & Commercial Bank of China (Europe),126584,Netherlands,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Banco de Credito Social Cooperativo SA,140245,Spain,European Bank,2021,1
+Toronto Dominion Bank [London],19639,Canada,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Shizuoka Bank Ltd,26427,Japan,"Asian Bank, Japanese Bank",2021,1
+ING Belgium SA/NA,45680,Belgium,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Ibercaja,33306,Spain,European Bank,2021,1
+Ibercaja [Caja de Ahorros de Zaragoza Aragon y Rioja],45274,Spain,European Bank,2021,1
+Toho Bank Ltd,49035,Japan,"Asian Bank, Japanese Bank",2021,1
+ZAO Raiffeisenbank,112634,Russian Federation,"Asian Bank, European Bank",2021,1
+Kanagawa Bank,74662,Japan,"Asian Bank, Japanese Bank",2021,1
+Banca di Credito Cooperativo [BCC],94296,Italy,European Bank,2021,1
+Banca March SA,96858,Italy,European Bank,2021,1
+BNP Paribas Fortis SA NV,135283,Belgium,European Bank,2021,1
+Citibank Tokyo,88800,Japan,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Kreissparkasse Tuttlingen,112939,Germany,European Bank,2021,1
+Santander Consumer Bank AG,133763,Germany,European Bank,2021,1
+Sanfelice 1893 Banca Popolare ScpA.,130015,Italy,European Bank,2021,1
+Standard Chartered Plc,11687,United Kingdom,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Eurasian Development Bank [EDB],24714,Kazakhstan,European Bank,2021,1
+Banca Monte dei Paschi di Siena SpA [MPS],58826,Italy,European Bank,2021,1
+Mediobanca SpA [Banca di Credito Finanziario SpA],95937,Italy,European Bank,2021,1
+BPER Banca,151919,Italy,European Bank,2021,1
+Emirates NBD PJSC,26060,United Arab Emirates,"European Bank, Middle Eastern Bank",2021,1
+Japan International Cooperation Agency,103794,Japan,Development Finance Institution,2021,1
+Banque Populaire Grand Ouest,138084,France,European Bank,2021,1
+Rand Merchant Bank Ltd [RMB],14891,South Africa,African Bank,2021,1
+Saudi British Bank JSC [SABB],17441,Saudi Arabia,Middle Eastern Bank,2021,1
+Hong Leong Finance Ltd,17789,Singapore,"Asian Bank, Business Corporation",2021,1
+Caisse Regionale de Credit Agricole Mutuel Atlantique Vendee SC,137443,France,European Bank,2021,1
+Caisse Regionale de Credit Agricole Mutuel de Centre France,98962,France,European Bank,2021,1
+African Export-Import Bank [Afreximbank],9744,Egypt,African Bank,2021,1
+Credit Mutuel Arkea Group,97676,France,European Bank,2021,1
+EBN Banco de Negocios SA,154851,Spain,"European Bank, Latin America & Caribbean Bank",2021,1
+Nordea Bank Danmark AS,52067,Denmark,European Bank,2021,1
+Banco Cooperativo Espanol SA,17297,Spain,"European Bank, Latin America & Caribbean Bank",2021,1
+Taiju Life Insurance,157052,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,1
+Macquarie Bank Ltd,10661,Australia,"Asian Bank, Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Caisse Regionale de Credit Agricole Mutuel de l'Anjou et du Maine,101842,France,European Bank,2021,1
+Credit Mutuel Maine Anjou Basse Normandie,98291,France,European Bank,2021,1
+Banque CIC Ouest SA,110417,France,European Bank,2021,1
+DNB ASA [ex-DnB NOR Bank ASA],13751,Norway,"Development Finance Institution, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Deutsche Bank (China) Ltd,106266,China,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Wilmington Trust (London) Limited,116418,United Kingdom,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+KfW IPEX-Bank GmbH [Ex-KfW],28487,Germany,"Development Finance Institution, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Industrial & Commercial Bank of China Sichuan,19248,China,Asian Bank,2021,1
+Jiangsu Gaochun Rural Commercial Bank,132449,China,Asian Bank,2021,1
+ICO [Instituto de Credito Oficial],14416,Spain,"European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Communications Jiangsu,18673,China,Asian Bank,2021,1
+Nykredit Bank AS,51650,Denmark,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+HDFC Bank Ltd,9968,India,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Banco BTG Pactual SA,110619,Brazil,"Canadian Bank, European Bank, Latin America & Caribbean Bank",2021,1
+Bank of Queensland Ltd,11718,Australia,Australian/New Zealand Bank,2021,1
+North Pacific Bank Ltd,120421,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,1
+Banco Consorcio,123861,Chile,"Canadian Bank, European Bank, Latin America & Caribbean Bank",2021,1
+Yokohama Kougin Credit Union,133942,Japan,"Asian Bank, Japanese Bank",2021,1
+Banco Bice SA,13801,Chile,"Canadian Bank, European Bank, Latin America & Caribbean Bank",2021,1
+China Minsheng Banking Corp Hong Kong,105649,Hong Kong,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+Banco Internacional,18066,Chile,"Canadian Bank, European Bank, Latin America & Caribbean Bank",2021,1
+RHB Islamic Bank,18386,Malaysia,,2021,1
+HSBC Australia,14391,Australia,Australian/New Zealand Bank,2021,1
+NEC Capital Solutions Ltd,49172,Japan,"Asian Bank, Australian/New Zealand Bank, Diversified Financial Services Company, European Bank",2021,1
+Seto Shinkin Bank,49816,Japan,"Asian Bank, Japanese Bank",2021,1
+Meiji Yasuda Life Insurance Co,49968,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,1
+Chiba Kogyo Bank,51950,Japan,"Asian Bank, Japanese Bank",2021,1
+Hokkoku Bank Ltd,52854,Japan,"Asian Bank, Japanese Bank",2021,1
+Shimizu Bank,53186,Japan,"Asian Bank, Japanese Bank",2021,1
+First Bank of Toyama,53400,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,1
+AXA Investment Managers UK Ltd,25042,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Kawasaki Shinkin Bank,56880,Japan,Asian Bank,2021,1
+Yokohama Shinkin,80394,Japan,"Asian Bank, Japanese Bank",2021,1
+Cassa Depositi e Prestiti SpA [CDP],86438,Italy,European Bank,2021,1
+Banca Popolare di Sondrio SCRL [BPS],89195,Italy,European Bank,2021,1
+Development Bank of Singapore Ltd [DBS],10853,Singapore,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+UBS Investment Bank,12617,Switzerland,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Shawbrook Bank Ltd,118471,United Kingdom,,2021,1
+Thurgauer Kantonalbank (TKB),13140,Switzerland,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+First Commercial Bank Macau,103864,Macao,Asian Bank,2021,1
+Luzerner Kantonalbank,15929,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank Sinopac Macau,34388,Macao,Asian Bank,2021,1
+Basellandschaftliche Kantonalbank,25420,Switzerland,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Valiant Banken [Valiant Bank],31235,Switzerland,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Instituto Catalan de Finanzas [ICF],45234,Spain,European Bank,2021,1
+Clydesdale Bank Plc,15994,United Kingdom,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Otkritie Holding JSC,116579,Russian Federation,European Bank,2021,1
+Bank of China Xuzhou,18874,China,Asian Bank,2021,1
+Asian Infrastructure Investment Bank [AIIB],119141,China,"Asian Bank, Diversified Financial Services Company, European Bank",2021,1
+ICBC (IC) Ltd,31097,Hong Kong,Asian Bank,2021,1
+Bank of Punjab,13439,Pakistan,,2021,1
+UK Export Finance [UKEF],135430,United Kingdom,"European Bank, Government Sponsored Lender, Multinational Investment Bank & Financial Services",2021,1
+Citibank Taipei,26934,Taiwan,Asian Bank,2021,1
+Oesterreichische Entwicklungsbank AG (OeEB),57603,Austria,"Asian Bank, Diversified Financial Services Company, European Bank",2021,1
+Ithmaar Bank,158234,Bahrain,European Bank,2021,1
+Ahli United Bank BSC [AUB],17099,Bahrain,Middle Eastern Bank,2021,1
+IIFCL,23838,India,"Asian Bank, Diversified Financial Services Company, European Bank",2021,1
+L&T Infrastructure Finance Corp,29067,India,"Asian Bank, Diversified Financial Services Company, European Bank",2021,1
+Pak Kuwait Investment Bank,33745,Pakistan,,2021,1
+HSBC Bank Egypt SAE,121245,Egypt,"African Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Aomori Bank Ltd,50078,Japan,"Asian Bank, Japanese Bank",2021,1
+Hermes Kreditversicherungs AG [Hermes],31167,Germany,Export-Import Bank/ECA,2021,1
+Tsukuba Bank,56857,Japan,"Asian Bank, Japanese Bank",2021,1
+Nedbank Ltd London,12808,United Kingdom,"African Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Indorama Ventures Public Co Ltd,105920,Thailand,,2021,1
+Royal Bank of Scotland Plc [RBS],11307,United Kingdom,European Bank,2021,1
+Bank of China Seoul,39769,China,,2021,1
+Industrial & Commercial Bank of China Seoul,101620,South Korea,,2021,1
+Banque Populaire Auvergne Rhone Alpes,129921,France,European Bank,2021,1
+United Overseas Bank Seoul,46258,Singapore,,2021,1
+FirstRand Bank Ltd,9253,South Africa,African Bank,2021,1
+OCBC Bank Seoul,101323,South Korea,,2021,1
+Shikoku Bank,50064,Japan,"Asian Bank, Japanese Bank",2021,1
+Sumitomo Mitsui Banking Corp Seoul,101136,South Korea,,2021,1
+Caisse Regionale de Credit Agricole Sud Rhone Alpes,100809,France,European Bank,2021,1
+BNP Paribas Seoul,98349,South Korea,,2021,1
+Migdal Insurance Company,98884,Israel,"European Bank, Insurance Company",2021,1
+CIC Lyonnaise de Banque SA,110419,France,European Bank,2021,1
+Jiangsu Jiangnan Rural Commercial Bank Co Ltd,152088,China,Asian Bank,2021,1
+ING Bank NV Hongkong Branch,12715,Hong Kong,"Asian Bank, European Bank",2021,1
+Naganoken Shinkumi,44039,Japan,"Asian Bank, Japanese Bank",2021,1
+Nagano Bank,50176,Japan,"Asian Bank, Japanese Bank",2021,1
+Taiko Bank,51680,Japan,"Asian Bank, Japanese Bank",2021,1
+SBJ Bank,55593,Japan,"Asian Bank, Japanese Bank",2021,1
+Monte Paschi Banque SA [MPB],100516,France,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Sanjo Shinkin Bank,76403,Japan,"Asian Bank, Japanese Bank",2021,1
+Niigata Kenshinren,78448,Japan,"Asian Bank, Japanese Bank",2021,1
+CTBC Bank Singapore,117394,Singapore,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank SinoPac Offshore Banking Unit,15336,Taiwan,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Toyota Shinkin Bank,51774,Japan,"Asian Bank, Japanese Bank",2021,1
+Tama Shinkin Bank,57714,Japan,"Asian Bank, Japanese Bank",2021,1
+Siemens Bank Singapore,135578,Singapore,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Toyohashi Shinkin Bank,77247,Japan,"Asian Bank, Japanese Bank",2021,1
+Woori Bank Hong Kong,40843,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Woori Bank Singapore,46825,Singapore,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Arab Banking Corp BSC [ABC],5659,Bahrain,Middle Eastern Bank,2021,1
+Gulf International Bank BSC [GIB],6893,Bahrain,Middle Eastern Bank,2021,1
+Kitakyushu Bank Ltd,102760,Japan,"Asian Bank, Government Sponsored Lender, Japanese Bank",2021,1
+VTB Bank JSC,9164,Russian Federation,European Bank,2021,1
+China Bohai Bank,18861,China,Asian Bank,2021,1
+Oita Bank,49801,Japan,"Asian Bank, Japanese Bank",2021,1
+Fukuho Bank Ltd,88255,Japan,"Asian Bank, Japanese Bank",2021,1
+Societe Generale Corporate and Investment Banking [SG CIB],120949,France,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Credit Europe Bank NV,30563,Netherlands,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Credit Mutuel Credit Industriel et Commercial SA [CM-CIC],86914,France,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of China Huizhou,112974,China,Asian Bank,2021,1
+Bank of China Jinhua,134828,China,Asian Bank,2021,1
+Banque Populaire Val de France,99052,France,European Bank,2021,1
+CAJAMAR Caja Rural Sociedad Cooperativa de Credito,14065,Spain,European Bank,2021,1
+JP Morgan Chase Bank NA [London],14157,United Kingdom,"African Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+ABSA Bank Ltd [South Africa],14904,South Africa,African Bank,2021,1
+Investec Bank Ltd [South Africa],7050,South Africa,African Bank,2021,1
+Nedbank Ltd,9573,South Africa,African Bank,2021,1
+Fubon Bank (China) Co Ltd,115186,China,Asian Bank,2021,1
+China Minsheng Banking Corp Shanghai,39225,China,Asian Bank,2021,1
+Nordic Investment Bank,16197,Finland,European Bank,2021,1
+AfrAsia Bank Ltd,19645,Mauritius,"African Bank, Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank Al Habib,22783,Pakistan,"African Bank, Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Arab Bank Plc,9245,Jordan,"African Bank, Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Daito Bank,51227,Japan,"Asian Bank, Japanese Bank",2021,1
+Nissay Leasing Co Ltd,62639,Japan,"Asian Bank, Japanese Bank",2021,1
+Union de Banques Arabes et Francaises [UBAF],97567,France,"African Bank, Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Sumitomo Mitsui Trust Bank Singapore,104435,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Scotiabank Ireland,28241,Ireland,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+State Export-Import Bank of Ukraine OJSC [Ukreximbank],44464,Ukraine,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of China Jakarta,94563,Indonesia,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Industrial & Commercial Bank of China Jiangsu,13967,China,Asian Bank,2021,1
+Citibank NA Jakarta Branch,97115,Indonesia,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Standard Chartered Bank Jakarta,15501,United Kingdom,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+BPER Banca SpA,151919,Italy,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Payton Capital Ltd,157407,Australia,,2021,1
+XCMG Finance Co Ltd,158440,China,"Asian Bank, Other",2021,1
+Perpetual Corporate Trust Ltd,109041,Australia,"Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Aeon Bank,109397,Japan,"Asian Bank, Japanese Bank",2021,1
+Kita-Nippon Bank,42643,Japan,"Asian Bank, Japanese Bank",2021,1
+Mizuho Bank Europe NV,135163,Netherlands,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Development Bank of the Philippines,48521,Philippines,Asian Bank,2021,1
+Kagawa Bank,53136,Japan,"Asian Bank, Japanese Bank",2021,1
+Kirayaka Bank Ltd,55945,Japan,"Asian Bank, Japanese Bank",2021,1
+Saitamaken Shinkin Bank,58320,Japan,"Asian Bank, Japanese Bank",2021,1
+Banca Monte dei Paschi di Siena,58827,Italy,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Mediobanca International (Luxembourg) SA,137023,Luxembourg,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Tajima Bank,91734,Japan,Japanese Bank,2021,1
+Land Bank of the Philippines,93513,Philippines,Asian Bank,2021,1
+Banca Passadore & C SpA,93938,Italy,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Asia United Bank,94593,Philippines,Asian Bank,2021,1
+Korea Development Bank Singapore,10514,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Credit Agricole CIB Australia Ltd [Ex-Calyon Australia],19343,Australia,"Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of East Asia Macau,22600,Macao,"Asian Bank, European Bank, Japanese Bank",2021,1
+Bank of China Macau,39456,China,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Communications Macau,21878,Macao,"Asian Bank, European Bank, Japanese Bank",2021,1
+Banque Saudi Fransi [Al Bank Al Saudi Al Fransi],9553,Saudi Arabia,Middle Eastern Bank,2021,1
+KDB Asia Ltd,30922,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,1
+Sumitomo Mitsui Trust Bank Hong Kong,118364,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Indian Overseas Bank,13285,India,Asian Bank,2021,1
+Central Bank of India,14503,India,"Asian Bank, Government Sponsored Lender",2021,1
+Light Elite Opportunity II Ltd,157447,Australia,,2021,1
+Punjab & Sind Bank,20940,India,"Asian Bank, Government Sponsored Lender",2021,1
+AXA Bank Belgium SA,52378,Belgium,European Bank,2021,1
+Alfa Bank OJSC,6811,Russian Federation,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Shinhan Bank Hongkong,101354,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Deutsche Bank AG Tokyo,23945,Germany,"Asian Bank, Japanese Bank",2021,1
+DBS Bank Tokyo,46380,Singapore,"Asian Bank, Japanese Bank",2021,1
+Proparco [Promotion et Participation pour la Cooperation Economique],98222,France,"Business Corporation, Development Finance Institution, European Bank, Government Sponsored Lender",2021,1
+National Australia Bank Ltd,11025,Australia,"Asian Bank, Australian/New Zealand Bank",2021,1
+Amundi [OPCI],130388,France,"European Bank, Latin America & Caribbean Bank",2021,1
+E Sun Commercial Bank Ltd Tokyo,145365,Japan,"Asian Bank, Australian/New Zealand Bank",2021,1
+Bank of Communications Tokyo,49601,Japan,"Asian Bank, Japanese Bank",2021,1
+OCBC Bank Tokyo,91117,Japan,"Asian Bank, Japanese Bank",2021,1
+Eurobank EFG Bulgaria AD,97633,Bulgaria,European Bank,2021,1
+Emerging Africa Infrastructure Fund [EAIF],35339,United Kingdom,"Development Finance Institution, European Bank",2021,1
+CDC Group Plc [Colonial/Commonwealth Development Corp],36473,United Kingdom,"Business Corporation, Development Finance Institution, European Bank, Government Sponsored Lender",2021,1
+Canada Pension Plan Investment Board,41835,Canada,,2021,1
+JA Mitsui Leasing Ltd,91006,Japan,"Asian Bank, Japanese Bank",2021,1
+Credit Agricole Corporate & Investment Bank Tokyo Branch,57423,Japan,"Asian Bank, Japanese Bank",2021,1
+Shinhan Bank Japan,151240,Japan,"Asian Bank, Japanese Bank",2021,1
+National Bank of Greece SA,98328,Greece,European Bank,2021,1
+Sparkasse Pforzheim Calw,107948,Germany,European Bank,2021,1
+Volksbank Stuttgart eG,108949,Germany,European Bank,2021,1
+Kreissparkasse Esslingen-Nurtingen,12413,Germany,European Bank,2021,1
+Government of Australia,151963,Australia,Government Sponsored Lender,2021,1
+Brait Private Equity Ltd,26281,South Africa,,2021,1
+Mizrahi Tefahot Bank Ltd,97923,Israel,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+DBS Bank China,17044,China,"Asian Bank, European Bank",2021,1
+Bank of East Asia (China) Ltd,19475,China,"Asian Bank, European Bank",2021,1
+Bank of China Jiaxing,104769,China,Asian Bank,2021,1
+Nanyang Commercial Bank (China) Ltd,105013,China,"Asian Bank, European Bank",2021,1
+Jiangsu Binhai Rural Commercial Bank,125027,China,Asian Bank,2021,1
+Hang Seng Bank (China) Ltd,19258,Hong Kong,"Asian Bank, European Bank",2021,1
+United Overseas Bank (China) Ltd,101839,China,"Asian Bank, European Bank",2021,1
+Shizuoka Yaizu Shinkin Bank,147395,Japan,"Asian Bank, Credit Union, Japanese Bank",2021,1
+Sovcombank,155557,Russian Federation,,2021,1
+CITIC Bank International (China) Ltd,105012,China,"Asian Bank, European Bank",2021,1
+OCBC Wing Hang Bank (China) Co Ltd,121141,China,"Asian Bank, European Bank",2021,1
+NIBC Bank NV [NIBC],12207,Netherlands,European Bank,2021,1
+HSBC Bank (China) Co Ltd,22996,China,"Asian Bank, European Bank",2021,1
+Kyoto Chuo Shinkin Bank,50273,Japan,"Asian Bank, Credit Union, Japanese Bank",2021,1
+SMBC Trust Bank Ltd,144382,Japan,"Asian Bank, Credit Union, Japanese Bank",2021,1
+Fukoku Mutual Life Insurance Co,55935,Japan,"Asian Bank, Japanese Bank",2021,1
+Sensyu Ikeda Bank Ltd,57759,Japan,"Asian Bank, Japanese Bank",2021,1
+Shonan Shinkin Bank,58378,Japan,"Asian Bank, Credit Union, Japanese Bank",2021,1
+BNP Paribas (China) Ltd,16057,China,"Asian Bank, European Bank",2021,1
+Nomura International Plc,12616,United Kingdom,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Okazaki Shinkin Bank,55941,Japan,"Asian Bank, Japanese Bank",2021,1
+Maybank Singapore,47125,Singapore,Asian Bank,2021,1
+JA Sagamiharashi,131447,Japan,Japanese Bank,2021,1
+Kanagawa Tsukui Agricultural Cooperative Assoc,144992,Japan,Japanese Bank,2021,1
+China Minsheng Banking Corp Nanjing,20483,China,Asian Bank,2021,1
+Taiwan Cooperative Bank Hong Kong Branch,17716,Hong Kong,Asian Bank,2021,1
+Aviva Investors,153480,United Kingdom,Diversified Financial Services Company,2021,1
+BinHai Capital Ltd,157175,Hong Kong,Asian Bank,2021,1
+Development Finance Institute Canada DFIC Inc,157707,Canada,"European Bank, Other",2021,1
+Societe Generale Sucursal en Espana,135282,Spain,"European Bank, Japanese Bank",2021,1
+Gulf Bank of Kuwait KSC,100603,Kuwait,Middle Eastern Bank,2021,1
+Warba Bank KSC,111186,Kuwait,Middle Eastern Bank,2021,1
+Kuwait International Bank KSC [KIB],112641,Kuwait,Middle Eastern Bank,2021,1
+COFIDES SA,117932,Spain,,2021,1
+Alantra Partners SA,140473,Spain,,2021,1
+Tresmares Capital Corporate SL,158086,Spain,,2021,1
+Sharjah Islamic Bank [SIB],19790,United Arab Emirates,Middle Eastern Bank,2021,1
+Banco de Occidente,25655,Colombia,"Asian Bank, Diversified Financial Services Company, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Jordan,28029,Jordan,Middle Eastern Bank,2021,1
+Bahrain Islamic Bank BSC,29162,Bahrain,Middle Eastern Bank,2021,1
+ING European Financial Services Plc,126928,Ireland,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Atlantic Forfaitierungs AG,34406,Switzerland,"Asian Bank, Diversified Financial Services Company, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+CPPIB Credit Investments,54461,Canada,Asset Manager,2021,1
+National Bank of Bahrain [NBB],44260,Bahrain,Middle Eastern Bank,2021,1
+Qatar National Bank SAQ [QNB],8625,Qatar,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank Muscat SAOG,9089,Oman,Middle Eastern Bank,2021,1
+Boubyan Bank KSC,93949,Kuwait,Middle Eastern Bank,2021,1
+TargoBank,103519,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Shanghai Pudong Development Bank London Branch,152606,United Kingdom,Asian Bank,2021,1
+Citibank Europe Plc UK Branch,136420,United Kingdom,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bajaj Housing Finance Ltd,141615,India,"Asian Bank, Diversified Financial Services Company",2021,1
+Aditya Birla Finance Ltd,104035,India,"Asian Bank, Diversified Financial Services Company",2021,1
+OCBC Wing Hang Ltd,119666,Hong Kong,Asian Bank,2021,1
+Unicaja Banco SA,140053,Spain,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Tochigi Bank Ltd,52221,Japan,Japanese Bank,2021,1
+UniCredit Bank Czech Republic and Slovakia as,127360,Slovakia,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+United Overseas Bank Malaysia,26115,Singapore,Asian Bank,2021,1
+Union Commercial Bank,158870,Taiwan,Asian Bank,2021,1
+OCBC Bank Malaysia,42046,Malaysia,Asian Bank,2021,1
+Postal Savings Bank of China Shanghai,134887,China,Asian Bank,2021,1
+Chailease International Financial Services (Singapore) Pte Ltd,152723,Singapore,Asian Bank,2021,1
+Industrial Bank Co Ltd Shanghai,17234,China,Asian Bank,2021,1
+CPP Investment Board,25672,Canada,"Asset Manager, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services, Private Equity",2021,1
+Sumitomo Mitsui Banking Corp Malaysia Berhad,105402,Malaysia,Asian Bank,2021,1
+Banca Sella SpA,94088,Italy,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank Handlowy w Warszawie SA,97351,Poland,"Asian Bank, European Bank",2021,1
+CNPC Treasury (Singapore) Pte Ltd,126692,Singapore,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Nomura Bank Europe,75193,Japan,"Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+JA Bank Gifu,56247,Japan,"Asian Bank, Japanese Bank",2021,1
+JA Bank Aichi,59685,Japan,"Asian Bank, Japanese Bank",2021,1
+Kochi Bank,74886,Japan,"Asian Bank, Japanese Bank",2021,1
+Shizuoka Chuo Bank,75380,Japan,"Asian Bank, Japanese Bank",2021,1
+Daichi-Mirai Shinkin Bank,79719,Japan,"Asian Bank, Japanese Bank",2021,1
+Bank Millennium SA,97675,Poland,"Asian Bank, European Bank",2021,1
+Bank Polska Kasa Opieki SA [Pekao],97939,Poland,"Asian Bank, European Bank",2021,1
+PKO BP SA [Powszechna Kasa Oszczednosci Bank Polski Spolka Akcyjna],98076,Poland,"Asian Bank, European Bank",2021,1
+Bank Ochrony Srodowiska SA [BOS],98378,Poland,"Asian Bank, European Bank",2021,1
+Ogaki Seino Shinkin Bank,128846,Japan,"Asian Bank, Japanese Bank",2021,1
+Hua Nan Commercial Bank (Offshore Banking Branch),12081,Taiwan,"Asian Bank, European Bank, Middle Eastern Bank",2021,1
+State Bank of India Hong Kong,24885,India,"Asian Bank, European Bank, Middle Eastern Bank",2021,1
+Taiwan Business Bank Offshore Banking Branch,24806,Taiwan,"Asian Bank, European Bank, Middle Eastern Bank",2021,1
+First Commercial Bank Offshore Banking Branch,43454,Taiwan,"Asian Bank, European Bank, Middle Eastern Bank",2021,1
+Finantia UK Ltd,136194,United Kingdom,"Asian Bank, European Bank, Middle Eastern Bank",2021,1
+DenizBank AG,48785,Austria,"Asian Bank, European Bank, Middle Eastern Bank",2021,1
+Emirates NBD PJS Singapore,109917,Singapore,"Asian Bank, European Bank, Middle Eastern Bank",2021,1
+Banco do Brasil,11342,Brazil,"Asian Bank, Canadian Bank, Development Finance Institution, European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Banco Latinoamericano de Comercio Exterior SA,163730,Panama,"Asian Bank, Canadian Bank, Development Finance Institution, European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of China Xizang Branch,20505,China,Asian Bank,2021,1
+Bank of China Johannesburg Branch,39767,South Africa,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Maybank Islamic Bhd,23748,Malaysia,Asian Bank,2021,1
+Shiny Ruby Opportunity III Ltd,157948,Australia,,2021,1
+Sichuan Santai Rural Commercial Bank Co Ltd,158251,China,Asian Bank,2021,1
+Partners Group AG,23158,Switzerland,Private Equity,2021,1
+Itau BBA International Plc,111838,United Kingdom,"Canadian Bank, Development Finance Institution, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,1
+Lloyds Bank Corporate Markets Plc,142610,United Kingdom,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+MUFG Bank (China) Ltd,148071,China,"Asian Bank, European Bank",2021,1
+Sumitomo Mitsui Banking Corp London,147931,United Kingdom,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Banco BAI Europa SA,98234,Portugal,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Baroda London,18956,United Kingdom,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Maybank Kim Eng Holdings Ltd,143856,Singapore,,2021,1
+Bangkok Bank Public Co Ltd Singapore Branch,28674,Singapore,Asian Bank,2021,1
+China Minsheng Banking Corp Shenzhen,42797,China,Asian Bank,2021,1
+Jiangsu Sheyang Rural Commercial Bank,152161,China,Asian Bank,2021,1
+CSB Bank Ltd,157949,India,Asian Bank,2021,1
+Hokuetsu Bank,49003,Japan,"Asian Bank, Japanese Bank",2021,1
+Kosan Shinkin Bank,76312,Japan,"Asian Bank, Government Sponsored Lender, Japanese Bank",2021,1
+Showa Leasing Co Ltd,92505,Japan,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,1
+Woori Bank,10213,South Korea,"Asian Bank, European Bank, Japanese Bank",2021,1
+Shinhan Bank,9808,South Korea,"Asian Bank, European Bank, Japanese Bank",2021,1
+Africa Finance Corp Ltd [AFC],103320,Nigeria,"African Bank, European Bank, Government Sponsored Lender",2021,1
+Orabank,106561,Togo,,2021,1
+African Development Bank [AfDB],11179,Ivory Coast / Cote d'Ivoire,,2021,1
+Bank of China Jiangxi,105145,China,Asian Bank,2021,1
+Banque Populaire du Sud SA Ouest [BPSO],98262,France,European Bank,2021,1
+REC,137615,Japan,,2021,1
+Citywide Opportunity VIII Ltd,155266,Australia,,2021,1
+Bank of Communications Jiangxi,103032,China,Asian Bank,2021,1
+Bank of India Paris,150181,France,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of India London,17826,India,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Bhutan Ltd,23250,India,,2021,1
+Bank Sohar SAOG,28659,Oman,Middle Eastern Bank,2021,1
+Power Finance Corp Ltd,41580,India,,2021,1
+Aoki Shinkin Bank,49692,Japan,"Asian Bank, Japanese Bank",2021,1
+Hanno Shinkin Bank,56033,Japan,"Asian Bank, Japanese Bank",2021,1
+OPEC Fund for International Development [OFID],72404,Austria,"African Bank, Business Corporation, Development Finance Institution, European Bank, Government Sponsored Lender, Multinational Investment Bank & Financial Services",2021,1
+National Bank of Fujairah PSC,7242,United Arab Emirates,Middle Eastern Bank,2021,1
+Fuji Shinkin Bank,73450,Japan,"Asian Bank, Japanese Bank",2021,1
+Kawaguchi Shinkin,76284,Japan,"Asian Bank, Japanese Bank",2021,1
+Caisse Regionale de Credit Agricole Mutuel Sud Mediterranee,101795,France,European Bank,2021,1
+Ahli Bank,103390,Oman,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+Agricultural Bank of China Shandong Branch,20074,China,Asian Bank,2021,1
+Bank of China Shandong Branch,11774,China,Asian Bank,2021,1
+Stadtsparkasse Munchen,12042,Germany,European Bank,2021,1
+Industrial & Commercial Bank of China Shandong Branch,38774,China,Asian Bank,2021,1
+Malayan Banking Bhd Singapore,12204,Malaysia,"Asian Bank, European Bank",2021,1
+Erste Abwicklungsanstalt,138844,Germany,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+China Construction Bank Shandong,117787,China,Asian Bank,2021,1
+NIIF Infrastructure Finance Ltd,157684,India,Asian Bank,2021,1
+Guangan Rural Commercial Bank Co Ltd,158285,China,Asian Bank,2021,1
+Oman Arab Bank SAOC,22133,Oman,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+Europe Arab Bank Plc [EAB],18955,United Kingdom,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+Arab Bank Plc [Singapore],24135,Singapore,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+ING-DiBa AG,102298,Germany,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+BAWAG PSK [Bank fur Arbeit und Wirtschaft und Osterr'che Postsprkasse AG],36021,Austria,Asian Bank,2021,1
+British Arab Commercial Bank Ltd,38367,United Kingdom,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+LFA Forderbank Bayern,44423,Germany,European Bank,2021,1
+Eighteenth Bank Ltd,51229,Japan,"Asian Bank, Japanese Bank",2021,1
+Sumitomo Mitsui Banking Corp (Brussels),54207,Belgium,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+Okinawa Development Finance Corp,63318,Japan,Japanese Bank,2021,1
+Bank Dhofar SAOG,7383,Oman,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+PT Bank Negara Indonesia (Persero) Tbk,93335,Indonesia,"Asian Bank, European Bank",2021,1
+PT Bank Central Asia Tbk,93517,Indonesia,"Asian Bank, European Bank",2021,1
+National Bank of Oman SAOG,9366,Oman,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+Banca di Credito Cooperativo di Roma Societa Cooperativa [BCC Roma],94213,Italy,European Bank,2021,1
+ICCREA Banca SpA,94354,Italy,European Bank,2021,1
+Credito Cooperativo Ravennate e Imolese Scrl,94554,Italy,European Bank,2021,1
+Emil Banca Credito Cooperativo Bolognese (BCC),94557,Italy,European Bank,2021,1
+Bank Sohar SOAG,28659,Oman,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Other",2021,1
+Gunmamirai Shinkumi Bank,109409,Japan,Japanese Bank,2021,1
+Rabobank Singapore,46399,Netherlands,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Tatebayashi Shinkin Bank,114370,Japan,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,1
+Kiryu Shinkin Bank,114379,Japan,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,1
+Clifford Capital,114509,Singapore,Diversified Financial Services Company,2021,1
+HCC International Insurance Co Plc,116719,United Kingdom,"Australian/New Zealand Bank, Insurance Company",2021,1
+Bank of China Shenzhen,14293,China,Asian Bank,2021,1
+Caja Rural,118487,Spain,European Bank,2021,1
+Hirakata Shinkin Bank,125801,Japan,"Asian Bank, Japanese Bank",2021,1
+Caisse d'Epargne Ile de France,101346,France,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Banque Internationale de Commerce BRED SA [BIC BRED],25442,Switzerland,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Guangdong Huaxing Bank,134031,China,Asian Bank,2021,1
+Alteralia SCA SICAR,141326,Luxembourg,,2021,1
+ICICI Bank Ltd,8026,India,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,1
+Hamamatsu Iwata Shinkin Bank,145037,Japan,"Asian Bank, Japanese Bank",2021,1
+Standard Chartered Bank HK,13248,Hong Kong,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Standard Chartered Bank Singapore,14913,United Kingdom,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Taiwan Cooperative Bank Manila OBU,96208,Philippines,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Jintang Huijin Rural Bank,158577,China,,2021,1
+San Ju San Bank Ltd,159059,Japan,"Asian Bank, Japanese Bank",2021,1
+Bank of Taiwan Offshore Banking Branch,44832,Taiwan,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Bank of Jiangsu Shenzhen,125744,China,Asian Bank,2021,1
+Taichung Commercial Bank Offshore Banking Branch,43445,Taiwan,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Orix Bank Corp,105701,Japan,"Asian Bank, Japanese Bank",2021,1
+Sunny Bank,36250,Taiwan,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+International Commercial Bank of China,18732,Taiwan,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Tohoku Bank,49417,Japan,"Asian Bank, Japanese Bank",2021,1
+Kyoto Shinkin,49802,Japan,"Asian Bank, Japanese Bank",2021,1
+Ehime Bank,49870,Japan,"Asian Bank, Japanese Bank",2021,1
+Miyazaki Bank,50063,Japan,"Asian Bank, Japanese Bank",2021,1
+Michinoku Bank,51848,Japan,"Asian Bank, Japanese Bank",2021,1
+Nomura Trust & Banking Co Ltd,60927,Japan,"Asian Bank, Japanese Bank",2021,1
+Shimane Bank,53978,Japan,Asian Bank,2021,1
+Saikyo Bank,56039,Japan,Asian Bank,2021,1
+Seishin Shinkin,73172,Japan,"Asian Bank, Japanese Bank",2021,1
+Sawayaka Shinkin,73309,Japan,"Asian Bank, Japanese Bank",2021,1
+Kookmin Bank,9108,South Korea,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Hokkaido Shinkin Bank,137503,Japan,"Asian Bank, Japanese Bank",2021,1
+Asahi Shinkin Bank,52235,Japan,"Asian Bank, Japanese Bank, Other",2021,1
+Gifu Shinkin Bank,53453,Japan,"Asian Bank, Japanese Bank",2021,1
+JA Hyogo Shinren,55769,Japan,"Asian Bank, Japanese Bank",2021,1
+AXA Group SA,5664,France,Insurance Company,2021,1
+Bunka Sangyo Credit Coop,57874,Japan,"Asian Bank, Japanese Bank, Other",2021,1
+Sorachi Shinkin,61510,Japan,"Asian Bank, Japanese Bank",2021,1
+Amagasaki Shinkin Bank,70374,Japan,"Asian Bank, Japanese Bank",2021,1
+Banshu Shinkin Bank,82799,Japan,"Asian Bank, Japanese Bank",2021,1
+DBS Australia,144076,Australia,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+Industrial & Commercial Bank of China Qingdao,114067,China,Asian Bank,2021,1
+Standard Chartered Bank Australia,15998,United Kingdom,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,1
+Aozora Asia Pacific Finance Ltd,19058,Hong Kong,"Asian Bank, Japanese Bank",2021,1
+Industrial Bank,21895,China,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,1
+Mega International Commercial Bank Singapore,28663,Singapore,"Asian Bank, Japanese Bank",2021,1
+Shiga Bank Hongkong,81589,Japan,"Asian Bank, Japanese Bank",2021,1
+MUFG Bank Ltd Hong Kong,146031,Hong Kong,"Asian Bank, Japanese Bank",2021,1
+Chugoku Bank Hong Kong,34119,Hong Kong,"Asian Bank, Japanese Bank",2021,1
+Taiyo Life Insurance,50162,Japan,"Asian Bank, Japanese Bank",2021,1
+Kyoto Bank,57350,Japan,European Bank,2021,1
+Sagami Shinkin Bank,82227,Japan,"Asian Bank, Japanese Bank",2021,1
+Nishihyogo Shinkin Bank,82948,Japan,Japanese Bank,2021,1
+Tokyo Higashi Shinkin Bank,84997,Japan,"Asian Bank, Japanese Bank",2021,1
+Korea Development Bank Tokyo,67573,Japan,"Asian Bank, Japanese Bank",2021,1
+Societe Generale Australia,97233,France,"Australian/New Zealand Bank, Canadian Bank, European Bank",2021,1
+Woori Global Markets Asia Ltd,21700,Hong Kong,"Asian Bank, Multinational Investment Bank & Financial Services",2021,1
+Export-Import Bank of Malaysia,33297,Malaysia,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,1
+Bank of East Asia Singapore,38786,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,1
+Elavon Financial Services Limited,118260,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+Taishin International Bank Singapore Branch,122712,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,1
+Industrial & Commercial Bank of China Zhejiang,107210,China,Asian Bank,2021,1
+Standard Chartered Bank Singapore Branch,15760,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,1
+National Investment & Infrastructure Fund,151027,India,"Asian Bank, Diversified Financial Services Company",2021,1
+China Citic Bank International Singapore,128379,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,1
+Bank of Communications Singapore Branch,17455,China,"Asian Bank, European Bank, Japanese Bank",2021,1
+NatWest Markets Ltd,17606,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,1
+AmBank Bhd,40622,Malaysia,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,1
+Caja Rural de Aragon SCC [Cajalon],43891,Spain,European Bank,2021,1
+MUFG Bank Ltd Singapore,145779,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,1
+Kobe Shinkin,75134,Japan,"Asian Bank, Japanese Bank",2021,1
+Macquarie Capital Funding LP,14223,Australia,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,1
+Shinhan Bank Singapore Branch,22310,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,1
+Deutsche Postbank AG,12777,Germany,European Bank,2021,1
+Bank of China Tianjin,39770,China,Asian Bank,2021,1
+Shanghai Pudong Development Bank Jiangsu,118651,China,Asian Bank,2021,1
+Sparkasse im Landkreis Schwandorf,138671,Germany,European Bank,2021,1
+Nara Chuo Shinkin Bank,139024,Japan,"Asian Bank, Japanese Bank",2021,1
+UCO Bank,15637,India,Asian Bank,2021,1
+Onga Shinkin Bank,158120,Japan,"Asian Bank, Japanese Bank",2021,1
+Yamato Shinkin Bank,158180,Japan,"Asian Bank, Japanese Bank",2021,1
+Iizuka Shinkin Bank,158204,Japan,"Asian Bank, Japanese Bank",2021,1
+Hata Shinkin Bank,159318,Japan,"Asian Bank, Japanese Bank",2021,1
+Bank of Taiwan Shanghai,107445,Taiwan,Asian Bank,2021,1
+Shichiju Shichi Bank,76924,Japan,"Asian Bank, Japanese Bank",2021,1
+BOT Lease Co Ltd,48835,Japan,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,1
+Tomato Bank,49603,Japan,"Asian Bank, Japanese Bank",2021,1
+Raiffeisenlandesbank Oberosterreich AG [RLB],52126,Austria,European Bank,2021,1
+Fukuoka Shinkin Bank,55453,Japan,"Asian Bank, Japanese Bank",2021,1
+Fukuoka Hibiki Shinkin Bank,60864,Japan,"Asian Bank, Japanese Bank",2021,1
+Awajishinkin Bank,71934,Japan,"Asian Bank, Japanese Bank",2021,1
+Himeji Shinkin,79475,Japan,"Asian Bank, Japanese Bank",2021,1
+Export-Import Bank of China Jiangsu,108667,China,Asian Bank,2021,1
+Zhangjiagang Rural Commercial Bank,124947,China,Asian Bank,2021,2
+Mizuho Bank Singapore,122484,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,2
+Hekikai Shinkin Bank,50249,Japan,"Asian Bank, Japanese Bank",2021,2
+Oberbank AG,51808,Austria,European Bank,2021,2
+Raiffeisen-Landesbank Tirol AG,52124,Austria,European Bank,2021,2
+Toshun Shinkin Bank,55470,Japan,"Asian Bank, Japanese Bank",2021,2
+ABC International Bank Plc,23590,United Kingdom,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Nishio Shinkin,73160,Japan,"Asian Bank, Japanese Bank",2021,2
+Kinokuni Shinkin Bank,86148,Japan,"Asian Bank, Government Sponsored Lender",2021,2
+BNP Paribas Singapore Branch,97893,France,"Asian Bank, European Bank, Japanese Bank",2021,2
+Banco Santander SA Hong Kong Branch,18475,Hong Kong,"Asian Bank, European Bank",2021,2
+Bank of China (Hungary),121391,Hungary,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+China Investment Corp,133697,China,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Barclays Bank London,11131,United Kingdom,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Australia & New Zealand Banking Group Ltd Singapore Branch,26715,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+State Bank of India New York,29065,India,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+ING Bank Singapore,47367,Netherlands,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+MUFG Bank Ltd Labuan,147123,Malaysia,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Credit Agricole Corporate & Investment Bank Hong Kong Branch,18467,Hong Kong,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+MPS Capital Services Banca per le Imprese SpA,134608,Italy,European Bank,2021,2
+Macquarie Capital Group Ltd,131724,United Kingdom,Diversified Financial Services Company,2021,2
+China Merchants Bank Hong Kong,22997,Hong Kong,"Asian Bank, Multinational Investment Bank & Financial Services",2021,2
+OCBC Bank London,35727,United Kingdom,,2021,2
+Bank of Jiangsu Nanjing,146475,China,"Asian Bank, Multinational Investment Bank & Financial Services",2021,2
+DEG [Deutsche Investitutions-und Entwicklungsgesellschaft mbH],46935,Germany,Development Finance Institution,2021,2
+Caisse d'Epargne Aquitaine Poitou-Charentes,117359,France,European Bank,2021,2
+Caisse d'Epargne Bretagne Pays de Loire,126443,France,European Bank,2021,2
+The Governor and Company of the Bank of Ireland,138799,Ireland,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Russian Agency for Export Credit and Investment Insurance [EXIAR],128137,Russian Federation,"European Bank, Export-Import Bank/ECA",2021,2
+Ameriabank CJSC,130259,Armenia,,2021,2
+Instituto de Credito Oficial (ICO),130249,Spain,"Canadian Bank, European Bank, Japanese Bank",2021,2
+MEAG MUNICH ERGO AssetManagement GmbH,104054,Germany,,2021,2
+Bank Pembangunan Malaysia Bhd,23536,Malaysia,Asian Bank,2021,2
+Sumitomo Mitsui Banking Corp Dubai,110540,United Arab Emirates,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Vnesheconombank [VEB],7014,Russian Federation,"European Bank, Export-Import Bank/ECA",2021,2
+KBC Bank NV London Branch,131256,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Societe Generale Bank & Trust Credit International SA [SGBTCI],150648,Luxembourg,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Commerzbank AG Hong Kong Branch,11967,Hong Kong,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Banco Do Brasil SA-Shanghai Branch,135660,China,"Asian Bank, European Bank, Latin America & Caribbean Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+HSBC Securities Inc,14140,United Kingdom,Multinational Investment Bank & Financial Services,2021,2
+Banco Nacional Ultramarino SA,97891,Portugal,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,140623,Indonesia,Asian Bank,2021,2
+Bank Central Asia,93518,Indonesia,Asian Bank,2021,2
+PT Bank Pan Indonesia Tbk,93753,Indonesia,Asian Bank,2021,2
+Bank Rakyat Indonesia,97032,Indonesia,Asian Bank,2021,2
+PT Bank Woori Saudara Indonesia 1906 Tbk,144900,Indonesia,Asian Bank,2021,2
+China Merchants Bank Suzhou,39224,China,Asian Bank,2021,2
+ICBC Standard Bank Plc,136854,United Kingdom,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+The Commercial Bank PSQC [ex-Commercial Bank of Qatar QSC [CBQ]],10419,Qatar,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Anadolubank Nederland NV,126927,Netherlands,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Credit Suisse international,14917,United Kingdom,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Banka Kombetare Tregtare SHA,19363,Albania,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Housing Bank for Trade & Finance,19964,Bahrain,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Erste Group Bank AG London Branch,131240,United Kingdom,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+MPS Capital Services,96984,Italy,European Bank,2021,2
+Rabobank Australia,10459,Australia,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,2
+China CITIC Bank International Macau Branch,158555,Macao,Asian Bank,2021,2
+Caja Rural Central,133614,Spain,European Bank,2021,2
+NongHyup Life Insurance,109534,South Korea,"Asian Bank, Insurance Company",2021,2
+Kyobo Life Insurance Co,97640,South Korea,"Asian Bank, Insurance Company",2021,2
+Korea Federation of Community Credit,98487,South Korea,"Asian Bank, Insurance Company",2021,2
+KB Life Insurance Co Ltd,103571,South Korea,"Asian Bank, Insurance Company",2021,2
+Heungkuk Life Insurance,98734,South Korea,"Asian Bank, Insurance Company",2021,2
+Samsung Life Insurance Co Ltd,99094,South Korea,"Asian Bank, Insurance Company",2021,2
+Samsung Fire & Marine Insurance,99246,South Korea,"Asian Bank, Insurance Company",2021,2
+Sparebanken Vest,12241,Norway,European Bank,2021,2
+Banco de Credito del Peru,53153,Peru,"European Bank, Japanese Bank, Latin America & Caribbean Bank",2021,2
+Raiffeisenbank Austria Moscow ZAO [RBA],9462,Russian Federation,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Black Sea Trade & Development Bank [BSTDB],99057,Greece,"Development Finance Institution, European Bank, Government Sponsored Lender",2021,2
+Rabobank Hong Kong,18047,Hong Kong,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Taiwan Cooperative Commercial Bank Co Ltd,14762,Taiwan,Asian Bank,2021,2
+Taiwan Cooperative Bank Offshore Banking Branch,21029,Taiwan,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Kotak Mahindra Bank Ltd,13984,India,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+DBS Bank Labuan,45641,Singapore,"Asian Bank, European Bank",2021,2
+Agricultural Bank of China (Luxembourg) SA,129592,Luxembourg,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+State Bank of India Singapore,38440,India,"Asian Bank, European Bank",2021,2
+First Commercial Bank Hong Kong,45007,Taiwan,"Asian Bank, European Bank",2021,2
+Citibank Europe PLC Sucursal en Espana,135284,Spain,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+ICICI Bank Ltd Dubai,148563,United Arab Emirates,"Asian Bank, European Bank",2021,2
+UK Infrastructure Bank,163273,United Kingdom,"European Bank, Other",2021,2
+CRDB Bank Ltd,20714,Tanzania,,2021,2
+Eastern & Southern African Trade & Development Bank [PTA Bank],44917,Burundi,"Government Sponsored Lender, Other",2021,2
+Mega International Commercial Bank Co Ltd Hong Kong Branch,22596,Hong Kong,"Asian Bank, European Bank",2021,2
+Saudi Industrial Development Fund [SIDF],45239,Saudi Arabia,,2021,2
+Export-Import Bank of China Paris,132515,France,"Asian Bank, European Bank",2021,2
+Bank of Nova Scotia London,12433,United Kingdom,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Agricultural Bank of China Macau,139163,Macao,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Heng Feng Bank Co Ltd,125218,China,Asian Bank,2021,2
+Macao Development Bank Ltd,158563,Macao,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Permira Funds,60399,United Kingdom,,2021,2
+Virgin Money Holdings (UK) Ltd,17769,United Kingdom,,2021,2
+ANZ Banking Group (New Zealand) Ltd,47020,New Zealand,"Asian Bank, Australian/New Zealand Bank",2021,2
+Bank of New Zealand,49280,New Zealand,Australian/New Zealand Bank,2021,2
+ASB Bank,50799,New Zealand,"Asian Bank, Australian/New Zealand Bank",2021,2
+Bank Danamon,11357,Thailand,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Bank Negara Indonesia,93334,Indonesia,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Cassa di Risparmio di Asti [BancaCRAsti],93525,Italy,European Bank,2021,2
+Industrial Bank Co Ltd Hangzhou,114276,China,Asian Bank,2021,2
+US Bank Global Corporate Trust Ltd,155656,United Kingdom,European Bank,2021,2
+Bladex [Banco Latinoamericano de Comercio Exterior SA],11710,Panama,Latin America & Caribbean Bank,2021,2
+Banco Davivienda SA,18634,Colombia,Latin America & Caribbean Bank,2021,2
+Sanlam Investment Holdings Ltd,139249,South Africa,"African Bank, European Bank",2021,2
+Banco Industrial de Guatemala,24016,Guatemala,Latin America & Caribbean Bank,2021,2
+Banca Intesa ZAO,92577,Russian Federation,"Asian Bank, European Bank",2021,2
+AK Bars Bank JSC,8894,Russian Federation,"Asian Bank, European Bank",2021,2
+Russian Commercial Bank Ltd [RCB],37854,Switzerland,"Asian Bank, European Bank",2021,2
+Standard Bank Plc,17055,United Kingdom,"African Bank, Asian Bank, Development Finance Institution, European Bank, Japanese Bank",2021,2
+ABSA Corporate & Merchant Bank [ACMB],40839,South Africa,"African Bank, Asian Bank, Development Finance Institution, European Bank, Japanese Bank",2021,2
+Shine Honour Opportunity IX Ltd,158566,Australia,,2021,2
+Major Creativity Holdings III Ltd,158575,Australia,,2021,2
+Arbuthnot Commercial Asset Based Lending Ltd,158609,United Kingdom,Development Finance Institution,2021,2
+Arab Petroleum Investments Corp [APICORP],35937,Saudi Arabia,"African Bank, Asian Bank, Development Finance Institution, European Bank, Japanese Bank",2021,2
+AKA Ausfuhrkredit GmbH,13880,Germany,"African Bank, Asian Bank, Development Finance Institution, European Bank, Japanese Bank",2021,2
+China Merchants Bank Offshore Banking Center,123534,Hong Kong,"Asian Bank, European Bank",2021,2
+Altyn Bank,143599,Kazakhstan,Asian Bank,2021,2
+China Citic Bank Corp Ltd London,148283,United Kingdom,Asian Bank,2021,2
+Bancolombia,20436,Colombia,Latin America & Caribbean Bank,2021,2
+Caisse Regionale de Credit Agricole Mutuel de Centre Est,108391,France,European Bank,2021,2
+CTBC Bank Shanghai,110360,China,Asian Bank,2021,2
+Turkiye Ihracat Kredi Bankasi AS [Export Credit Bank of Turkey] [Turk Eximbank],10039,Turkey,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Pasha Yatirim Bankasi AS,146363,Turkey,"Asian Bank, Canadian Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Banka Kombetare Tregtare Kosove Sh A,155041,Serbia,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Abu Dhabi Islamic Bank PJSC [ADIB],19624,United Arab Emirates,"European Bank, Middle Eastern Bank",2021,2
+Isbank AG,118743,Germany,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Deutsche Bank AG Sydney Branch,18924,Australia,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Hong Kong Mortgage Corp Ltd,12154,Hong Kong,"Asian Bank, Diversified Financial Services Company, European Bank",2021,2
+China Everbright Bank Shanghai,35038,China,Asian Bank,2021,2
+Banque Populaire Aquitaine Centre Atlantique,99335,France,European Bank,2021,2
+Meridian Credit Union,139177,Canada,"Canadian Bank, Credit Union, Diversified Financial Services Company",2021,2
+China Construction Bank Singapore,37050,Singapore,Asian Bank,2021,2
+E Sun Bank China,34183,China,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Global Loan Agency Services Australia Pty Ltd,145544,Australia,"Asset Manager, Australian/New Zealand Bank",2021,2
+Shinhan Bank Sydney,137294,Australia,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Hana Bank,97531,South Korea,"Asian Bank, Diversified Financial Services Company, European Bank",2021,2
+Scottish Pacific Business Finance Pty Ltd,158665,Australia,Australian/New Zealand Bank,2021,2
+Hwatai Bank,36427,Taiwan,Asian Bank,2021,2
+DNB,106315,Norway,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+PT Bank UOB Indonesia,93667,Indonesia,"Asian Bank, European Bank, Japanese Bank",2021,2
+Bank of Iwate,54827,Japan,"Asian Bank, Japanese Bank",2021,2
+Bank Mandiri Singapore,20393,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,2
+Sparkasse Aachen,104510,Germany,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Nova Kreditna Banka Maribor dd [NKBM],13434,Slovenia,European Bank,2021,2
+Kingdom of Sweden,11110,Sweden,,2021,2
+Republic of Ireland,11150,Ireland,,2021,2
+M&G Real Estate Finance,122013,United Kingdom,,2021,2
+United Kingdom Corporate,12243,United Kingdom,,2021,2
+Grupo Financiero Mifel SA de CV,136465,Mexico,"Canadian Bank, European Bank",2021,2
+SID Banka dd [SID Bank Inc],26694,Slovenia,European Bank,2021,2
+Nova Ljubljanska Banka dd [NLB],9422,Slovenia,European Bank,2021,2
+SKB Banka,13245,Slovenia,European Bank,2021,2
+Banque Cantonale de Geneve [BCGE],11121,Switzerland,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Banque Internationale de Commerce,100776,France,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Eiffel Investment Group SAS,138666,France,,2021,2
+United Bank (Pakistan),17015,Pakistan,Asian Bank,2021,2
+BMO Bank of Montreal,104020,Canada,"Canadian Bank, Diversified Financial Services Company",2021,2
+National Bank of Pakistan,20855,Pakistan,Asian Bank,2021,2
+Jyske Bank,32217,Denmark,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Philippine National Bank,93394,Philippines,Asian Bank,2021,2
+Credit Agricole Indosuez,97221,France,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+BNP Paribas Hong Kong,98156,France,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,2
+Piraeus Bank SA,98453,Greece,European Bank,2021,2
+Al Ahli Bank of Kuwait KSC [ABK],101369,Kuwait,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+DNB ASA [ex-Den Norske Bank],37992,Norway,,2021,2
+United Bank Limited,116696,Pakistan,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+State Bank of India Bahrain,37706,India,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Bank of Bahrain & Kuwait BSC [BBK],17288,Bahrain,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Misr Bank Europe GmbH,40951,Germany,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+United Arab Bank PJSC [UAB],33342,United Arab Emirates,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+National Agricultural Cooperative Federation,97445,South Korea,"Asian Bank, Insurance Company",2021,2
+Shanghai Commercial & Savings Bank Offshore Banking branch,13463,Taiwan,Asian Bank,2021,2
+Akbank AG,109676,Germany,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Anadolubank AS,22580,Turkey,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Turkish Bank,42420,Turkey,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Mitsubishi UFJ Trust & Banking Corp,92660,Japan,"Asian Bank, Japanese Bank",2021,2
+Sekerbank TAS,17024,Turkey,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Intesa Sanpaolo SpA London Branch,127328,United Kingdom,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Eksportkreditt Norge AS [Export Credit Norway],107708,Norway,"Diversified Financial Services Company, European Bank",2021,2
+Norwegian Guarantee Institute for Export Credits,133608,Norway,"Diversified Financial Services Company, European Bank",2021,2
+SpareBanken 1 Gruppen AS [SpareBank 1],32646,Norway,"Diversified Financial Services Company, European Bank",2021,2
+Macquarie Asset Finance Ltd,37903,Australia,,2021,2
+Banque Courtois SA,97756,France,European Bank,2021,2
+Banque CIC Sud Ouest SA,102872,France,European Bank,2021,2
+Sumitomo Mitsui Trust Holdings Inc,102979,Japan,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Westpac Banking Corp London,12846,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Banca Comerciala Romana SA [Romanian Commercial Bank],12127,Romania,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+The Commercial Bank (PSQC),131244,Qatar,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+BIC-BRED (Suisse) SA,126439,Switzerland,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Industrial Development Corp of South Africa Ltd (IDC),13444,South Africa,,2021,2
+Development Bank of Southern Africa,14118,South Africa,,2021,2
+Commercial Bank of Africa Ltd [CBA],19531,Kenya,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Ecobank Nigeria Plc,102157,Nigeria,African Bank,2021,2
+Government Employees Provident Fund (GEPF) Tanzania,24313,Tanzania,,2021,2
+Alinma Bank,25094,Saudi Arabia,Middle Eastern Bank,2021,2
+Banque Misr Paris [L'Euromisr],100359,France,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Banque Misr SAE,6965,Egypt,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Access Bank PLC,78800,Nigeria,African Bank,2021,2
+Kuwait Finance House KSC [KFH],8898,Kuwait,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+CA Indosuez (Switzerland) SA,135399,Switzerland,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Agricultural Bank of China Seoul,108653,South Korea,Asian Bank,2021,2
+Santander UK Plc [ex-Abbey National Plc],11316,United Kingdom,European Bank,2021,2
+Taiwan Life Insurance Co Ltd,14031,Taiwan,"Asian Bank, Insurance Company",2021,2
+Taipei Star Bank,144662,Taiwan,"Asian Bank, Insurance Company",2021,2
+Nederlandse Waterschapsbank NV,24529,Netherlands,European Bank,2021,2
+Farglory Life Insurance Co Ltd,27333,Taiwan,"Asian Bank, Insurance Company",2021,2
+Korea Development Bank Seocho Branch,145108,South Korea,Asian Bank,2021,2
+Baden-Wurttembergische Bank AG [BW-Bank],45154,Germany,European Bank,2021,2
+Rivage Investment,119232,France,European Bank,2021,2
+Standard Bank Group Ltd,12733,South Africa,"African Bank, European Bank",2021,2
+Danmarks Skibskreditfond,48863,Denmark,European Bank,2021,2
+Manufacturers Life Insurance Co,10747,Canada,,2021,2
+Republic of France,10952,France,,2021,2
+LahiTapiola,119979,Finland,European Bank,2021,2
+Citibank NA Hong Kong Branch,13426,Hong Kong,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Cathay Bank Hong Kong Branch,20069,Hong Kong,"Asian Bank, European Bank",2021,2
+Standard Chartered Bank London,36100,United Kingdom,Development Finance Institution,2021,2
+Manufacturers Life Reinsurance Ltd,158937,Barbados,,2021,2
+BTA Institutional Services Australia Ltd,158939,Australia,,2021,2
+Deutsche Pfandbriefbank AG,23749,Germany,European Bank,2021,2
+Aktia Savings Bank Plc,33078,Finland,European Bank,2021,2
+HSBC Banking Group,39777,United Kingdom,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Abu Dhabi Fund for Development,120654,United Arab Emirates,,2021,2
+Swedish Export Credit Corp,104295,Sweden,"European Bank, Export-Import Bank/ECA",2021,2
+STANLIB Asset Management Limited,115405,South Africa,African Bank,2021,2
+Export-Import Bank of Thailand,12491,Thailand,"Asian Bank, Development Finance Institution",2021,2
+Liberty Group Ltd,126924,South Africa,African Bank,2021,2
+Bred Bank,129520,Fiji,"Asian Bank, Development Finance Institution",2021,2
+Norfund,133368,Norway,"Asian Bank, Development Finance Institution",2021,2
+Sanlam Investment Management (Pty) Ltd,139915,South Africa,"African Bank, Development Finance Institution, European Bank",2021,2
+Euler Hermes Europe SA,116722,France,"Finance Company, Insurance Company, Other",2021,2
+SACE SpA [Servizi Assicurativi del Commercio Estero],93677,Italy,"Finance Company, Insurance Company, Other",2021,2
+DBS Bank Hong Kong,11182,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,2
+RBS Invoice Finance Ltd,129131,United Kingdom,Middle Eastern Bank,2021,2
+State Bank of India Hong Kong Branch,16056,Hong Kong,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,2
+Helaba Bank - Landesbank Hessen-Thuringen New York,20582,Germany,"Asian Bank, European Bank",2021,2
+Industrial & Commercial Bank of China (Frankfurt),37047,Germany,,2021,2
+Maybank Hong Kong,42177,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,2
+Maybank International Labuan,45889,Malaysia,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,2
+Postbanken,12990,Norway,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Cathay United Bank Hong Kong,43030,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,2
+IKB Deutsche Industrie Bank AG,16148,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Bank of Communications Frankfurt Branch,104855,Germany,,2021,2
+Habib Bank AG [Zurich],36642,Switzerland,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+National Bank of Kuwait Singapore,97691,Kuwait,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,2
+Bank Leumi (UK) Plc,23984,United Kingdom,Middle Eastern Bank,2021,2
+Belgian Debt Agency,159125,Belgium,,2021,2
+KIAMCO GreenNewDeal SolarPower Public Fund Special Asset Trust,159189,South Korea,,2021,2
+KIAMCO GreenNewDeal SolarPower Private Fund Special Asset Trust,159199,South Korea,,2021,2
+Korea Investment & Securities Co Ltd,98061,South Korea,,2021,2
+Shiba Shinkin Bank,114408,Japan,"Asian Bank, Japanese Bank",2021,2
+CMB Wing Lung Bank Shanghai Branch,146709,China,"Asian Bank, European Bank",2021,2
+Kimitsu Shinyo Kumiai,143353,Japan,"Asian Bank, Japanese Bank",2021,2
+China Zheshang Bank,38921,China,Asian Bank,2021,2
+Chiba Shinkin Bank,69004,Japan,"Asian Bank, Japanese Bank",2021,2
+Triodos Groenfonds NV,128629,Netherlands,"Asian Bank, European Bank",2021,2
+Societe Generale Singapore,99702,France,"Asian Bank, European Bank",2021,2
+State Bank of India Canada,41827,India,"Canadian Bank, Credit Union, Multinational Investment Bank & Financial Services",2021,2
+Sovkombank PAO,131621,Russian Federation,European Bank,2021,2
+Ardent Joy Opportunity V Ltd,159081,Australia,,2021,2
+Central American Bank for Economic Integration,12593,Honduras,,2021,2
+Prudential Banking Plc,14727,United Kingdom,Canadian Bank,2021,2
+Brighten Lead Opportunity VIII Ltd,159089,Australia,,2021,2
+Citibank Hong Kong,21069,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Gemcorp Capital LLP,155096,United Kingdom,,2021,2
+Korea Development Bank Beijing,98570,South Korea,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Hua Nan Commercial Bank Ltd OBB,111132,Taiwan,Asian Bank,2021,2
+KfW Entwicklungsbank,153782,Germany,,2021,2
+Kiatnakin Phatra Bank PCL,159140,Thailand,Asian Bank,2021,2
+China Construction Bank Macau,43733,Macao,"Asian Bank, Multinational Investment Bank & Financial Services",2021,2
+Royal Dutch Shell Plc,18809,Netherlands,"Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,2
+National Credit Union Federation of Korea,101251,South Korea,"Asian Bank, Credit Union",2021,2
+Deutsche Bank AG London Branch,10675,Germany,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Industrial & Commercial Bank of China (Hong Kong),23016,Hong Kong,"Asian Bank, European Bank",2021,2
+National Bank of Egypt SAE [NBE],7312,Egypt,Other,2021,2
+KDB Life Insurance Co Ltd,103567,South Korea,"Asian Bank, Credit Union",2021,2
+Banque Cantonale Vaudoise,10725,Switzerland,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Basler Kantonalbank [BKB],12073,Switzerland,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Danish Ship Finance A/S [Danmarks Skibskreditfond],66321,Denmark,"Australian/New Zealand Bank, Diversified Financial Services Company, European Bank",2021,2
+GarantiBank International NV [ex-United Garanti Bank International NV],11843,Netherlands,"Canadian Bank, Diversified Financial Services Company, European Bank",2021,2
+Garanti BBVA,151480,Turkey,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+OCBC Bank Hong Kong,12728,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,2
+Cajasiete Caja Rural Sociedad Cooperativa de Credito,159249,Spain,European Bank,2021,2
+Bank of Cairo SAE [Banque du Caire],6964,Egypt,"Asian Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,2
+Banco Credito e Inversiones SA,111860,Chile,"European Bank, Japanese Bank",2021,2
+Ostsachsische Sparkasse Dresden,13687,Germany,,2021,2
+Export-Import Bank of India (Eximbank India),9928,India,,2021,2
+Yes Bank Ltd,17010,India,Asian Bank,2021,2
+Doha Bank QPSC,10360,Qatar,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,2
+Oyak Anker Bank GmbH,115119,Germany,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,2
+ICBC Sydney,117527,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, Japanese Bank",2021,2
+China Construction Bank Sydney,115105,Australia,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, Japanese Bank",2021,2
+Madison Pacific Trust Ltd,143532,Hong Kong,"Asian Bank, European Bank",2021,2
+Yapi Kredi Bank Nederland NV,25537,Netherlands,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,2
+Northern Bank Ltd,34613,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Tamweel Aloula Company,161022,Saudi Arabia,,2021,2
+Vistra ITCL (India) Ltd,161702,India,"Asian Bank, Multinational Investment Bank & Financial Services",2021,2
+Servus Credit Union,27040,Canada,"Canadian Bank, Diversified Financial Services Company",2021,2
+Banco Itau SA,13413,Brazil,Multinational Investment Bank & Financial Services,2021,2
+Sendai Bank,55943,Japan,"Asian Bank, Japanese Bank",2021,2
+Credit Industrial et Commercial,98524,France,"Asian Bank, Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Bank of Kunlun,107810,China,,2021,2
+Bank of China Beijing,103728,China,,2021,2
+Bank of China Guangdong Branch,11782,China,,2021,2
+Shanghai Pudong Development Bank Guangdong,118621,China,,2021,2
+China Construction Bank Beijing,104089,China,,2021,2
+Lotte Financial Corp,141477,Japan,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,2
+MUFG Bank Ltd Jakarta,147018,Indonesia,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Fuyo General Lease Co Ltd,57640,Japan,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,2
+PT Bank Mandiri Persero Tbk Singapore Branch,28648,Singapore,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+Credit Agricole d'lle-de-France [CADIF],101106,France,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Caisse Regionale de Credit Agricole Mutuel du Nord de France [CRCAM NDF],98899,France,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Bank of Nova Scotia Asia Ltd,18002,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank",2021,2
+China Banking Corp,10582,Philippines,Asian Bank,2021,2
+DNB (UK) Limited,120718,United Kingdom,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank",2021,2
+Allied Bank Pakistan,112749,Pakistan,Asian Bank,2021,2
+Private Finance Initiative Promotion Corporation of Japan,134496,Japan,"Asian Bank, Japanese Bank",2021,2
+Banco Actinver SA Institucion De Banca Multiple Grupo Financiero Actinver,149627,Mexico,"Canadian Bank, European Bank",2021,2
+Meezan Bank,16445,Pakistan,Asian Bank,2021,2
+Banco Inbursa,17927,Mexico,"Canadian Bank, European Bank",2021,2
+Askari Bank Ltd,18453,Pakistan,Asian Bank,2021,2
+MCB Bank Ltd,18454,Pakistan,Asian Bank,2021,2
+Faysal Bank Ltd,18669,Pakistan,Asian Bank,2021,2
+Bank Alfalah,19987,Pakistan,Asian Bank,2021,2
+Kure Shinkin Bank,57628,Japan,"Asian Bank, Japanese Bank",2021,2
+Hiroshima Shinkin,78438,Japan,"Asian Bank, Japanese Bank",2021,2
+Bank of China Zhenjiang,105295,China,Asian Bank,2021,2
+Bank of China Nanjing,120080,China,Asian Bank,2021,2
+Jiangsu Zijin Rural Commercial Bank Co Ltd,120093,China,Asian Bank,2021,2
+Zhongyuan Bank Co Ltd,121952,China,Asian Bank,2021,2
+Land Bank of Taiwan Singapore,14046,Singapore,"African Bank, Asian Bank",2021,2
+Bank of Kaohsiung OBB,34387,Taiwan,"African Bank, Asian Bank",2021,2
+Chang Hwa Commercial Bank Offshore Banking Branch,45178,Taiwan,"African Bank, Asian Bank",2021,2
+Shanghai Commercial & Savings Bank Singapore,128701,Singapore,"African Bank, Asian Bank",2021,2
+Ardian Private Debt,135505,France,,2021,2
+Standard Chartered Bank (China) Ltd,17509,China,"Asian Bank, Japanese Bank",2021,2
+MG Community Credit Cooperatives,159750,South Korea,,2021,2
+OJSC Bank Saint-Petersburg,48399,Russian Federation,European Bank,2021,2
+Iwate Bank,54828,Japan,"Asian Bank, Japanese Bank",2021,2
+Sumitomo Mitsui Banking Corp (China) Ltd,19251,China,"Asian Bank, Japanese Bank",2021,2
+Osaka-Shoko Shinkin Bank,81874,Japan,"Asian Bank, Japanese Bank",2021,2
+Istituto per il Credito Sportivo,93758,Italy,European Bank,2021,2
+Hana Financial Group Inc,98000,South Korea,,2021,2
+KB Financial Group Inc,98693,South Korea,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,2
+SinoPac Capital International (HK) Ltd,154769,Hong Kong,"African Bank, Asian Bank",2021,2
+RHB Bank (L) Ltd,155189,Malaysia,"Asian Bank, European Bank",2021,2
+CIMB Bank Berhad Labuan Offshore Branch,28313,Malaysia,"Asian Bank, European Bank",2021,2
+Banco de Desarrollo de America Latina [CAF],107960,Venezuela,"Diversified Financial Services Company, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,2
+Westpac Banking Corp New Zealand Branch,49694,New Zealand,Australian/New Zealand Bank,2021,2
+Landesbank Saar GZ,11275,Germany,European Bank,2021,2
+Bank of China Suzhou Kunshan Sub-Branch,148043,China,Asian Bank,2021,2
+Bank of China Henan,40693,China,Asian Bank,2021,2
+Bank of Communications Henan,146565,China,Asian Bank,2021,2
+PTC India Financials Services Ltd,102786,India,"Asian Bank, Diversified Financial Services Company",2021,2
+Laboral Kutxa,114688,Spain,European Bank,2021,2
+Bank of China Nantong,105015,China,Asian Bank,2021,2
+Amundi SA,122471,France,"Diversified Financial Services Company, European Bank, Insurance Company",2021,2
+Jiangsu Taixing Rural Commercial Bank,133057,China,Asian Bank,2021,2
+Light Elite Opportunity VIII,159745,Australia,,2021,2
+Jiangsu Guanyun Rural Commercial Bank,160038,China,Asian Bank,2021,2
+Aba Rural Credit Cooperatives,160054,China,Asian Bank,2021,2
+Societe Hospitaliere d'Assurances Mutuelles,160969,France,"Diversified Financial Services Company, European Bank, Insurance Company",2021,2
+Dubai International Financial Centre [DIFC],24321,United Arab Emirates,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,2
+Neuflize OBC,120905,France,"Diversified Financial Services Company, European Bank, Insurance Company",2021,2
+Too Shinkin Bank,76145,Japan,Japanese Bank,2021,2
+Caja Rural de Burgos,43426,Spain,European Bank,2021,2
+Banobras,10642,Mexico,Development Finance Institution,2021,2
+Agence Francaise de Development [AFD],10950,France,"Development Finance Institution, Government Sponsored Lender",2021,2
+CTBC Bank Philippines,119879,Philippines,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Aoi Mori Shinkin Bank,113246,Japan,Japanese Bank,2021,2
+Banreservas,115694,Dominican Republic,,2021,2
+REC Ltd,142566,India,Other,2021,2
+China Everbright Bank Guangdong,118618,China,,2021,2
+Caisse d'Epargne de Bourgogne Franche-Comte,101089,France,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Thanachart Bank Public Co Ltd,13085,Thailand,Government Sponsored Lender,2021,2
+Canada Infrastructure Bank (CIB),141447,Canada,,2021,2
+Robinsons Bank Corp,144080,Philippines,Asian Bank,2021,2
+Aomoriken Shinyou Kumiai,161184,Japan,Japanese Bank,2021,2
+EBI SA Groupe Ecobank,109129,France,"African Bank, European Bank",2021,2
+ING Bank (Australia) Ltd,12085,Australia,"Australian/New Zealand Bank, European Bank",2021,2
+Mizuho Bank Seoul,110392,South Korea,"Asian Bank, European Bank",2021,2
+Kanagawa Kenshinren,75663,Japan,"Asian Bank, Japanese Bank",2021,2
+China Development Bank HK,16662,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,2
+Security Bank Corp,91304,Philippines,Asian Bank,2021,2
+United Coconut Planters Bank,93768,Philippines,Asian Bank,2021,2
+Bank of Commerce,94109,Philippines,Asian Bank,2021,2
+Komercijalna Banka AD,94464,North Macedonia,European Bank,2021,2
+Credit Agricole Nord de France,99509,France,"European Bank, Multinational Investment Bank & Financial Services",2021,2
+Deutsche Postbank Luxembourg Branch,45525,Luxembourg,European Bank,2021,3
+Nara Shinkin Bank,126877,Japan,"Asian Bank, Japanese Bank",2021,3
+8 Sigma Capital Holdings Pte Ltd,161154,Singapore,Private Equity,2021,3
+Sanlam Ltd [South African National Life Assurance Co],19078,South Africa,"African Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Itau Unibanco Holding SA,27042,Brazil,"Asian Bank, Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+OTP Bank Rt [National Savings & Commercial Bank],6103,Hungary,European Bank,2021,3
+Alpha Bank AE,97505,Greece,European Bank,2021,3
+United Bulgarian Bank AD [UBB],98462,Bulgaria,European Bank,2021,3
+DG HYP [Deutsche Genossenschafts-Hypothekenbank AG],13386,Germany,European Bank,2021,3
+Brilliant Luna Opportunity III,159842,Australia,,2021,3
+Ardent Joy Opportunity VIII Ltd,159852,Australia,,2021,3
+Bank of China Thai Pcl,147531,Thailand,Asian Bank,2021,3
+Hongkong & Shanghai Banking Corp Ltd Bangkok Branch,16042,Thailand,Asian Bank,2021,3
+Mitsubishi HC Capital Inc,159650,Japan,Asian Bank,2021,3
+Central 1 Credit Union,147760,Canada,Diversified Financial Services Company,2021,3
+Momentum Metropolitan Life Limited,160762,Gabon,African Bank,2021,3
+SinoPac Securities Corp,17141,Taiwan,"Asian Bank, Diversified Financial Services Company, European Bank",2021,3
+ING Luxembourg SA,10696,Luxembourg,European Bank,2021,3
+Woori Financial Group,101466,South Korea,"Asian Bank, Diversified Financial Services Company, European Bank",2021,3
+Bank of China Ltd Milan Branch,94564,Italy,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,3
+SB Capital Investment Corp,130035,Philippines,Asian Bank,2021,3
+PT Bank SBI Indonesia,118748,Indonesia,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+PT Bank ICBC Indonesia,94049,Indonesia,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank of Yokohama Singapore,91821,Japan,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+PT Bank Danamon Indonesia Tbk,58823,Indonesia,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank of Baroda Singapore,106049,Singapore,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Agricultural Bank of China Jinhua,134846,China,,2021,3
+Bank of China Suzhou,38784,China,Japanese Bank,2021,3
+Demir-Halk Bank Nederland NV [DHB],28850,Netherlands,"Asian Bank, European Bank",2021,3
+Turkiye Sinai Kalkinma Bankasi AS [TSKB],12350,Turkey,"Asian Bank, Development Finance Institution",2021,3
+Meranti Global Investment Pte Ltd,161140,Singapore,,2021,3
+Vseobecna Uverova Banka AS [VUB],11505,Slovakia,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Africa Finance Corp,103320,Nigeria,"African Bank, European Bank, Government Sponsored Lender",2021,3
+KfW Bankengruppe,11834,Germany,"Development Finance Institution, European Bank",2021,3
+Sanlam Capital Markets Ltd,121591,South Africa,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+Africa Trade Finance,140039,United Kingdom,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+Bank of Communications Co Ltd,16250,China,Asian Bank,2021,3
+Tunis International Bank,34032,Tunisia,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+HSBC Amanah Malaysia Bhd,148916,Malaysia,Asian Bank,2021,3
+Access Bank UK Limited,140030,United Kingdom,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+Investec Bank (Mauritius) Ltd,39930,Mauritius,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+Ghana International Bank Plc,93820,Ghana,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+African Export-Import Bank,9744,Egypt,"African Bank, European Bank, Government Sponsored Lender",2021,3
+Banca Agricola Popolare di Ragusa SCpA,136135,Italy,European Bank,2021,3
+Cassa di Risparmio di Bolzano SpA,93767,Italy,European Bank,2021,3
+Credito Valtellinese Scarl,91326,Italy,European Bank,2021,3
+Incus Capital,124640,Spain,,2021,3
+Green for Growth Fund,128630,Luxembourg,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Ontario Teachers Pension Plan,14168,Canada,,2021,3
+China Citic Bank Shanghai,24556,China,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Raiffeisenlandesbank Niederosterreich-Wien AG,44319,Austria,European Bank,2021,3
+Mizuho Bank Hong Kong,111768,Hong Kong,"Asian Bank, Japanese Bank",2021,3
+Credicorp,50543,Peru,Latin America & Caribbean Bank,2021,3
+Bank Austria AG,69025,Austria,European Bank,2021,3
+Qatar National Bank QPSC,8625,Qatar,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+DZ Bank AG Singapore,46209,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Commerzbank AG Singapore,46331,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Hua Nan Commercial Bank Manila,146927,Philippines,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank",2021,3
+China Merchants Bank Singapore,113654,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Industrial & Commercial Bank of China (Middle East) Ltd,117022,United Arab Emirates,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank",2021,3
+Industrial & Commercial Bank of China Manila Branch,146923,Philippines,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank",2021,3
+ICBC Singapore,30700,Hong Kong,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Chang Hwa Commercial Bank Singapore,43930,Taiwan,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+First Abu Dhabi Bank Singapore,136764,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Public Bank Bhd,13509,Malaysia,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Public Bank (L) Ltd,39143,Malaysia,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Home Trust Co,143181,Canada,Diversified Financial Services Company,2021,3
+E Sun Commercial Bank Singapore,117398,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Luminor Bank AS,159220,Estonia,European Bank,2021,3
+Kreos Capital Group Ltd,160146,United Kingdom,Development Finance Institution,2021,3
+Korea Development Bank Tokyo Branch,52827,Japan,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Industrial Bank of Korea,10228,South Korea,Asian Bank,2021,3
+Banco Nacional de Comercio Exterior SNC,10821,Mexico,"Asian Bank, Canadian Bank, European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,3
+Permira Credit Ltd,160127,United Kingdom,,2021,3
+Banco Mercantil del Norte,12669,Mexico,"Asian Bank, Canadian Bank, European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,3
+Mashreq Bank,108522,United Arab Emirates,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Chinatrust Commercial Bank Ltd,14380,Taiwan,Asian Bank,2021,3
+Bank of Hangzhou,111353,China,"Asian Bank, European Bank",2021,3
+Maybank Indonesia,122744,Indonesia,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+UDC Finance Ltd,130198,New Zealand,,2021,3
+Bank Syariah Mandiri,93587,Indonesia,European Bank,2021,3
+PT Bank Rakyat Indonesia,97033,Indonesia,European Bank,2021,3
+ACOFI,117997,France,,2021,3
+RED VI Impact,160097,France,,2021,3
+ING Bank Slaski SA,98203,Poland,European Bank,2021,3
+Kingdom of Thailand,11139,Thailand,,2021,3
+Global Loan Agency Services Ltd,125317,United Kingdom,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+FIMBank Plc,17047,United Kingdom,European Bank,2021,3
+Mobiasbanca SA,28096,Moldova,European Bank,2021,3
+Eurazeo SA,97977,France,Diversified Financial Services Company,2021,3
+Concentra Financial Services Association,106696,Canada,"Canadian Bank, Diversified Financial Services Company",2021,3
+UBS AG Hongkong,12708,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Taishin International Bank Hong Kong,39782,Hong Kong,"Asian Bank, Diversified Financial Services Company, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+China Guangfa Bank Macau Branch,15915,Macao,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Governor and Company of the Bank of Ireland,138799,Ireland,"Canadian Bank, European Bank, Japanese Bank",2021,3
+Chong Hing Bank Macau,107389,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Grand Circle Opportunity VIII,160143,Australia,,2021,3
+Blacksoil Capital Pvt Ltd,161112,India,Asian Bank,2021,3
+Bank Mandiri Hong Kong,18844,Hong Kong,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Arquia Banca,138614,Spain,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+EuroBic,161484,Portugal,European Bank,2021,3
+Bank of China Auckland,121110,New Zealand,"Asian Bank, Australian/New Zealand Bank, Business Corporation, Diversified Financial Services Company, European Bank, Other",2021,3
+ICBC New Zealand,121099,New Zealand,"Asian Bank, Australian/New Zealand Bank",2021,3
+AlBaraka Bank Ltd,15405,South Africa,"European Bank, Middle Eastern Bank",2021,3
+Horley,160186,Australia,,2021,3
+Lead Rider Opportunity II,160191,Australia,,2021,3
+Pure Asset Management Pty Ltd,160192,Australia,,2021,3
+AAM Fund 1 LP,160274,Australia,"Asian Bank, Australian/New Zealand Bank",2021,3
+Aotea Asset Management,185846,New Zealand,"Asian Bank, Australian/New Zealand Bank, Business Corporation, Diversified Financial Services Company, European Bank, Other",2021,3
+Housing & Development Bank [HDB],19824,Egypt,"European Bank, Middle Eastern Bank",2021,3
+Suez Canal Bank,25427,Egypt,"European Bank, Middle Eastern Bank",2021,3
+Faisal Islamic Bank of Egypt,25582,Egypt,"European Bank, Middle Eastern Bank",2021,3
+Arab African International Bank PJSC [AAIB],25593,Egypt,"European Bank, Middle Eastern Bank",2021,3
+HSBC New Zealand,52237,New Zealand,"Asian Bank, Australian/New Zealand Bank, Business Corporation, Diversified Financial Services Company, European Bank, Other",2021,3
+Bank of Alexandria SAE [AlexBank],114153,Egypt,"European Bank, Middle Eastern Bank",2021,3
+Kiwibank Ltd,54677,New Zealand,"Asian Bank, Australian/New Zealand Bank, Business Corporation, Diversified Financial Services Company, European Bank, Other",2021,3
+Taishin Commercial Bank,38090,Taiwan,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Xiamen Bank,152612,China,Asian Bank,2021,3
+Moka Credit Union,160093,Japan,"Asian Bank, Japanese Bank",2021,3
+Caisse de Depot et Placement du Quebec,16223,Canada,Canadian Bank,2021,3
+Morgan Stanley & Co International,50101,United Kingdom,Multinational Investment Bank & Financial Services,2021,3
+Asahi Mutual Life Insurance Co,77608,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,3
+Nacional Financiera SA,10640,Mexico,,2021,3
+MoraBanc,114138,Andorra,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+JA Bank Nagano,115265,Japan,"European Bank, Japanese Bank",2021,3
+Haitong Bank SA,123961,Portugal,"Canadian Bank, European Bank",2021,3
+Sanne Group Plc,135091,United Kingdom,"European Bank, Japanese Bank, Other",2021,3
+Sprott Resource Lending Corp,135327,Canada,,2021,3
+Nomura Mezzanine Partners,150786,Japan,Asian Bank,2021,3
+Grand Circle Opportunity III,160194,Australia,,2021,3
+BM Lease,161070,Egypt,European Bank,2021,3
+Islamic Corporation for the Development of the Private Sector,135366,Saudi Arabia,Middle Eastern Bank,2021,3
+Arab Investment Company,138360,Saudi Arabia,Middle Eastern Bank,2021,3
+Nomura Australia,32692,Australia,,2021,3
+Credit Agricole du Morbihan,126620,France,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Caja Rural del Sur,112106,Spain,"European Bank, Latin America & Caribbean Bank",2021,3
+TC Ziraat Bankasi AS,11404,Turkey,"Asian Bank, Other",2021,3
+Bank of China (New Zealand),135811,New Zealand,"Asian Bank, Australian/New Zealand Bank",2021,3
+Caixa Popular,133609,Spain,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Caja de Ahorros y Monte de Piedad de Ontinyent,15178,Spain,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank Taiwan Life Insurance Co Ltd,23500,Taiwan,"Asian Bank, European Bank, Insurance Company",2021,3
+Nagoya Bank,39670,Japan,"Asian Bank, Japanese Bank",2021,3
+Bankwest,17925,Australia,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,3
+Turkiye Halk Bankasi AS,9981,Turkey,"Asian Bank, Other",2021,3
+PHL Fininvest Pvt Ltd,146376,India,,2021,3
+DMI Finance Pvt Ltd,161681,India,,2021,3
+Bank of China (Luxembourg),23019,China,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank of China Frankfurt,40084,China,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+ICBC (Europe) SA Brussels Branch,106695,Belgium,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+ICBC London Plc,25982,United Kingdom,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+DnB Markets,25031,Norway,"Asian Bank, European Bank",2021,3
+Standard Chartered Bank (Taiwan) Ltd,104120,Taiwan,Asian Bank,2021,3
+Australian Infrastructure Financing Facility for the Pacific,160310,Australia,Australian/New Zealand Bank,2021,3
+Emirates Islamic Bank PJSC [EIB],25850,United Arab Emirates,"Asian Bank, Middle Eastern Bank",2021,3
+Daegu Bank,97524,South Korea,"Asian Bank, European Bank, Japanese Bank",2021,3
+Kunshan Rural Commercial Bank,135911,China,Asian Bank,2021,3
+Banco Nacional de Panama,19141,Panama,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Banistmo SA,117683,Panama,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Caixa Central de Credito Agrario Mutuo,100926,Portugal,European Bank,2021,3
+Nikko Asset Management Co Ltd,54515,Japan,"Australian/New Zealand Bank, Diversified Financial Services Company",2021,3
+Banco di Sardegna SpA,48395,Italy,European Bank,2021,3
+IDBI Trusteeship Services Ltd,148856,India,European Bank,2021,3
+Arab Bank for Economic Development in Africa [BADEA],155219,Sudan,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+London Forfaiting Co,35539,United Kingdom,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,3
+Nomura Singapore,18003,Singapore,Australian/New Zealand Bank,2021,3
+China Merchants Bank Guangzhou,117051,China,Asian Bank,2021,3
+Shanghai Pudong Development Bank Guangzhou,119608,China,Asian Bank,2021,3
+Light Elite Opportunity V,160324,Australia,,2021,3
+Rider Opportunity V,160394,Australia,,2021,3
+FMO,37044,Netherlands,European Bank,2021,3
+Ahli Bank QSC,128220,Qatar,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Standard Chartered Investments and Loans (India) Ltd,161691,India,,2021,3
+Federated Investors (UK) LLP,155214,United Kingdom,"Asian Bank, Development Finance Institution, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Achmea Pensioen en Levensverzekeringen NV,160445,Netherlands,"European Bank, Insurance Company",2021,3
+Ahli United Bank (UK) Plc,6963,United Kingdom,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Zurich Insurance Group AG,37815,Switzerland,"European Bank, Insurance Company, Multinational Investment Bank & Financial Services",2021,3
+AmInvestment Bank Bhd,23149,Malaysia,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Dai-ichi Kangyo Credit Coop,80151,Japan,"Asian Bank, Japanese Bank",2021,3
+Aichiken Chuou Shinyo Kumiai,59252,Japan,Japanese Bank,2021,3
+Bank Muscat International BSC [BMI],22520,Bahrain,"European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Duca Financial Services Credit Union,108745,Canada,"Asian Bank, Canadian Bank",2021,3
+Taiwan Business Bank OBB,45016,Taiwan,"Asian Bank, European Bank, Middle Eastern Bank",2021,3
+China Construction Bank (Europe) Amsterdam Branch,138373,Netherlands,"Asian Bank, European Bank, Middle Eastern Bank",2021,3
+MaxCap FA Pty Ltd,146921,Australia,Pension Fund,2021,3
+Deutsche Apotheker-und Arztebank,16144,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Australiansuper Pty Ltd,27548,Australia,Pension Fund,2021,3
+Hongkong & Shanghai Banking Corp Ltd Singapore Branch,18589,Singapore,"Asian Bank, Australian/New Zealand Bank",2021,3
+Landesbank Baden-Wurttemberg [Singapore],13375,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+CPPIB Capital Inc,162640,Canada,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank fur Tirol und Vorarlberg AG,50879,Austria,European Bank,2021,3
+Intesa Sanpaolo SpA Hong Kong Branch,11610,Hong Kong,"Asian Bank, Australian/New Zealand Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Canadian Imperial Bank of Commerce Hongkong,40206,Canada,Asian Bank,2021,3
+Imari Shinkin Bank,54495,Japan,"Asian Bank, Japanese Bank",2021,3
+Natixis SA Singapore Branch,15182,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,3
+Bank of China Suzhou High-Tech Industrial Development Zone Branch,139171,China,Asian Bank,2021,3
+ING Bank NV London,10908,United Kingdom,"Canadian Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank of China Malaysia,47198,Malaysia,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Arab Banking Corp BSC [Singapore],22527,Singapore,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Danyo Shinkumi,71394,Japan,"Asian Bank, Japanese Bank",2021,3
+Siam Commercial Bank,10059,Thailand,"Asian Bank, European Bank",2021,3
+CEC Bank,104150,Romania,European Bank,2021,3
+Kreis-Sparkasse Northeim,113658,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Banca Romaneasca,122173,Romania,European Bank,2021,3
+Banca Transilvania SA [BT],7279,Romania,European Bank,2021,3
+Commercial International Bank (Egypt) SAE,12987,Egypt,Middle Eastern Bank,2021,3
+National Bank of Egypt (UK) Ltd,18141,United Kingdom,Middle Eastern Bank,2021,3
+Al Watany Bank of Egypt [AWB],18759,Egypt,Middle Eastern Bank,2021,3
+New Development Bank,134533,China,"Development Finance Institution, Government Sponsored Lender",2021,3
+Indian Renewable Energy Development Agency Ltd,27055,India,Government Sponsored Lender,2021,3
+BTG Pactual,102596,Brazil,Diversified Financial Services Company,2021,3
+Hua Nan Commercial Bank Macau,131448,Macao,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Tanarra Credit Partners,139197,Australia,"Asset Manager, Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank of Taiwan Hong Kong,44002,Taiwan,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank of Shanghai Jiangsu,117217,China,Asian Bank,2021,3
+Sumitomo Life Insurance Ltd,52310,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,3
+Osakashoko Shinkin Bank,55472,Japan,"Asian Bank, Japanese Bank",2021,3
+Japan Post Insurance Co Ltd,67181,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,3
+Fukoku Life,73538,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,3
+Shizuoka Kenshinren,80626,Japan,"Asian Bank, Japanese Bank",2021,3
+State Bank of India Shanghai branch,25148,China,"Asian Bank, European Bank, Japanese Bank",2021,3
+Bank of China Dubai Branch,138351,United Arab Emirates,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+ICBC International Finance Ltd,149774,Hong Kong,"Asian Bank, European Bank",2021,3
+Morgan Stanley Bank International (China) Ltd,137633,China,"Asian Bank, European Bank, Japanese Bank",2021,3
+Bank SinoPac (China),116950,China,"Asian Bank, European Bank, Japanese Bank",2021,3
+Banorte (El Banco Fuerte de Mexico),14770,Mexico,"Canadian Bank, European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,3
+Credit Agricole CIB (China) Ltd,151750,China,"Asian Bank, European Bank, Japanese Bank",2021,3
+Societe Generale Asia Ltd,49393,Japan,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Bayfront Infrastructure Management,152698,Singapore,"Asian Bank, Diversified Financial Services Company, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Industrial & Commercial Bank of China Macau,45014,Macao,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,3
+Taiwan Business Bank Hong Kong,43087,Taiwan,Asian Bank,2021,3
+OCP Asia,125202,Hong Kong,Asian Bank,2021,3
+Chang Hwa Commercial Bank Manila,146926,Philippines,"Asian Bank, European Bank, Japanese Bank",2021,3
+JP Morgan Chase Bank NA Singapore,117392,Singapore,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,3
+OL Master (Singapore Fund 1) Pte Ltd,148367,Singapore,Asian Bank,2021,3
+Orchard Landmark II (Singapore Fund 1) Pte Ltd,148368,Singapore,Asian Bank,2021,3
+Jolly Well International II,160545,Australia,,2021,3
+Bank of Beijing Jiangsu,117225,China,Asian Bank,2021,3
+RHB Bank Singapore,42060,Malaysia,"Asian Bank, European Bank, Japanese Bank",2021,3
+Egyptian Gulf Bank [EGB],28178,Egypt,"European Bank, Middle Eastern Bank, Other",2021,3
+Mega International Commercial Bank Co Ltd Labuan Branch,22093,Taiwan,"Asian Bank, European Bank, Japanese Bank",2021,3
+Rakuten Bank Ltd,161149,Japan,Japanese Bank,2021,3
+China Development Bank Jiangsu Branch,24742,China,Asian Bank,2021,3
+Hokkoku Bank Ltd Singapore,145353,Singapore,"Asian Bank, European Bank, Japanese Bank",2021,3
+Penfund Partners Inc,160752,Canada,"Asset Manager, BDC",2021,3
+Eksport Kredit Fonden,58076,Denmark,"Australian/New Zealand Bank, Government Sponsored Lender, Japanese Bank",2021,3
+Mori No Miyako Shinkin Bank,58942,Japan,"Asian Bank, Japanese Bank",2021,3
+Arab National Bank [ANB],6894,Saudi Arabia,Middle Eastern Bank,2021,3
+Karatsu Shinkin Bank,79785,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,3
+Svensk Exportkredit AB (publ) [SEK] [Swedish Export Credit Corp],11111,Sweden,"European Bank, Export-Import Bank/ECA",2021,3
+First Sentier Investments,157732,United Kingdom,"Asian Bank, Australian/New Zealand Bank",2021,3
+Islamic Development Bank,23130,Saudi Arabia,,2021,3
+Burlington Loan Management Ltd,102449,Ireland,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Grand Circle Opportunity V,160627,Australia,,2021,3
+Kreissparkasse Heilbronn,18393,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+Tamshui First Credit Cooperative Bank,25193,Taiwan,Asian Bank,2021,3
+GLS Gemeinschaftsbank eG,148675,Germany,European Bank,2021,3
+IBT Leasing Co Ltd,132890,Taiwan,"African Bank, Asian Bank",2021,3
+Osaka Kousei Shinkin Bank,58583,Japan,"Asian Bank, Japanese Bank",2021,3
+Bank of South Pacific Ltd,106299,Papua New Guinea,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank of East Asia OBU,128622,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,3
+State Bank of India Osaka,38074,Japan,"Asian Bank, Business Corporation, Japanese Bank, Latin America & Caribbean Bank",2021,3
+Lotte F&L Singapore Pte Ltd,153835,Singapore,"Asian Bank, Business Corporation, Japanese Bank, Latin America & Caribbean Bank",2021,3
+Kina Securities Ltd,160702,Papua New Guinea,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+RBC Europe Ltd,124187,United Kingdom,"Asian Bank, Canadian Bank, Multinational Investment Bank & Financial Services",2021,3
+Banco Itau BBA SA,12489,Brazil,European Bank,2021,3
+Mizuho Bank Sydney Branch,124177,Australia,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Resona Merchant Bank Asia Ltd,161202,Singapore,"Asian Bank, Business Corporation, Japanese Bank, Latin America & Caribbean Bank",2021,3
+Credit Cooperatif,97634,France,European Bank,2021,3
+Daido Life Insurance,50978,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,3
+UBS AG Singapore,23545,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+OakNorth Bank Ltd,134186,United Kingdom,"Asian Bank, European Bank",2021,3
+Citibank NA Singapore Branch,27701,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Bank of America Singapore,22737,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Itau Unibanco SA,13414,Brazil,"European Bank, Latin America & Caribbean Bank",2021,3
+KBC Bank Singapore,47368,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Credit Agricole Corporate & Investment Bank Singapore Branch,26916,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Societe Generale SA Hongkong Branch,13621,Hong Kong,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+KEB Hana Bank Singapore Branch,144897,Singapore,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Credit Industriel et Commercial Singapore,101665,France,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+AXA SA,5664,France,"Asian Bank, Australian/New Zealand Bank, Canadian Bank, European Bank, Insurance Company",2021,3
+Banco BTG Pactual SA [Ex-BTG Pactual],102596,Brazil,"Canadian Bank, Diversified Financial Services Company, European Bank, Latin America & Caribbean Bank",2021,3
+Lloyds Banking Group Plc,38362,United Kingdom,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+International Investment Bank,125488,Hungary,"African Bank, Asian Bank, Development Finance Institution, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Jayce Capital Opportunity,160848,Australia,,2021,3
+International Fund for Agricultural Development [IFAD],161120,Italy,"Development Finance Institution, European Bank, Government Sponsored Lender, Multinational Investment Bank & Financial Services",2021,3
+PT Bank Mandiri Hong Kong,40710,Hong Kong,Japanese Bank,2021,3
+Hokkaido Shinren,79580,Japan,"Asian Bank, Japanese Bank",2021,3
+China Construction Bank Agencia en Chile,136774,Chile,"Asian Bank, Development Finance Institution, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Kushiro Shinkin Bank,149899,Japan,"Asian Bank, Japanese Bank",2021,3
+OCBC Al-Amin Bank Bhd,25290,Malaysia,Asian Bank,2021,3
+CIMB Islamic Bank Bhd,10883,Malaysia,Asian Bank,2021,3
+ING Bank Hongkong,15360,Netherlands,"Asian Bank, European Bank",2021,3
+Tokachishinkumi,57072,Japan,"Asian Bank, Japanese Bank",2021,3
+Obihiro Shinkin Bank,58377,Japan,"Asian Bank, Japanese Bank",2021,3
+Lembaga Pembiayaan Ekspor Indonesia,94059,Indonesia,"Asian Bank, European Bank",2021,3
+Banco Comercial de Macau,43073,Macao,"Asian Bank, Canadian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+Kasikornbank Shenzhen,116946,China,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Shin Kong Commercial Bank Hong Kong,133862,Hong Kong,Asian Bank,2021,3
+Luso International Banking Macau,44750,Macao,"Asian Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+UniCredit Bank AG Hong Kong Branch,18655,Hong Kong,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,3
+Banco Comercial Portugues SA [BCP],97522,Portugal,"Asian Bank, Australian/New Zealand Bank, European Bank, Middle Eastern Bank",2021,3
+Siam Commercial Bank Public Co Ltd Hongkong Branch,13240,Hong Kong,"Asian Bank, European Bank",2021,3
+Volksbank eG Braunschweig Wolfsburg [BraWo],109457,Germany,European Bank,2021,3
+Sparkasse Munsterland Ost,12414,Germany,European Bank,2021,3
+Saga Kyoei Bank Ltd,125022,Japan,Asian Bank,2021,3
+Allianz AG [AZAG],18387,Germany,"European Bank, Insurance Company",2021,3
+Societe Generale Hong Kong,18245,Hong Kong,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,3
+Natixis SA Hong Kong Branch,19252,Hong Kong,"Asian Bank, European Bank",2021,3
+Stadtsparkasse Wuppertal,103702,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+State Bank of India Antwerp,38073,India,,2021,3
+Tata Cleantech Capital Ltd,117411,India,"Asian Bank, Diversified Financial Services Company",2021,3
+Tata Capital Ltd,20626,India,"Asian Bank, Diversified Financial Services Company",2021,3
+Ping An Bank Shanghai,19875,China,"Asian Bank, Japanese Bank",2021,3
+L&T Finance Ltd,19412,India,"Asian Bank, Diversified Financial Services Company",2021,3
+Actinver,115717,Mexico,European Bank,2021,3
+United Overseas Bank Hongkong,16523,Singapore,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Sydbank,52581,Denmark,European Bank,2021,3
+Ecobank Transnational Inc,23202,Togo,"African Bank, Asian Bank, European Bank",2021,3
+Season Sheen Opportunity V,161219,Australia,,2021,3
+Stadtsparkasse Dusseldorf,19393,Germany,"Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,3
+Waterland Financial Holdings,19111,Taiwan,,2021,3
+Starhub Online Pte Ltd,161482,Singapore,,2021,3
+Juroku Bank Ltd,161505,Japan,"Asian Bank, Japanese Bank",2021,3
+Shonai Bank,54826,Japan,Asian Bank,2021,3
+Sparkasse Dortmund,12217,Germany,European Bank,2021,3
+Volksbank Hohenlimburg eG,136610,Germany,European Bank,2021,3
+Bankhaus Lampe KG,15362,Germany,European Bank,2021,3
+Sparkasse Mittelholstein AG,161591,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,3
+HSBC Saudi Arabia Ltd,144308,Saudi Arabia,Middle Eastern Bank,2021,3
+Bank Al-Jazira,20912,Saudi Arabia,Middle Eastern Bank,2021,3
+Saudi National Commercial Bank,34316,Saudi Arabia,Middle Eastern Bank,2021,3
+Saitamaken Shinyoukinko,58321,Japan,"Asian Bank, Japanese Bank",2021,3
+Handa Shinkin Bank,75152,Japan,"Asian Bank, Japanese Bank",2021,3
+Deutsche Bank Tokyo,54408,Japan,Asian Bank,2021,3
+Kanagawa Shinkin Bank,116590,Japan,"Asian Bank, Japanese Bank",2021,3
+Chinese Mercantile Bank,42306,China,Asian Bank,2021,3
+Tokyoto Shinren,55261,Japan,"Asian Bank, Japanese Bank",2021,3
+Nagasaki Bank,58409,Japan,"Asian Bank, Japanese Bank",2021,3
+China Guangfa Bank Shanghai,37298,Hong Kong,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,3
+Industrial & Commercial Bank of China Beijing,105571,China,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,3
+First Caribbean International Bank (Cayman) Ltd,129516,Cayman Islands,"Canadian Bank, Latin America & Caribbean Bank",2021,3
+China Construction Bank Shanghai Pudong,19259,China,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,3
+Bank of Communications Shanghai Putuo Sub-branch,161388,China,"Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank, Middle Eastern Bank",2021,3
+Banco de Credito e Inversiones,110563,Chile,"Asian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank",2021,3
+China Everbright Bank Suzhou Branch,20681,China,Asian Bank,2021,3
+JA Bank Hokkaido,149871,Japan,Asian Bank,2021,3
+JA Bank Tokyo,161324,Japan,Asian Bank,2021,3
+Bank of the Ryukyus,42778,Japan,Japanese Bank,2021,3
+JA Bank Kagoshima,55965,Japan,Asian Bank,2021,3
+Obama Shinkin Bank,56143,Japan,Japanese Bank,2021,3
+Fuyo General Lease (HK) Ltd,82685,Japan,"Asian Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,3
+JA Bank Osaka,60827,Japan,Asian Bank,2021,3
+Osaka Shinkin Bank,67648,Japan,"Asian Bank, Japanese Bank",2021,3
+JA Bank Kanagawa,74664,Japan,Asian Bank,2021,3
+Ibaraki Kenshinren,83420,Japan,"Asian Bank, Japanese Bank",2021,3
+Credit Agricole Corporate & Investment Bank Seoul Branch,98673,South Korea,"Asian Bank, Multinational Investment Bank & Financial Services",2021,3
+Korean Federation of Community Credit Cooperative,98891,South Korea,,2021,3
+CIBC FirstCaribbean International Bank,17183,Barbados,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Berliner Sparkasse,114217,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Juroku Financial Group Inc [ex-Juroku Bank Ltd],52517,Japan,Asian Bank,2021,4
+Credit Agricole Charente Perigord,100938,France,European Bank,2021,4
+Brookfield Capital Partners Ltd,144095,Canada,"Canadian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Grupo Financiero Banorte,38270,Mexico,European Bank,2021,4
+Bank Cic (Schweiz) AG,140413,Switzerland,"African Bank, Asian Bank, European Bank, Japanese Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,4
+CITIC Bank International,11175,Hong Kong,Asian Bank,2021,4
+Thai Military Bank Public Co Ltd,12683,Thailand,,2021,4
+ASN Bank NV,32771,Netherlands,European Bank,2021,4
+Techcom Securities JSC,156128,Vietnam,,2021,4
+Privredna Banka Zagreb dd [PBZ],24703,Croatia,European Bank,2021,4
+NLB InterFinanz AG [NLBI],17422,Switzerland,European Bank,2021,4
+Qatar National Bank Singapore,118208,Singapore,"Asian Bank, Multinational Investment Bank & Financial Services",2021,4
+Banque Populaire Bourgogne Franche-Comte [BPBFC],98972,France,European Bank,2021,4
+Stadt Und Kreissparkasse Erlangen Hoechstadt Herzogenaurach,162533,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+KKR Capital Markets Asia Ltd,163366,Hong Kong,Asian Bank,2021,4
+BDO Capital & Investment,94466,Philippines,Asian Bank,2021,4
+Caisse Regionale du Credit Agricole de Brie Picardie,101552,France,European Bank,2021,4
+China Construction Bank Guangdong,107358,China,Asian Bank,2021,4
+Guangdong Development Bank,102628,China,Asian Bank,2021,4
+Industrial & Commercial Bank of China Singapore,34308,Singapore,"Asian Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Revolution Asset Management,136289,Australia,Australian/New Zealand Bank,2021,4
+United Overseas Bank (Thai) Public Co Ltd,14376,Thailand,Asian Bank,2021,4
+International Islamic Trade Finance Corp [ITFC],124115,Saudi Arabia,Development Finance Institution,2021,4
+CAC International Bank,155210,Djibouti,Development Finance Institution,2021,4
+Investissement Quebec,20211,Canada,"Canadian Bank, Diversified Financial Services Company",2021,4
+SGBT Asset Based Funding SA,98243,France,"Asian Bank, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Alter Domus Sarl,137904,Luxembourg,"Diversified Financial Services Company, European Bank",2021,4
+Jordan Islamic Bank,136272,Jordan,Development Finance Institution,2021,4
+Caisse d'Epargne Cote d'Azur,126444,France,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+BPCE [ex-Groupe Banque Populaire & Groupe Caisse d'Espargne],98877,France,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Bangkok Bank OBU,114749,Thailand,"Asian Bank, European Bank",2021,4
+Intesa Sanpaolo SPA Shanghai,24550,China,"Asian Bank, European Bank, Japanese Bank",2021,4
+Societe Marseillaise de Credit [SMC],97327,France,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Shin Kong Life Insurance,43464,Taiwan,"Asian Bank, Insurance Company",2021,4
+Henderson Real Estate Agency Ltd,161247,Hong Kong,Multinational Investment Bank & Financial Services,2021,4
+Middle East Bank Ltd,31086,United Arab Emirates,"Asian Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Commonwealth Bank of Australia Singapore,44087,Australia,"Asian Bank, Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Banco Santander (Brasil) SA,10752,Brazil,European Bank,2021,4
+Chubb Insurance Australia Ltd,142464,Australia,"Australian/New Zealand Bank, Insurance Company",2021,4
+Envy Flair Opportunity II Ltd,156306,Australia,,2021,4
+Allianz Australia Insurance Ltd,21845,Australia,"Australian/New Zealand Bank, Insurance Company",2021,4
+Kerala Infrastructure Investment Fund Board,161728,India,,2021,4
+Oakhill,2489,United Kingdom,"Diversified Financial Services Company, Japanese Bank, Private Equity",2021,4
+King's Town Bank,27527,Taiwan,"Asian Bank, European Bank",2021,4
+PT Bank ANZ Indonesia,112937,Indonesia,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Agricultural Bank of China (Tokyo),162453,Japan,Asian Bank,2021,4
+China Merchants Bank London,127453,United Kingdom,Asian Bank,2021,4
+Hokkoku Financial Holdings Inc [ex-Hokkoku Bank Ltd],52854,Japan,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,4
+Dawn Sub TC Pty Ltd,163572,Australia,,2021,4
+Shinhan Bank Indonesia,134536,Indonesia,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services",2021,4
+Bank Gospodarstwa Krajowego [BGK],107220,Poland,European Bank,2021,4
+Manulife Insurance Co,158940,Canada,"Asian Bank, Australian/New Zealand Bank, Diversified Financial Services Company, European Bank, Insurance Company, Japanese Bank",2021,4
+Just Retirement Ltd,109319,United Kingdom,"Asian Bank, Australian/New Zealand Bank, Diversified Financial Services Company, European Bank, Insurance Company, Japanese Bank",2021,4
+Vantage Infrastructure [ex-Hastings Funds Management Ltd],140852,Australia,"Asian Bank, Australian/New Zealand Bank, Diversified Financial Services Company, European Bank, Insurance Company, Japanese Bank",2021,4
+Lyxor,128324,France,European Bank,2021,4
+Hana Financial Investment,130136,North Korea,"Asian Bank, Australian/New Zealand Bank, Diversified Financial Services Company, European Bank, Insurance Company, Japanese Bank",2021,4
+IFM Investors Pty Ltd,119961,Australia,"Asian Bank, Australian/New Zealand Bank, Diversified Financial Services Company, European Bank, Insurance Company, Japanese Bank",2021,4
+Canara Bank London,19791,United Kingdom,Asian Bank,2021,4
+Artemid Senior Loan III Slp,155678,France,"European Bank, Other",2021,4
+Samsung Global Infrastructure Investment Fund,162109,South Korea,"Asian Bank, Australian/New Zealand Bank, Diversified Financial Services Company, European Bank, Insurance Company, Japanese Bank",2021,4
+CDPQ,23177,United Kingdom,"Asset Manager, Canadian Bank, Diversified Financial Services Company, Multinational Investment Bank & Financial Services",2021,4
+National Bank AG,21519,Germany,"Asset Manager, Canadian Bank, Diversified Financial Services Company, Multinational Investment Bank & Financial Services",2021,4
+Swiss Reinsurance Co [Swiss Re],5863,Switzerland,"Asian Bank, Australian/New Zealand Bank, Diversified Financial Services Company, European Bank, Insurance Company, Japanese Bank",2021,4
+Commercial Bank of Kuwait SAK,97684,Kuwait,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+CIC Finance SA,99705,France,,2021,4
+Mirae Asset Securities,99675,South Korea,"Asian Bank, European Bank",2021,4
+Bank Tabungan Negara,93741,Indonesia,,2021,4
+Maybank Investment Bank Bhd,33496,Malaysia,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Invesco,143030,France,"Asian Bank, Asset Manager",2021,4
+PT Bank Victoria Tbk,93352,Indonesia,,2021,4
+KDB Bank Europe Ltd,120127,Hungary,European Bank,2021,4
+GIC Special Investments Pte Ltd,39719,Singapore,"Asset Manager, BDC, Multinational Investment Bank & Financial Services",2021,4
+Assetinsure Pty Ltd,143521,Australia,"Asian Bank, Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Vero Insurance Ltd,15332,Australia,"Asian Bank, Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Bank J Safra Sarasin Ltd,162079,Switzerland,"Asian Bank, Australian/New Zealand Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Shanghai Rural Commercial Bank Shanghai,21276,China,"Asian Bank, European Bank",2021,4
+Industrial & Commercial Bank of China Taizhou,114088,China,,2021,4
+Krung Thai Bank Public Co Ltd Singapore,16726,Singapore,"Asian Bank, European Bank",2021,4
+Evergrowing Bank Co Ltd,18259,China,"Asian Bank, Multinational Investment Bank & Financial Services",2021,4
+De Volksbank NV,162317,Netherlands,European Bank,2021,4
+Citibank Sydney,110892,Australia,"Australian/New Zealand Bank, Diversified Financial Services Company",2021,4
+Deutsche Bank Malaysia,23959,Germany,,2021,4
+DBS Bank Indonesia,118186,Indonesia,,2021,4
+Dah Sing Bank China,12331,China,"Asian Bank, European Bank",2021,4
+LBPAM European Responsible Infrastructure Debt FCT,156608,France,European Bank,2021,4
+Oversea-Chinese Commercial Banking Corp,36365,China,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Triodos Bank NV,32963,Netherlands,European Bank,2021,4
+Societe Generale London,97646,France,European Bank,2021,4
+Bank of China Shaoxing,134832,China,Asian Bank,2021,4
+Standard Chartered Bank New Delhi,36820,United Kingdom,Asian Bank,2021,4
+Bank Aljazira JSC,150088,Saudi Arabia,"Development Finance Institution, European Bank, Middle Eastern Bank",2021,4
+Saudi National Bank SJSC,161725,Saudi Arabia,"Development Finance Institution, European Bank, Middle Eastern Bank",2021,4
+Aseem Infrastructure Finance Ltd,162192,India,Asian Bank,2021,4
+Saudi Awwal Bank SJSC [SAB],175063,Saudi Arabia,"Development Finance Institution, European Bank, Middle Eastern Bank",2021,4
+Al Rajhi Bank,176881,Saudi Arabia,"Development Finance Institution, European Bank, Middle Eastern Bank",2021,4
+Banque Saudi Fransi SJSC [Al Bank Al Saudi Al Fransi],9553,Saudi Arabia,"Development Finance Institution, European Bank, Middle Eastern Bank",2021,4
+Caisse Regionale du Credit Agricole Mutuel du Languedoc [CRLA],98367,France,European Bank,2021,4
+Giant Steps Opportunity V,162038,Australia,,2021,4
+Mega Path Opportunity VIII,162046,Australia,,2021,4
+Credit Agricole Val de France,97252,France,European Bank,2021,4
+Banco de Chile,10062,Chile,European Bank,2021,4
+Westpac Banking Corp Singapore,19137,Australia,"African Bank, Asian Bank, Australian/New Zealand Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank",2021,4
+Westpac Singapore Ltd,22528,Singapore,"African Bank, Asian Bank, Australian/New Zealand Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank",2021,4
+Commerzbank AG London Branch,11695,United Kingdom,"African Bank, Asian Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Banco do Brasil S.A. France,122784,France,"African Bank, Asian Bank, Australian/New Zealand Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank",2021,4
+Indian Bank Singapore,24874,Singapore,"Asian Bank, Australian/New Zealand Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank",2021,4
+UOB Kay Hian,42709,Singapore,"Asian Bank, Multinational Investment Bank & Financial Services",2021,4
+Societe Financiere de la Nef SA,133204,France,European Bank,2021,4
+Citibank NA Jersey Branch,127325,United Kingdom,"African Bank, Asian Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+ICICI Securities,24328,India,Asian Bank,2021,4
+FCCD Australia Pty Ltd,162073,Australia,,2021,4
+MaxCap Investment Management Pty Ltd,162078,Australia,,2021,4
+Commerzbank Aktiengesellschaft Singapore,166598,Singapore,"African Bank, Asian Bank, Australian/New Zealand Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank",2021,4
+Bank of Panshin,173395,Taiwan,"African Bank, Asian Bank, Australian/New Zealand Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank",2021,4
+Bank of Dalian,20062,China,"Asian Bank, European Bank",2021,4
+Lloyds Bank Corporate Markets Singapore Branch,148830,Singapore,"African Bank, Asian Bank, Australian/New Zealand Bank, Development Finance Institution, European Bank, Japanese Bank, Middle Eastern Bank",2021,4
+China Development Bank [ex-State Development Bank of China],16442,China,"Asian Bank, Latin America & Caribbean Bank",2021,4
+Indonesia Infrastructure Finance,106570,Indonesia,"Asian Bank, European Bank, Government Sponsored Lender, Japanese Bank",2021,4
+KDB Bank Ltd,31945,Hong Kong,Asian Bank,2021,4
+Standard Finance (Isle of Man) Ltd,36839,United Kingdom,"African Bank, Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services, Other",2021,4
+ABSA Bank Ltd [Ex-Amalgamated Banks of South Africa],14905,South Africa,African Bank,2021,4
+MauBank Ltd,155760,Mauritius,"African Bank, Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+HSBC Tokyo,39246,Hong Kong,"Asian Bank, Japanese Bank",2021,4
+Banco Interamericano de Finanzas,56711,Peru,"Canadian Bank, European Bank, Latin America & Caribbean Bank",2021,4
+Banco Internacional del Peru SAA,108865,Peru,"Canadian Bank, European Bank, Latin America & Caribbean Bank",2021,4
+ReAssure Ltd,146612,United Kingdom,"Asian Bank, Australian/New Zealand Bank, European Bank, Insurance Company",2021,4
+KB Securities Co Ltd,162113,South Korea,"Asian Bank, Canadian Bank, Diversified Financial Services Company, European Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Other, Private Equity",2021,4
+Nishi-Chugoku Shinkin Bank,57913,Japan,"Asian Bank, Japanese Bank",2021,4
+Saga Bank,58380,Japan,"Asian Bank, Japanese Bank",2021,4
+Metropolitan Bank (China) Ltd,136665,China,Asian Bank,2021,4
+Deutsche Bank AG Hongkong Branch,20870,Hong Kong,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Bank of Communications Singapore,45704,Singapore,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+ANZ Singapore Ltd,32586,Singapore,"African Bank, Asian Bank, European Bank, Multinational Investment Bank & Financial Services, Other",2021,4
+PT Indonesia Infrastructure Finance,117694,Indonesia,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,4
+First Abu Dhabi Bank [ex-National Bank of Abu Dhabi PJSC [NBAD]],19618,United Arab Emirates,"Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+China Construction Bank DIFC Branch,128936,United Arab Emirates,"African Bank, Asian Bank, European Bank, Multinational Investment Bank & Financial Services, Other",2021,4
+Bank of India Antwerp,154414,India,"African Bank, Asian Bank, European Bank, Multinational Investment Bank & Financial Services, Other",2021,4
+Commercial Bank International psc,25268,United Arab Emirates,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Banco Del Estado De Chile,13237,Chile,"African Bank, Asian Bank, European Bank, Multinational Investment Bank & Financial Services, Other",2021,4
+ABC Islamic Bank EC [ABCIB],16889,Bahrain,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Intesa Sanpaolo Bank Luxembourg SA,125860,Luxembourg,"African Bank, Asian Bank, European Bank, Multinational Investment Bank & Financial Services, Other",2021,4
+Mashreq Al Islami,122367,United Arab Emirates,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+KDB Ireland DAC,146960,Ireland,"African Bank, Asian Bank, European Bank, Multinational Investment Bank & Financial Services, Other",2021,4
+Woori Bank London,38732,United Kingdom,"African Bank, Asian Bank, European Bank, Multinational Investment Bank & Financial Services, Other",2021,4
+Construction & Building Unions Superannuation Fund,130808,Australia,"Asian Bank, Australian/New Zealand Bank, Multinational Investment Bank & Financial Services, Pension Fund",2021,4
+Ja Naraken,62642,Japan,"Asian Bank, Japanese Bank",2021,4
+Sparebank 1 Ostlandet,135370,Norway,,2021,4
+Sparebanken Nord-Norge,12804,Norway,,2021,4
+Daiwa Next Bank Ltd,162496,Japan,"Asian Bank, Japanese Bank",2021,4
+JA Mie Shinren,72984,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,4
+Bank of China Zhangjiagang Branch,148046,China,Asian Bank,2021,4
+Turkiye Kalkinma ve Yatirim Bankasi AS,11785,Turkey,Asian Bank,2021,4
+Banco Aliado SA,26563,Panama,"Asian Bank, Canadian Bank, European Bank, Japanese Bank",2021,4
+China Construction Bank Hong Kong,14288,Hong Kong,"African Bank, Asian Bank, European Bank, Japanese Bank",2021,4
+KEB Hana Bank Manila,146902,Philippines,"African Bank, Asian Bank, European Bank, Japanese Bank",2021,4
+Stadsparkasse Duesseldorf,102122,Germany,European Bank,2021,4
+Phoenix Group Holdings Plc,102662,United Kingdom,,2021,4
+Sparkasse Giessen,108546,Germany,European Bank,2021,4
+Hua Nan Commercial Bank Hong Kong,45008,Taiwan,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Sparkasse Marburg-Biedenkopf,114423,Germany,European Bank,2021,4
+Sparkasse Wetzlar,114424,Germany,European Bank,2021,4
+Sparkasse Werra-Meissner,114425,Germany,European Bank,2021,4
+BBVA Hong Kong,31946,Hong Kong,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Sparkasse Vogtland,119669,Germany,European Bank,2021,4
+Sparkasse Darmstadt,135308,Germany,European Bank,2021,4
+Sparkasse Mittelthuringen,13676,Germany,European Bank,2021,4
+Sparkasse Gera-Greiz,137458,Germany,European Bank,2021,4
+Sparkasse Oberhessen,145208,Germany,European Bank,2021,4
+Caisse d'epargne et de prevoyance hauts de France,150078,France,European Bank,2021,4
+Sparkasse Herford,17811,Germany,European Bank,2021,4
+Taunus Sparkasse,17812,Germany,European Bank,2021,4
+Sparkasse Gelsenkirchen,18394,Germany,European Bank,2021,4
+Stadtsparkasse Magdeburg,24896,Germany,European Bank,2021,4
+Yamanashi Cyuo Bank Ltd,61743,Japan,"Asian Bank, Japanese Bank",2021,4
+Caisse Regionale de Credit Agricole Mutuel de Provence Cote d Azur,135952,France,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Bank of China Zhuhai,40539,China,Asian Bank,2021,4
+Great Wall West China Bank Co  Ltd,163705,China,,2021,4
+Dayuan Township Farmers Association of Taoyuan County,138866,Taiwan,Asian Bank,2021,4
+Wugu District Farmers Association of New Taipei City,138868,Taiwan,Asian Bank,2021,4
+Tamsui District Farmers Association of New Taipei City,138877,Taiwan,Asian Bank,2021,4
+Shihlin District Farmers Association of Taipei City,138880,Taiwan,Asian Bank,2021,4
+Xizhi District Farmers Association of New Taipei City,138881,Taiwan,Asian Bank,2021,4
+Sioushuei Township Farmers Association of Changhua County,138883,Taiwan,Asian Bank,2021,4
+Jinshan District Farmers Association of New Taipei City,138887,Taiwan,Asian Bank,2021,4
+NMB Bank Ltd,140472,Zimbabwe,African Bank,2021,4
+Central Africa Building Society,162104,Zimbabwe,African Bank,2021,4
+Guanyin District Farmers Association of Taoyuan County,162277,Taiwan,Asian Bank,2021,4
+Xinwu District Farmers Association of Taoyuan County,162278,Taiwan,Asian Bank,2021,4
+Luzhou District Farmers Association of New Taipei City,162280,Taiwan,Asian Bank,2021,4
+Douliu Farmers Association of Yunlin County,162282,Taiwan,Asian Bank,2021,4
+Lu-Chu District Farmers Association of Taoyuan County,162289,Taiwan,Asian Bank,2021,4
+Keelung City Farmers Association,162290,Taiwan,Asian Bank,2021,4
+Kouhu Farmers Association of Yunlin County,162291,Taiwan,Asian Bank,2021,4
+Tachia District Farmers Association of Taichung City,162294,Taiwan,Asian Bank,2021,4
+Huatan Township Farmers Association of Changhua County,162296,Taiwan,Asian Bank,2021,4
+Sanchung District Farmers Association of New Taipei City,162297,Taiwan,Asian Bank,2021,4
+Zaoqiao Township Farmers Association of Miaoli County,162298,Taiwan,Asian Bank,2021,4
+Taoyuan District Farmers Association of Taoyuan County,162299,Taiwan,Asian Bank,2021,4
+Linkou District Farmers Association of New Taipei City,162300,Taiwan,Asian Bank,2021,4
+Madou District Farmers Association of Tainan City,162302,Taiwan,Asian Bank,2021,4
+Yanchao District Farmers Association of Kaohsiung City,162305,Taiwan,Asian Bank,2021,4
+Zhubei Farmers Association of Hsinchu County,162306,Taiwan,Asian Bank,2021,4
+Sihu Town Farmers Association of Changhua County,162310,Taiwan,Asian Bank,2021,4
+Hualien Farmers Association of Hualien County,162312,Taiwan,Asian Bank,2021,4
+Lukang Township Farmers Association of Changhua County,162314,Taiwan,Asian Bank,2021,4
+Fuxing District Farmers Association of Taoyuan County,162315,Taiwan,Asian Bank,2021,4
+Tsaotun Town Farmers Association of Nantou County,162322,Taiwan,Asian Bank,2021,4
+Taishan District Farmers Association of New Taipei City,162324,Taiwan,Asian Bank,2021,4
+Minsyong Township Farmers Association of Chiayi County,162325,Taiwan,Asian Bank,2021,4
+Dadu District Farmers Association of Taichung City,162326,Taiwan,Asian Bank,2021,4
+XinZhuang District Farmers Association of New Taipei City,162327,Taiwan,Asian Bank,2021,4
+Yujing District Farmers Association of Tainan City,162330,Taiwan,Asian Bank,2021,4
+Wujie Township Farmers Association of Yilan County,162332,Taiwan,Asian Bank,2021,4
+Nanzhou District Farmers Association of Pingtung County,162335,Taiwan,Asian Bank,2021,4
+Bade District Farmers Association of Taoyuan County,162338,Taiwan,Asian Bank,2021,4
+Zuchi Farmers Association of Chiayi County,162340,Taiwan,Asian Bank,2021,4
+Taitung District Farmers Association of Taitung County,162343,Taiwan,Asian Bank,2021,4
+Qionglin Township Farmers Association of Hsinchu County,162344,Taiwan,Asian Bank,2021,4
+Taoyuan District Fishermen Association of Taoyuan County,162345,Taiwan,Asian Bank,2021,4
+Xuejia District Farmers Association of Tainan City,162346,Taiwan,Asian Bank,2021,4
+Meinong District Farmers Association of Kaohsiung City,162348,Taiwan,Asian Bank,2021,4
+Zhushan Township Farmers Association of Nantou County,162350,Taiwan,Asian Bank,2021,4
+National Farmers Association ROC,162355,Taiwan,Asian Bank,2021,4
+Dounan Town Farmers Association of Yunlin County,162356,Taiwan,Asian Bank,2021,4
+Fondo Financiero Para El Desarrollo De Los Paises De La Cuenca Del Plata,162470,Bolivia,,2021,4
+ING Bank Manila,18800,Netherlands,,2021,4
+Ver Capital SGRpA,162481,Italy,European Bank,2021,4
+Bank for Investment & Development of Vietnam,93680,Vietnam,,2021,4
+Deutsche Bank Singapore,12610,Germany,Multinational Investment Bank & Financial Services,2021,4
+Shinsei Trust & Banking Co Ltd,51889,Japan,Asian Bank,2021,4
+Citigroup Global Markets Singapore Pte Ltd,146961,Singapore,European Bank,2021,4
+Merrill Lynch Singapore,46212,Singapore,European Bank,2021,4
+Xiamen International Bank,15905,China,Asian Bank,2021,4
+Chang Hwa Commercial Bank Los Angeles,44115,Taiwan,Asian Bank,2021,4
+Finnvera Oyj,13210,Finland,European Bank,2021,4
+Bank SinoPac Los Angeles,42866,Taiwan,Asian Bank,2021,4
+Varma Mutual Pension Insurance Co,22886,Finland,European Bank,2021,4
+Bank Mizuho Indonesia,94319,Indonesia,Asian Bank,2021,4
+JA Hyogo Rokko,55742,Japan,"Asian Bank, Japanese Bank",2021,4
+Malayan Banking Bhd Hong Kong Branch,18799,Hong Kong,"Asian Bank, European Bank",2021,4
+Maybank Shanghai,39781,China,Asian Bank,2021,4
+Aviva Plc,12445,United Kingdom,"European Bank, Insurance Company",2021,4
+Banque Populaire Mediterrannee,135959,France,European Bank,2021,4
+Mizuho Marubeni Leasing Corp,173197,Japan,,2021,4
+Saudi Investment Bank [SAIB],19773,Saudi Arabia,Middle Eastern Bank,2021,4
+MG Leasing Corp,59465,Japan,,2021,4
+Banque CIC Nord Ouest SA,106977,France,European Bank,2021,4
+Insight Investment,162462,United Kingdom,,2021,4
+Banco do Brasil AG Sucursal en Espana,130253,Spain,"Asian Bank, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Agricultural Bank of China Ltd Singapore Branch,14062,Singapore,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank",2021,4
+Ulster Bank Ltd,15484,United Kingdom,European Bank,2021,4
+Nationale-Nederlanden Nederland BV [NN],113815,Netherlands,European Bank,2021,4
+Export-Import Bank of China Ningbo,121758,China,Asian Bank,2021,4
+PT Bank Rakyat Indonesia (Persero) Singapore Branch,125391,Singapore,"African Bank, Asian Bank, Australian/New Zealand Bank, European Bank, Japanese Bank",2021,4
+Generali France Holding SA,100894,France,"Australian/New Zealand Bank, European Bank, Insurance Company, Japanese Bank",2021,4
+Kumamoto Bank,110981,Japan,"Asian Bank, Insurance Company, Japanese Bank",2021,4
+Vietnam Joint Stock Commercial Bank for Industry and Trade (VietinBank),102610,Vietnam,"Asian Bank, European Bank",2021,4
+Die Sparkasse Bremen AG,140185,Germany,European Bank,2021,4
+Government of New Zealand,151964,New Zealand,Government Sponsored Lender,2021,4
+Sumitomo Mitsui Banking Corp Hong Kong,14485,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,4
+Caisse Regionale du Credit Agricole Ile et Vilaine,100705,France,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Banque CIC Est SA,110418,France,European Bank,2021,4
+United Super Pty Ltd,103647,Australia,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Pension Fund",2021,4
+Bank Islam Brunei Darussalam Berhad,104940,Brunei,"Asian Bank, Japanese Bank",2021,4
+Bank of Shaoxing,105146,China,Asian Bank,2021,4
+AgenSynd SL,117391,Spain,"Diversified Financial Services Company, European Bank",2021,4
+M&G Investment Management Ltd,119758,United Kingdom,"Asian Bank, European Bank, Insurance Company",2021,4
+Vorarlberger Landes-und Hypotheken-bank,13374,Germany,European Bank,2021,4
+Australian Infrastructure Senior Debt and Cash Master Fund SPC,161775,Australia,"Asian Bank, Australian/New Zealand Bank, Japanese Bank, Multinational Investment Bank & Financial Services, Pension Fund",2021,4
+Danish Export Credit Fund (Eksport Kredit Fonden (EKF)),83031,Denmark,,2021,4
+Credit Agricole Ille et Vilaine,100837,France,European Bank,2021,4
+Deutsche Industriebank,44069,Germany,European Bank,2021,4
+Unicaja,47242,Spain,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Sumitomo Mitsui Trust Bank London,125586,United Kingdom,"Asian Bank, Diversified Financial Services Company, Japanese Bank",2021,4
+Banco Continental SAECA,116334,Paraguay,"Asian Bank, Latin America & Caribbean Bank",2021,4
+Tateyama Shinkin Bank,134365,Japan,"Asian Bank, Japanese Bank",2021,4
+Banco Finantia SA,97258,Portugal,"Asian Bank, Latin America & Caribbean Bank",2021,4
+China Construction Bank Kunshan,41608,China,Asian Bank,2021,4
+Mizuho Canada,38957,Canada,Canadian Bank,2021,4
+Banca Monte Paschi Belgio SA,79779,Belgium,European Bank,2021,4
+China Development Bank Suzhou,104929,China,Asian Bank,2021,4
+Yorkshire Bank Plc,26991,United Kingdom,Multinational Investment Bank & Financial Services,2021,4
+Sparkasse Hannover,117006,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+PT Bank Tabungan Negara (Persero),93742,Indonesia,Asian Bank,2021,4
+PT Bank Rakyat Indonesia (Persero),97034,Indonesia,Asian Bank,2021,4
+Korea Development Bank Shanghai,101252,South Korea,Asian Bank,2021,4
+Korea Development Bank Shenyang,120114,China,Asian Bank,2021,4
+Bank Leumi Le-Israel BM,98456,Israel,"Asian Bank, European Bank, Japanese Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+AMP Capital Investors,26945,Australia,,2021,4
+Sberbank CIB CJSC [ex-Troika Dialog CJSC],60439,Russian Federation,"Asian Bank, Development Finance Institution, European Bank, Middle Eastern Bank, Multinational Investment Bank & Financial Services",2021,4
+Caisse Regionale de Credit Agricole Mutuel Pyrenees Gascogne,101952,France,European Bank,2021,4
+Caisse Regionale de Credit Agricole Mutuel D'Aquitaine [CRAGi],98588,France,European Bank,2021,4
+Athene Holding Ltd,110611,Bermuda,Private Equity,2021,4
+Yamanashi Kenmin Shinkumi,61149,Japan,"Asian Bank, Japanese Bank",2021,4
+Yamanashi Shinkin Bank,79847,Japan,"Asian Bank, Japanese Bank",2021,4
+Bank of Weifang,128462,China,Asian Bank,2021,4
+Bank of America Tokyo,92967,Japan,"Asian Bank, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Guangdong Energy Group Finance Co Ltd,153043,China,"Asian Bank, Business Corporation",2021,4
+Capital Bank Inc (Panama),159869,Panama,Latin America & Caribbean Bank,2021,4
+Deutsche Hypothekenbank AG,16525,Germany,European Bank,2021,4
+National Commercial Bank Jamaica,17219,Jamaica,Latin America & Caribbean Bank,2021,4
+Co-operative Bank of Kenya Ltd,23729,Kenya,"African Bank, Diversified Financial Services Company, European Bank, Multinational Investment Bank & Financial Services",2021,4
+Sparebanken Rogaland,18544,Norway,European Bank,2021,4
+Bank of China Yiwu,109073,China,Asian Bank,2021,4
+The Dai-Ichi Life Insurance Co Ltd,154881,Japan,"Asian Bank, Insurance Company",2021,4
+Kameari Shinkin Bank,58450,Japan,Asian Bank,2021,4
+Yamanashi-ken Shinren,60872,Japan,"Asian Bank, Japanese Bank",2021,4
+Bank of China Manila,96810,Philippines,"Asian Bank, Middle Eastern Bank",2021,4
+Seikyo Shinyo Kumiai,134629,Japan,"Asian Bank, Japanese Bank, Other",2021,4
+Bank of Communications Qingdao,116029,China,Asian Bank,2021,4
+KB Anyang-Seongnam Expressway Private Equity Investment Trust,163332,South Korea,Asian Bank,2021,4
+Niigata Shinkin Bank,51832,Japan,"Asian Bank, Japanese Bank",2021,4
+Shinonome Shinkin Bank,62662,Japan,"Asian Bank, Japanese Bank",2021,4
+Chunan Shinkin,73265,Japan,"Asian Bank, Japanese Bank",2021,4
+Hiratsuka Shinkin Bank,79803,Japan,"Asian Bank, Japanese Bank",2021,4
+Jyohoku Shinkin Bank,80296,Japan,"Asian Bank, Japanese Bank",2021,4
+Bansyu Shinkin Bank,84876,Japan,Japanese Bank,2021,4
+Export-Import Bank of China Guangdong,111287,China,"Asian Bank, Business Corporation",2021,4
+BBVA Colombia,104178,Colombia,Canadian Bank,2021,4
+China Citic Bank Hangzhou,112774,China,Asian Bank,2021,4
+Bancolombia (Panama) SA,26960,Panama,Canadian Bank,2021,4
+Bank of Dongguan,24222,China,Asian Bank,2021,4
+Nakahyogo Shinkin,55650,Japan,Japanese Bank,2021,4
+Deutsche Kreditbank AG [DKB],16899,Germany,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Hokkoku Financial Holdings Inc,161723,Japan,"Asian Bank, Japanese Bank",2021,4
+Banco de Occidente Panama SA,163731,Panama,"Canadian Bank, European Bank, Latin America & Caribbean Bank, Multinational Investment Bank & Financial Services",2021,4
+Goldman Sachs Realty Japan Ltd,111718,Japan,"European Bank, Multinational Investment Bank & Financial Services",2021,4
+Indonesia Eximbank,94192,Indonesia,"Asian Bank, European Bank",2021,4
+PT Sarana Multi Infrastruktur (Persero),110703,Indonesia,"Asian Bank, Diversified Financial Services Company",2021,4
+ZA Bank Ltd,163277,Hong Kong,"Asian Bank, European Bank, Japanese Bank",2021,4
+Tono Shinkin Bank,91583,Japan,"Asian Bank, Japanese Bank",2021,4
+KEB Hana Bank Hong Kong,137424,Hong Kong,"Asian Bank, Australian/New Zealand Bank, European Bank",2021,4
+Bank of China Hangzhou,102915,China,Asian Bank,2021,4

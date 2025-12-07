@@ -1,0 +1,493 @@
+﻿original,status,successor,search_query,notes
+Ameris Bancorp,Active,Ameris Bancorp,Ameris*Bancorp*,Input 'Ameris Bancorp' cleaned (no legal suffixes). Active regional bank.
+Apple Bank,Active,Apple Bank,Apple*Bank*,Input 'Apple Bank' is active New York-based bank.
+Apple Bank for Savings,Active,Apple Bank for Savings,Apple*Bank*for*Savings*,Input 'Apple Bank for Savings' is active savings bank subsidiary.
+Arizona Bank,Active,Arizona Bank,Arizona*Bank*,Input 'Arizona Bank' is active regional bank.
+Arvest Bank,Active,Arvest Bank,Arvest*Bank*,Input 'Arvest Bank' is active Midwest/South regional bank.
+Associated Bank,Active,Associated Bank,Associated*Bank*,Input 'Associated Bank NA' cleaned (removed NA). Active regional bank.
+Atlantic Capital Bank,Active,Atlantic Capital Bank,Atlantic*Capital*Bank*,Input 'Atlantic Capital Bank' is active Georgia-based bank.
+Atlantic Union Bank,Active,Atlantic Union Bank,Atlantic*Union*Bank*,Input 'Atlantic Union Bank' is active Virginia-based bank.
+Australian & New Zealand Bank Group (New York),Active,Australian & New Zealand Bank Group (New York),Australian*&*New*Zealand*Bank*Group*(New*York)*,Input 'Australian & New Zealand Bank Group (New York)' is active ANZ subsidiary in NY.
+Axos Bank,Active,Axos Bank,Axos*Bank*,Input 'Axos Bank' is active online bank.
+BAC Florida Bank,Active,BAC Florida Bank,BAC*Florida*Bank*,Input 'BAC Florida Bank' is active Bank of America subsidiary.
+BAC International Bank,Active,BAC International Bank,BAC*International*Bank*,Input 'BAC International Bank Inc' cleaned (removed Inc). Active.
+BBVA Compass,Acquired,PNC Bank,(BBVA*Compass* OR PNC*Bank*),Input 'BBVA Compass' acquired by PNC Bank in 2021.
+BMO Harris Bank,Active,BMO Harris Bank,BMO*Harris*Bank*,Input 'BMO Harris Bank NA' cleaned (removed NA). Active BMO US subsidiary.
+BMO Harris Bank,Active,BMO Harris Bank,BMO*Harris*Bank*,Input 'BMO/Harris Bank' expanded to BMO Harris Bank. Active.
+BOK Financial,Active,BOK Financial,BOK*Financial*,Input 'BOK Financial Corp' cleaned (removed Corp). Active Oklahoma-based bank.
+BOKF,Active,BOKF,BOKF*,Input 'BOKF NA' cleaned (removed NA). Active BOK Financial subsidiary.
+BPR Bank,Active,BPR Bank,BPR*Bank*,Input 'BPR Bank' is active regional bank.
+Banc of California,Active,Banc of California,Banc*of*California*,Input 'Banc of California' is active California-based bank.
+BancAlliance,Active,BancAlliance,BancAlliance*,Input 'BancAlliance Inc' cleaned (removed Inc). Active financial services firm.
+CommerceOne Bank,Active,CommerceOne Bank,CommerceOne*Bank*,Input 'CommerceOne Bank' no corrections. Active community bank.
+Commercial Bank,Active,Commercial Bank,Commercial*Bank*,Input 'Commercial Bank' no corrections. Active regional bank.
+Compass Bank,Acquired,PNC Bank,(Compass*Bank* OR PNC*Bank*),Input 'Compass Bank' acquired 2021 via BBVA USA merger by PNC Bank.
+Compeer Financial,Active,Compeer Financial,Compeer*Financial*,Input 'Compeer Financial' no corrections. Active farm credit entity.
+Concentra Bank,Acquired,First Horizon Bank,(Concentra*Bank* OR First*Horizon*Bank*),Input 'Concentra Bank' acquired 2021 by First Horizon Bank.
+Congressional Bank,Acquired,EagleBank,(Congressional*Bank* OR Eagle*Bank*),Input 'Congressional Bank' merged 2019 into EagleBank.
+Cornerstone Bank,Active,Cornerstone Bank,Cornerstone*Bank*,Input 'Cornerstone Bank' no corrections. Active community bank.
+Credit Suisse AG New York Branch,Acquired,UBS Group AG,(Credit*Suisse*AG*New*York*Branch* OR UBS*Group*),Input 'Credit Suisse AG New York Branch' acquired 2023 by UBS Group AG.
+Credit Suisse New York,Acquired,UBS Group AG,(Credit*Suisse*New*York* OR UBS*Group*),"Input 'Credit Suisse New York' refers to CS AG NY Branch, acquired 2023 by UBS."
+Cross River Bank,Active,Cross River Bank,Cross*River*Bank*,Input 'Cross River Bank' no corrections. Active fintech-focused bank.
+CrossFirst Bank,Active,CrossFirst Bank,CrossFirst*Bank*,Input 'CrossFirst Bank' no corrections. Active regional bank.
+Customers Bank,Active,Customers Bank,Customers*Bank*,Input 'Customers Bank' no corrections. Active community bank.
+Dart Bank,Active,Dart Bank,Dart*Bank*,Input 'Dart Bank' no corrections. Active Michigan community bank.
+Deutsche Bank AG New York Branch,Active,Deutsche Bank AG New York Branch,Deutsche*Bank*AG*New*York*Branch*,Input 'Deutsche Bank AG New York Branch' no corrections. Active global bank branch.
+Deutsche Bank New York,Active,Deutsche Bank AG New York Branch,Deutsche*Bank*New*York*,"Input 'Deutsche Bank New York' refers to DB AG NY Branch, active."
+Deutsche Bank Trust Co Americas,Active,Deutsche Bank Trust Co Americas,Deutsche*Bank*Trust*Co*Americas*,Input 'Deutsche Bank Trust Co Americas' no corrections. Active subsidiary.
+Devon Bank,Active,Devon Bank,Devon*Bank*,Input 'Devon Bank' no corrections. Active Oklahoma community bank.
+Dime Community Bank,Active,Dime Community Bank,Dime*Community*Bank*,Input 'Dime Community Bank' no corrections. Active NY community bank.
+Dime Savings Bank of New York,Acquired,JPMorgan Chase,(Dime*Savings*Bank*of*New*York* OR JPMorgan*Chase*),Input 'Dime Saving Bank' corrected to 'Savings'. Acquired via WaMu (2002) then JPMorgan Chase (2008).
+Dollar Bank,Active,Dollar Bank,Dollar*Bank*,Input 'Dollar Bank' no corrections. Active Pennsylvania regional bank.
+California Bank & Trust,Active,California Bank & Trust,California*Bank*&*Trust*,"Input correct, active community bank in California."
+California Bank of Commerce,Acquired,U.S. Bank,(California*Bank*of*Commerce* OR U.S.*Bank*),"Acquired 2022 by Union Bank, later merged into U.S. Bank; current holder is U.S. Bank."
+Cambridge Savings Bank,Active,Cambridge Savings Bank,Cambridge*Savings*Bank*,"Correct, active mutual savings bank in Massachusetts."
+Camden National Bank,Active,Camden National Bank,Camden*National*Bank*,"Correct, active community bank in Maine."
+Canadian Imperial Bank of Commerce New York,Active,Canadian Imperial Bank of Commerce New York,Canadian*Imperial*Bank*of*Commerce*New*York*,"Correct, active branch of CIBC in New York."
+Canandaigua National Bank & Trust,Active,Canandaigua National Bank & Trust,Canandaigua*National*Bank*&*Trust*,"Correct, active community bank in New York."
+Capital Bank,Active,Capital Bank,Capital*Bank*,"Input 'Capital Bank NA' cleaned (removed NA), active national bank in North Carolina."
+Capital Farm Credit,Active,Capital Farm Credit,Capital*Farm*Credit*,"Correct, active agricultural credit institution."
+Capital One Bank,Active,Capital One Bank,Capital*One*Bank*,"Correct, active major national bank."
+Capital One,Active,Capital One,Capital*One*,"Input 'Capital One NA' cleaned (removed NA), active."
+Carver Federal Savings Bank,Active,Carver Federal Savings Bank,Carver*Federal*Savings*Bank*,"Correct, active minority-owned savings bank in New York."
+Cathay Bank,Active,Cathay Bank,Cathay*Bank*,"Correct, active Asian-American owned bank in California."
+Centennial Bank,Active,Centennial Bank,Centennial*Bank*,"Correct, active regional bank (Arkansas-based)."
+Centennial Bank Holdings,Acquired,Home BancShares,(Centennial*Bank*Holdings* OR Home*BancShares*),"Input 'Centennial Bank Holdings Inc' cleaned (removed Inc), acquired 2019 by Home BancShares."
+CenterState Bank,Acquired,SouthState Bank,(CenterState*Bank* OR SouthState*Bank*),Merged 2020 with SouthState Bank to form SouthState Bank; current successor is SouthState Bank.
+Centier Bank,Active,Centier Bank,Centier*Bank*,"Correct, active community bank in Indiana."
+Central Pacific Bank,Active,Central Pacific Bank,Central*Pacific*Bank*,"Correct, active regional bank in Hawaii."
+Century Bank,Active,Century Bank,Century*Bank*,"Correct, active community bank (e.g., Massachusetts-based)."
+Chambers Bank,Active,Chambers Bank,Chambers*Bank*,"Correct, active community bank in Arkansas."
+China Construction Bank Corporation New York,Active,China Construction Bank Corporation New York,China*Construction*Bank*Corporation*New*York*,"Input cleaned (removed 'Branch' suffix), active branch of CCB in New York."
+Farm Credit Mid-America PCA,Active,Farm Credit Mid-America PCA,Farm*Credit*Mid-America*PCA*,No typos; active Farm Credit institution.
+Farm Credit Services of America,Active,Farm Credit Services of America,Farm*Credit*Services*of*America*,Active member of the Farm Credit System.
+Farm Credit Services of America FLCA,Active,Farm Credit Services of America FLCA,Farm*Credit*Services*of*America*FLCA*,No typos; active Federal Land Credit Association.
+Farm Credit West FLCA,Active,Farm Credit West FLCA,Farm*Credit*West*FLCA*,Active entity within Farm Credit West.
+Farmers & Merchants Bank,Active,Farmers & Merchants Bank,Farmers*&*Merchants*Bank*,Corrected 'Merchant' to 'Merchants'; active regional bank.
+Fifth Third Bank,Active,Fifth Third Bank,Fifth*Third*Bank*,Active Ohio-based regional bank.
+First Bank Chicago,Active,First Bank Chicago,First*Bank*Chicago*,Active Chicago community bank.
+First Bank,Active,First Bank,First*Bank*,Removed legal suffix 'NA'; active.
+First Bank Puerto Rico,Active,First Bank Puerto Rico,First*Bank*Puerto*Rico*,Active Puerto Rican financial institution.
+First Bank of Highland Park,Active,First Bank of Highland Park,First*Bank*of*Highland*Park*,Active community bank in Highland Park.
+First Citizens Bank & Trust,Active,First Citizens Bank & Trust,First*Citizens*Bank*&*Trust*,Active regional bank with trust services.
+First Commercial Bank Los Angeles,Active,First Commercial Bank Los Angeles,First*Commercial*Bank*Los*Angeles*,Active Los Angeles-based commercial bank.
+First Commonwealth Bank,Active,First Commonwealth Bank,First*Commonwealth*Bank*,Active Pennsylvania regional bank.
+First Eagle Bank,Active,First Eagle Bank,First*Eagle*Bank*,Active community bank.
+First Financial Bank,Active,First Financial Bank,First*Financial*Bank*,Active regional bank with multiple locations.
+First Florida Bank,Active,First Florida Bank,First*Florida*Bank*,Active Florida community bank.
+First Foundation Bank,Active,First Foundation Bank,First*Foundation*Bank*,Active bank with wealth management services.
+First Hawaiian Bank,Active,First Hawaiian Bank,First*Hawaiian*Bank*,Active Hawaii-based bank (part of BOH Holdings).
+First Horizon Bank,Active,First Horizon Bank,First*Horizon*Bank*,Active Tennessee regional bank.
+First Independence Bank,Active,First Independence Bank,First*Independence*Bank*,Active African-American owned community bank.
+China Merchants Bank New York,Active,China Merchants Bank New York,China*Merchants*Bank*New*York*,Input correct; active US branch of China Merchants Bank.
+Choice Bank,Active,Choice Bank,Choice*Bank*,Input correct; active regional bank.
+Citibank,Active,Citibank,Citibank*,Input 'Citi' expanded to 'Citibank'; active.
+Citibank,Active,Citibank,Citibank*,Input correct; active.
+Citibank,Active,Citibank,Citibank*,Input 'Citibank NA' cleaned (removed NA); active.
+Citicorp North America,Active,Citicorp North America,Citicorp*North*America*,Input 'Citicorp North America Inc' cleaned (removed Inc); active subsidiary of Citigroup.
+Citigroup,Active,Citigroup,Citigroup*,Input correct; active financial holding company.
+Citizens Bank,Active,Citizens Bank,Citizens*Bank*,Input 'Citizens Bank NA' cleaned (removed NA); active.
+Citizens Financial Group,Active,Citizens Financial Group,Citizens*Financial*Group*,Input correct; active holding company for Citizens Bank.
+Citizens National Bank,Active,Citizens National Bank,Citizens*National*Bank*,Input correct; active regional bank.
+City National Bank,Active,City National Bank,City*National*Bank*,Input correct; active (owned by RBC but operates independently).
+Citywide Banks,Active,Citywide Banks,Citywide*Banks*,Input correct; active Colorado regional bank.
+Civista Bank,Active,Civista Bank,Civista*Bank*,Input correct; active Ohio regional bank.
+CoBank,Active,CoBank,CoBank*,Input correct; active US agricultural cooperative bank.
+Columbia Bank,Active,Columbia Bank,Columbia*Bank*,Input correct; active Washington regional bank.
+Columbia State Bank,Active,Columbia State Bank,Columbia*State*Bank*,Input correct; active regional bank.
+Comerica Bank,Active,Comerica Bank,Comerica*Bank*,Input correct; active Texas regional bank.
+Comerica Bank,Active,Comerica Bank,Comerica*Bank*,Input 'Comerica Bank NA' cleaned (removed NA); active.
+Commerce Bancorp,Acquired,TD Bank,(Commerce*Bancorp* OR TD*Bank*),Input 'Commerce Bancorp Inc' cleaned (removed Inc); acquired by TD Bank in 2008.
+Commerce Bank,Active,Commerce Bank,Commerce*Bank*,Input 'Commerce Bank NA' cleaned (removed NA); active (Commerce Bancshares).
+ANZ Bank (US),Active,ANZ Bank (US),ANZ*Bank*(US)*,"Input 'ANZ Bank (US)' no typos, active US subsidiary of ANZ Group."
+Academy Bank,Active,Academy Bank,Academy*Bank*,"Input 'Academy Bank NA' cleaned (removed NA), active FDIC-insured bank."
+AgChoice Farm Credit,Active,AgChoice Farm Credit,AgChoice*Farm*Credit*,Active farm credit institution serving Pennsylvania and Maryland.
+AgFirst Farm Credit Bank,Active,AgFirst Farm Credit Bank,AgFirst*Farm*Credit*Bank*,Active Farm Credit Bank serving the Southeast US.
+Agribank Farm Credit Bank,Active,Agribank Farm Credit Bank,Agribank*Farm*Credit*Bank*,"Input 'Agribank FCB' expanded (FCB→Farm Credit Bank), active Farm Credit Bank."
+Agricultural Bank of China New York,Active,Agricultural Bank of China New York,Agricultural*Bank*of*China*New*York*,Active New York branch of Agricultural Bank of China.
+Alliance Bank,Active,Alliance Bank,Alliance*Bank*,"Input 'Alliance Bank NA' cleaned (removed NA), active FDIC-insured bank."
+Ally Bank,Active,Ally Bank,Ally*Bank*,Active online bank and subsidiary of Ally Financial.
+Amalgamated Bank,Active,Amalgamated Bank,Amalgamated*Bank*,Active labor bank founded in 1923.
+Amarillo National Bank,Active,Amarillo National Bank,Amarillo*National*Bank*,Active Texas-based community bank.
+Amegy Bank,Active,Amegy Bank,Amegy*Bank*,"Input 'Amegy' expanded to Amegy Bank, active subsidiary of Zions Bancorporation."
+Amegy Bank,Active,Amegy Bank,Amegy*Bank*,"Input 'Amegy Bank NA' cleaned (removed NA), active subsidiary of Zions Bancorporation."
+Amerant Bank,Active,Amerant Bank,Amerant*Bank*,Active Florida-based bank (formerly Bank of Antigua).
+American AgCredit Agricultural Credit Association,Active,American AgCredit Agricultural Credit Association,American*AgCredit*Agricultural*Credit*Association*,"Input 'American AgCredit ACA' expanded (ACA→Agricultural Credit Association), active farm credit institution."
+American AgCredit Production Credit Association,Active,American AgCredit Production Credit Association,American*AgCredit*Production*Credit*Association*,"Input 'American Agcredit PCA' corrected (Agcredit→AgCredit) and expanded (PCA→Production Credit Association), active farm credit institution."
+American Bank,Active,American Bank,American*Bank*,"Input 'American Bank NA' cleaned (removed NA), active FDIC-insured bank."
+American Bank of Missouri,Active,American Bank of Missouri,American*Bank*of*Missouri*,Active Missouri-based community bank.
+American National Bank,Active,American National Bank,American*National*Bank*,Active FDIC-insured bank with multiple locations.
+American National Bank of Texas,Active,American National Bank of Texas,American*National*Bank*of*Texas*,Active Texas-based community bank.
+American Savings Bank,Active,American Savings Bank,American*Savings*Bank*,Active Hawaii-based bank (subsidiary of First Hawaiian Bank).
+Bank of Hope,Active,Bank of Hope,Bank*of*Hope*,Input 'Bank of Hope' correct. Active California-based bank.
+Bank of Missouri,Active,Bank of Missouri,Bank*of*Missouri*,Input correct. Active Missouri state bank.
+Bank of Montreal Chicago,Active,Bank of Montreal Chicago,Bank*of*Montreal*Chicago*,Input correct. Active Chicago branch of Bank of Montreal.
+Bank of New York,Acquired,Bank of New York Mellon,(Bank*of*New*York* OR Bank*of*New*York*Mellon*),Input correct. Acquired by Bank of New York Mellon (merged entity).
+Bank of New York Mellon,Active,Bank of New York Mellon,Bank*of*New*York*Mellon*,Input correct. Active global financial institution.
+Bank of North Dakota,Active,Bank of North Dakota,Bank*of*North*Dakota*,Input correct. Active state-owned bank of North Dakota.
+Bank of Oklahoma,Active,Bank of Oklahoma,Bank*of*Oklahoma*,Input correct. Active Oklahoma-based bank (BOK Financial subsidiary).
+Bank of Oklahoma,Active,Bank of Oklahoma,Bank*of*Oklahoma*,Input 'Bank of Oklahoma NA' cleaned (removed NA). Active.
+Bank of Sun Prairie,Active,Bank of Sun Prairie,Bank*of*Sun*Prairie*,Input correct. Active Wisconsin community bank.
+Bank of Texas,Active,Bank of Texas,Bank*of*Texas*,Input 'Bank of Texas NA' cleaned (removed NA). Active Comerica subsidiary.
+Bank of the West,Acquired,Bank of Montreal,(Bank*of*the*West* OR Bank*of*Montreal*),Input correct. Acquired by Bank of Montreal (2023).
+BankFinancial,Active,BankFinancial,BankFinancial*,Input correct. Active Illinois-based bank.
+BankPlus,Active,BankPlus,BankPlus*,Input correct. Active Mississippi-based bank.
+BankUnited,Active,BankUnited,BankUnited*,Input 'BankUnited FSB' cleaned (removed FSB). Active Florida-based bank.
+BankUnited,Active,BankUnited,BankUnited*,Input 'BankUnited Inc' cleaned (removed Inc). Active.
+BankUnited,Active,BankUnited,BankUnited*,Input 'BankUnited NA' cleaned (removed NA). Active.
+Bankers Trust,Acquired,Deutsche Bank,(Bankers*Trust* OR Deutsche*Bank*),Input 'Bankers Trust Co' cleaned (removed Co). Acquired by Deutsche Bank (1999).
+Bankwell Financial Group,Active,Bankwell Financial Group,Bankwell*Financial*Group*,Input correct. Active bank holding company (parent of Bankwell Bank).
+Banner Bank,Active,Banner Bank,Banner*Bank*,Input correct. Active Washington-based bank.
+Bar Harbor Bank & Trust,Active,Bar Harbor Bank & Trust,Bar*Harbor*Bank*&*Trust*,Input correct. Active Maine community bank.
+Beal Bank SSB,Active,Beal Bank SSB,Beal*Bank*SSB*,Input 'Beal Bank SSB' (no typos/acronyms). Active state savings bank.
+Bell Bank,Active,Bell Bank,Bell*Bank*,Active regional bank based in North Dakota.
+Belmont Bank & Trust,Active,Belmont Bank & Trust,Belmont*Bank*&*Trust*,Active community bank in Illinois.
+Berkshire Bank,Acquired,M&T Bank,(Berkshire*Bank* OR M&T*Bank*),"Acquired by People's United, merged into M&T Bank (2022)."
+Boston Private Bank & Trust,Acquired,First Citizens Bank,(Boston*Private*Bank*&*Trust* OR First*Citizens*Bank*),"Acquired by SVB (2021), then SVB assets acquired by First Citizens (2023)."
+Boston Private Financial Holdings,Acquired,First Citizens Bank,(Boston*Private*Financial*Holdings* OR First*Citizens*Bank*),"Parent company acquired by SVB, now part of First Citizens."
+Bremer Bank,Active,Bremer Bank,Bremer*Bank*,Input 'Bremer Bank NA' cleaned (removed NA). Active regional bank.
+Bridge Bank,Active,Bridge Bank,Bridge*Bank*,Input 'Bridge Bank NA' cleaned (removed NA). Active division of Western Alliance.
+Broadway Bank,Active,Broadway Bank,Broadway*Bank*,Active community bank in Texas.
+Bryant Bank,Active,Bryant Bank,Bryant*Bank*,Active regional bank in Alabama.
+Burlington Bank,Active,Burlington Bank,Burlington*Bank*,Input 'Burling Bank' corrected (typo: added 'ton'). Active community bank.
+Busey Bank,Active,Busey Bank,Busey*Bank*,Active regional bank in Illinois.
+Byline Bank,Active,Byline Bank,Byline*Bank*,Active community bank in Illinois.
+California Bank,Active,California Bank,California*Bank*,Input 'CAL Bank' expanded (CAL = California). Active regional bank.
+CB&S Bank,Active,CB&S Bank,CB&S*Bank*,Active regional bank in Alabama.
+CIBC Bank USA,Active,CIBC Bank USA,CIBC*Bank*USA*,Active subsidiary of Canadian Imperial Bank of Commerce.
+CIT Bank,Acquired,First Citizens Bank,(CIT*Bank* OR First*Citizens*Bank*),Input 'CIT Bank Ltd' cleaned (removed Ltd). Acquired by First Citizens (2022).
+CIT Group,Acquired,First Citizens Bank,(CIT*Group* OR First*Citizens*Bank*),Parent company acquired by First Citizens BancShares (2022).
+CTBC Bank New York,Active,CTBC Bank New York,CTBC*Bank*New*York*,Active subsidiary of CTBC Bank (Taiwan).
+Cadence Bank,Active,Cadence Bank,Cadence*Bank*,Input 'Cadence Bank NA' cleaned (removed NA). Active regional bank.
+BancFirst,Active,BancFirst,BancFirst*,Input 'BancFirst Corp' cleaned (removed Corp). Active.
+Banco Bilbao Vizcaya Argentaria (New York),Acquired,PNC Bank,(Banco*Bilbao*Vizcaya*Argentaria*New*York* OR PNC*Bank*),Input 'Banco Bilbao Vizcaya Argentaria (New York)'—acquired by PNC Bank in 2021.
+Banco Popular,Active,Banco Popular,Banco*Popular*,Input 'Banco Popular Inc' cleaned (removed Inc). Active.
+Banco Popular de Puerto Rico,Active,Banco Popular de Puerto Rico,Banco*Popular*de*Puerto*Rico*,Input 'Banco Popular de Puerto Rico'—active.
+Banco Santander New York,Active,"Santander Bank, N.A.",Santander*Bank*New*York*,"Input 'Banco Santander SA New York' cleaned (removed SA). Active (Santander Bank, N.A.)."
+BancorpSouth,Acquired,Synovus Bank,(BancorpSouth* OR Synovus*Bank*),Input 'BancorpSouth'—acquired by Synovus Bank in 2021.
+BancorpSouth Bank,Acquired,Synovus Bank,(BancorpSouth*Bank* OR Synovus*Bank*),Input 'BancorpSouth Bank'—acquired by Synovus Bank in 2021.
+Bangor Savings Bank,Active,Bangor Savings Bank,Bangor*Savings*Bank*,Input 'Bangor Savings Bank'—active.
+Bank Leumi USA,Active,Bank Leumi USA,Bank*Leumi*USA*,Input 'Bank Leumi USA'—active.
+Bank OZK,Active,Bank OZK,Bank*OZK*,Input 'Bank OZK'—active.
+Bank United,Active,Bank United,Bank*United*,Input 'Bank United'—active.
+Bank of Albuquerque,Active,Bank of Albuquerque,Bank*of*Albuquerque*,Input 'Bank of Albuquerque NA' cleaned (removed NA). Active.
+Bank of America,Active,Bank of America,Bank*of*America*,Input 'Bank of America'—active.
+Bank of America,Active,Bank of America,Bank*of*America*,Input 'Bank of America Corp' cleaned (removed Corp). Active.
+Bank of America,Active,Bank of America,Bank*of*America*,Input 'Bank of America NA' cleaned (removed NA). Active.
+Bank of Blue Valley,Active,Bank of Blue Valley,Bank*of*Blue*Valley*,Input 'Bank of Blue Valley'—active.
+Bank of California,Active,Bank of California,Bank*of*California*,Input 'Bank of California'—active.
+Bank of China LA,Active,Bank of China LA,Bank*of*China*LA*,Input 'Bank of China LA Branch' cleaned (removed Branch). Active.
+Bank of China New York,Active,Bank of China New York,Bank*of*China*New*York*,Input 'Bank of China New York'—active.
+Bank of Hawaii,Active,Bank of Hawaii,Bank*of*Hawaii*,Input 'Bank of Hawaii'—active.
+Dominion Bank,Active,Dominion Bank,Dominion*Bank*,Input 'Dominion Bank' is active regional bank.
+E Sun Commercial Bank,Active,E Sun Commercial Bank,E*Sun*Commercial*Bank*,Input 'E Sun Commercial Bank Los Angeles' cleaned (removed branch 'Los Angeles'). Active.
+Eagle Bancorp,Active,Eagle Bancorp,Eagle*Bancorp*,Input 'Eagle Bancorp' active parent of EagleBank.
+EagleBank,Active,EagleBank,Eagle*Bank*,Input 'EagleBank' active subsidiary of Eagle Bancorp.
+East West Bank,Active,East West Bank,East*West*Bank*,Input 'East West' expanded to 'East West Bank'. Active.
+East West Bank,Active,East West Bank,East*West*Bank*,Input 'East West Bank' is active.
+Eastern Bank,Active,Eastern Bank,Eastern*Bank*,Input 'Eastern Bank' active MA-based regional bank.
+Emigrant Bank,Active,Emigrant Bank,Emigrant*Bank*,Input 'Emigrant Bank' active NY-based bank.
+Emprise Bank,Active,Emprise Bank,Emprise*Bank*,Input 'Emprise Bank NA' cleaned (removed NA). Active KS-based bank.
+Enterprise Bank & Trust,Active,Enterprise Bank & Trust,Enterprise*Bank*&*Trust*,Input 'Enterprise Bank & Trust Co' cleaned (removed Co). Active MO-based bank.
+Enterprise Bank,Active,Enterprise Bank,Enterprise*Bank*,Input 'Enterprise Bank NA' cleaned (removed NA). Active regional bank.
+Equitable Bank,Active,Equitable Bank,Equitable*Bank*,Input 'Equitable Bank' active MD-based regional bank.
+Everbank Commercial Finance,Acquired,TIAA Bank,(Everbank*Commercial*Finance* OR TIAA*Bank*),"Input 'Everbank Commercial Finance Inc' cleaned (removed Inc). Acquired 2017, rebranded to TIAA Bank."
+Everbank,Acquired,TIAA Bank,(Everbank* OR TIAA*Bank*),"Input 'Everbank NA' cleaned (removed NA). Acquired 2017, rebranded to TIAA Bank."
+First Community Bank,Active,First Community Bank,First*Community*Bank*,Input 'FCBank' expanded to 'First Community Bank'. Active.
+First National Bank,Active,First National Bank,First*National*Bank*,Input 'FNB' expanded to 'First National Bank'. Active.
+FVCBank,Active,FVCBank,FVC*Bank*,Input 'FVCBank' is active regional bank.
+Farm Credit Bank of Texas,Active,Farm Credit Bank of Texas,Farm*Credit*Bank*of*Texas*,"Input 'Farm Credit Bank of Texas' active, part of Farm Credit System."
+Farm Credit East,Active,Farm Credit East,Farm*Credit*East*,"Input 'Farm Credit East' active, part of Farm Credit System."
+Farm Credit East,Active,Farm Credit East,Farm*Credit*East*,"Input 'Farm Credit East ACA' cleaned (removed ACA). Active, part of Farm Credit System."
+First Independent Bank,Active,First Independent Bank,First*Independent*Bank*,"Input 'First Independent Bank' correct, active regional bank."
+First Merchant Bank,Active,First Merchant Bank,First*Merchant*Bank*,"Input 'First Merchant Bank' correct, active regional entity."
+First Merchants Bank,Active,First Merchants Bank,First*Merchants*Bank*,"Input 'First Merchants Bank NA' cleaned (removed NA), active regional bank."
+First Mid Bank & Trust,Active,First Mid Bank & Trust,First*Mid*Bank*&*Trust*,"Input 'First Mid Bank & Trust' correct, active Midwest bank."
+First Midwest Bank,Acquired,Old National Bank,(First*Midwest*Bank* OR Old*National*Bank*),"Input 'First Midwest' expanded to First Midwest Bank, acquired by Old National Bancorp (2022)."
+First Midwest Bancorp,Acquired,Old National Bancorp,(First*Midwest*Bancorp* OR Old*National*Bancorp*),Input 'First Midwest Bancorp' (parent) acquired by Old National Bancorp (2022).
+First Midwest Bank,Acquired,Old National Bank,(First*Midwest*Bank* OR Old*National*Bank*),"First Midwest Bank acquired by Old National Bancorp (2022), successor Old National Bank."
+First National Bank,Active,First National Bank,First*National*Bank*,Input 'First National Bank' (generic) active (multiple regional branches).
+First National Bank & Trust,Active,First National Bank & Trust,First*National*Bank*&*Trust*,"Input 'First National Bank & Trust' correct, active regional entity."
+First National Bank of Omaha,Active,First National Bank of Omaha,First*National*Bank*of*Omaha*,"Input 'First National Bank of Omaha' correct, active major regional bank."
+First National Bank of Pennsylvania,Active,First National Bank of Pennsylvania,First*National*Bank*of*Pennsylvania*,"Input 'First National Bank of Pennsylvania' correct, active F.N.B. subsidiary."
+First Security Bancorp,Acquired,Zions Bancorporation,(First*Security*Bancorp* OR Zions*Bancorporation*),First Security Bancorp acquired by Zions Bancorporation (2001).
+First Security Bank,Active,First Security Bank,First*Security*Bank*,"Input 'First Security Bank NA' cleaned (removed NA), active Zions subsidiary."
+First Source Bank,Active,First Source Bank,First*Source*Bank*,"Input 'First Source Bank' correct, active Indiana regional bank."
+First South Farm Credit ACA,Active,First South Farm Credit ACA,First*South*Farm*Credit*ACA*,"Input 'First South Farm Credit ACA' correct, active agricultural credit institution."
+First Tennessee Bank,Acquired,First Horizon Bank,(First*Tennessee*Bank* OR First*Horizon*Bank*),"First Tennessee Bank rebranded to First Horizon Bank (2020), successor First Horizon Bank."
+First US Bank,Active,First US Bank,First*US*Bank*,"Input 'First US Bank' correct, active regional bank."
+First Womens Bank,Active,First Womens Bank,First*Womens*Bank*,"Input 'First Womens Bank' correct, active New Jersey regional bank."
+FirstBank Florida,Active,FirstBank Florida,First*Bank*Florida*,"Input 'FirstBank Florida' correct, active FirstBank (PR) subsidiary."
+Firstbank Southwest,Active,Firstbank Southwest,Firstbank*Southwest*,"Input 'Firstbank Southwest' correct, active Texas regional bank."
+Five Star Bank,Active,Five Star Bank,Five*Star*Bank*,"Input correct, active regional bank."
+Flagstar Bancorp,Acquired,New York Community Bancorp,(Flagstar*Bancorp* OR New*York*Community*Bancorp*),"Input correct, acquired 2022 by NYCB."
+Flagstar Bank,Acquired,New York Community Bancorp,(Flagstar*Bank* OR New*York*Community*Bancorp*),"Input correct, acquired 2022 by NYCB."
+Flushing Bank,Active,Flushing Bank,Flushing*Bank*,"Input correct, active community bank."
+Forbright Bank,Active,Forbright Bank,Forbright*Bank*,"Input includes fka Congressional Bank; current name Forbright Bank, active."
+Freedom Bank,Active,Freedom Bank,Freedom*Bank*,"Input correct, active regional bank."
+Frost Bank,Active,Frost Bank,Frost*Bank*,"Input correct, active regional bank."
+Frost National Bank,Active,Frost National Bank,Frost*National*Bank*,"Input correct, active national bank subsidiary."
+Fulton Bank,Active,Fulton Bank,Fulton*Bank*,"Input correct, active regional bank."
+GBC Bancorp,Acquired,Associated Banc-Corp,(GBC*Bancorp* OR Associated*Banc*Corp*),"Input correct, acquired by Associated Banc-Corp."
+Georgia Banking Co,Active,Georgia Banking Co,Georgia*Banking*Co*,"Input correct, active community bank."
+Goldman Sachs Bank USA,Active,Goldman Sachs Bank USA,Goldman*Sachs*Bank*USA*,"Input correct, active investment bank subsidiary."
+Goldman Sachs Group,Active,Goldman Sachs Group,Goldman*Sachs*Group*,"Input 'Goldman Sachs Group Inc' cleaned (removed Inc.), active holding company."
+Great Southern Bank,Active,Great Southern Bank,Great*Southern*Bank*,"Input correct, active regional bank."
+Green Bank,Active,Green Bank,Green*Bank*,"Input correct, active regional bank."
+Greenstone Farm Credit Services,Active,Greenstone Farm Credit Services,Greenstone*Farm*Credit*Services*,"Input correct, active farm credit institution."
+Greenstone Farm Credit Services ACA/FLCA,Active,Greenstone Farm Credit Services ACA/FLCA,Greenstone*Farm*Credit*Services*ACA*FLCA*,"Input correct, active farm credit subsidiary."
+Greenstone Farm Credit Services FLCA,Active,Greenstone Farm Credit Services FLCA,Greenstone*Farm*Credit*Services*FLCA*,"Input correct, active farm credit subsidiary."
+Gulf Capital Bank,Active,Gulf Capital Bank,Gulf*Capital*Bank*,"Input correct, active community bank."
+HSBC Bank USA,Active,HSBC Bank USA,HSBC*Bank*USA*,"Input 'HSBC Bank USA NA' cleaned (removed NA), active national bank."
+New York Community Bank Specialty Finance Company,Active,New York Community Bank Specialty Finance Company,New*York*Community*Bank*Specialty*Finance*Company*,"Input expanded NYCB to 'New York Community Bank', removed LLC suffix. Active."
+NatWest Bank,Active,NatWest Bank,NatWest*Bank*,Input removed NA suffix. Active US subsidiary of NatWest Group.
+National Bank of Arizona,Active,National Bank of Arizona,National*Bank*of*Arizona*,Input active (Zions Bancorporation subsidiary).
+National Bank of Indianapolis,Active,National Bank of Indianapolis,National*Bank*of*Indianapolis*,Input active Indiana community bank.
+National Exchange Bank & Trust,Active,National Exchange Bank & Trust,National*Exchange*Bank*&*Trust*,Input active Wisconsin community bank.
+Nationwide Bank,Active,Nationwide Bank,Nationwide*Bank*,Input active subsidiary of Nationwide Mutual Insurance.
+Needham Bank,Active,Needham Bank,Needham*Bank*,Input active Massachusetts community bank.
+Nevada State Bank,Active,Nevada State Bank,Nevada*State*Bank*,Input active (Zions Bancorporation subsidiary).
+New York Community Bank,Active,New York Community Bank,New*York*Community*Bank*,Input active major regional bank.
+New York Green Bank,Active,New York Green Bank,New*York*Green*Bank*,Input active public-private green energy bank.
+Nicolet National Bank,Active,Nicolet National Bank,Nicolet*National*Bank*,Input active Wisconsin community bank.
+Northbrook Bank & Trust,Active,Northbrook Bank & Trust,Northbrook*Bank*&*Trust*,Input removed Co suffix. Active Wintrust Financial subsidiary.
+Northern Trust,Active,Northern Trust,Northern*Trust*,Input active global financial services firm.
+Northern Trust,Active,Northern Trust,Northern*Trust*,"Input removed Co suffix, matches 'Northern Trust'. Active."
+Northern Trust,Active,Northern Trust,Northern*Trust*,"Input removed Corp suffix, matches 'Northern Trust'. Active."
+Northrim Bank,Active,Northrim Bank,Northrim*Bank*,Input active Alaska-based regional bank.
+Northwest Bank & Trust,Active,Northwest Bank & Trust,Northwest*Bank*&*Trust*,Input removed Co suffix. Active Northwest Bancshares subsidiary.
+Northwest Farm Credit Services FLCA,Active,Northwest Farm Credit Services FLCA,Northwest*Farm*Credit*Services*FLCA*,Input active Farm Credit System entity (FLCA = Federal Land Credit Association).
+Northwest Farm Credit Services PCA,Active,Northwest Farm Credit Services PCA,Northwest*Farm*Credit*Services*PCA*,Input active Farm Credit System entity (PCA = Production Credit Association).
+Northwest Savings Bank,Active,Northwest Savings Bank,Northwest*Savings*Bank*,Input active Northwest Bancshares subsidiary.
+Mega Bank,Active,Mega Bank,Mega*Bank*,Input 'Mega Bank' cleaned (no legal suffixes). Active US bank.
+Mellon Bank,Acquired,Bank of New York Mellon,(Mellon*Bank* OR Bank*of*New*York*Mellon*),Input 'Mellon Bank' cleaned. Acquired by Bank of New York Mellon.
+Merchants Bank,Active,Merchants Bank,Merchants*Bank*,Input 'Merchants Bank NA' cleaned (removed NA). Active.
+Merchants Bank of Indiana,Active,Merchants Bank of Indiana,Merchants*Bank*of*Indiana*,Input 'Merchants Bank of Indiana' cleaned. Active.
+Meridian Bank,Active,Meridian Bank,Meridian*Bank*,Input 'Meridian Bank' cleaned. Active.
+Metlife Bank,Acquired,First Citizens Bank,(Metlife*Bank* OR First*Citizens*Bank*),Input 'Metlife Bank NA' cleaned (removed NA). Acquired by First Citizens (via CIT Group).
+Metropolitan Commercial Bank,Active,Metropolitan Commercial Bank,Metropolitan*Commercial*Bank*,Input 'Metropolitan Commercial Bank' cleaned. Active.
+MidCountry Bank,Active,MidCountry Bank,MidCountry*Bank*,Input 'MidCountry Bank' cleaned. Active.
+MidWestOne Bank,Active,MidWestOne Bank,MidWestOne*Bank*,Input 'MidWestOne Bank' cleaned. Active.
+Middlesex Savings Bank,Active,Middlesex Savings Bank,Middlesex*Savings*Bank*,Input 'Middlesex Savings Bank' cleaned. Active.
+Midfirst Bank,Active,Midfirst Bank,Midfirst*Bank*,Input 'Midfirst Bank' cleaned. Active.
+Midland States Bank,Active,Midland States Bank,Midland*States*Bank*,Input 'Midland States Bank' cleaned. Active.
+Midwest Bank,Active,Midwest Bank,Midwest*Bank*,Input 'Midwest Bank' cleaned. Active.
+Mission Bank,Active,Mission Bank,Mission*Bank*,Input 'Mission Bank' cleaned. Active.
+Modern Bank,Active,Modern Bank,Modern*Bank*,Input 'Modern Bank' cleaned. Active.
+Montgomery Bank,Active,Montgomery Bank,Montgomery*Bank*,Input 'Montgomery Bank' cleaned. Active.
+Morgan Stanley Bank,Active,Morgan Stanley Bank,Morgan*Stanley*Bank*,Input 'Morgan Stanley Bank' cleaned. Active.
+Morgan Stanley Bank,Active,Morgan Stanley Bank,Morgan*Stanley*Bank*,Input 'Morgan Stanley Bank NA' cleaned (removed NA). Active.
+Morton Community Bank,Active,Morton Community Bank,Morton*Community*Bank*,Input 'Morton Community Bank' cleaned. Active.
+NBH Bank,Active,NBH Bank,NBH*Bank*,Input 'NBH Bank NA' cleaned (removed NA). Active.
+Peoples Bank,Active,Peoples Bank,Peoples*Bank*,"Input 'Peoples Bank' clean, active."
+Peoples Bank,Active,Peoples Bank,Peoples*Bank*,"Input 'Peoples Bank NA' cleaned (removed NA), active."
+Pinnacle Bank,Active,Pinnacle Bank,Pinnacle*Bank*,"Input 'Pinnacle Bank' clean, active."
+Pinnacle Financial Partners,Active,Pinnacle Financial Partners,Pinnacle*Financial*Partners*,"Input 'Pinnacle Financial Partners Inc' cleaned (removed Inc), active parent company."
+Pinnacle National Bank,Active,Pinnacle National Bank,Pinnacle*National*Bank*,"Input 'Pinnacle National Bank' clean, active."
+Popular Bank,Active,Popular Bank,Popular*Bank*,"Input 'Popular Bank' clean, active."
+Preferred Bank,Active,Preferred Bank,Preferred*Bank*,"Input 'Preferred Bank' clean, active."
+Premier Bank,Active,Premier Bank,Premier*Bank*,"Input 'Premier Bank' clean, active."
+Prival Bank,Active,Prival Bank,Prival*Bank*,"Input 'Prival Bank' clean, active."
+Prosperity Bank,Active,Prosperity Bank,Prosperity*Bank*,"Input 'Prosperity Bank' clean, active."
+Provident Bank,Active,Provident Bank,Provident*Bank*,"Input 'Provident Bank' clean, active."
+RCB Bank,Active,RCB Bank,RCB*Bank*,"Input 'RCB Bank Ltd' cleaned (removed Ltd), active."
+Rabobank,Active,Rabobank,Rabobank*,"Input 'Rabobank NA' cleaned (removed NA), active."
+Raymond James Bank,Active,Raymond James Bank,Raymond*James*Bank*,"Input 'Raymond James Bank FSB' cleaned (removed FSB), active."
+Raymond James Bank,Active,Raymond James Bank,Raymond*James*Bank*,"Input 'Raymond James Bank NA' cleaned (removed NA), active."
+Red River Bank,Active,Red River Bank,Red*River*Bank*,"Input 'Red River Bank' clean, active."
+Regions Bank,Active,Regions Bank,Regions*Bank*,"Input 'Regions' expanded to 'Regions Bank', active."
+Regions Bank,Active,Regions Bank,Regions*Bank*,"Input 'Regions Bank' clean, active."
+Renasant Bank,Active,Renasant Bank,Renasant*Bank*,"Input 'Renasant Bank' clean, active."
+Renasant Bank,Active,Renasant Bank,Renasant*Bank*,"Input 'Renesant Bank' corrected to 'Renasant Bank', active."
+IQ Credit Union,Active,IQ Credit Union,IQ*Credit*Union*,Input 'IQ Credit Union' no corrections. Active credit union.
+IberiaBank,Acquired,First Horizon Bank,(IberiaBank* OR First*Horizon*Bank*),Input 'IberiaBank' no corrections. Acquired 2020 by First Horizon.
+Independent Bank,Active,Independent Bank,Independent*Bank*,Input 'Independent Bank (TIB)' cleaned (removed nickname). Active.
+Independent Bank,Active,Independent Bank,Independent*Bank*,Input 'Independent Bank Corp' cleaned (removed Corp.). Active parent of Rockland Trust.
+Independent Bankshares,Active,Independent Bankshares,Independent*Bankshares*,Input 'Independent Bankshares' no corrections. Active bank holding company.
+Inland Bank,Acquired,Old National Bank,(Inland*Bank* OR Old*National*Bank*),Input 'Inland Bank' no corrections. Acquired 2019 (First Midwest) → merged into Old National 2021.
+International Bank of Commerce,Acquired,Texas Capital Bank,(International*Bank*of*Commerce* OR Texas*Capital*Bank*),Input 'International Bank of Commerce' no corrections. Acquired 2021 by Texas Capital.
+Intesa Sanpaolo SpA New York,Active,Intesa Sanpaolo SpA New York,Intesa*Sanpaolo*SpA*New*York*,Input 'Intesa Sanpaolo SpA New York Branch' cleaned (removed Branch). Active foreign branch.
+Intrust Bank,Active,Intrust Bank,Intrust*Bank*,Input 'Intrust Bank' no corrections. Active Kansas regional bank.
+Investors Bank & Trust,Acquired,State Street,(Investors*Bank*&*Trust* OR State*Street*),Input 'Investors Bank & Trust Co' cleaned (removed Co.). Acquired 2010 by State Street.
+Israel Discount Bank of New York,Active,Israel Discount Bank of New York,Israel*Discount*Bank*of*New*York*,Input cleaned (removed Inc. and [IDBNY]). Active foreign branch.
+JPMorgan Chase,Active,JPMorgan Chase,JPMorgan*Chase*,Input 'JP Morgan' expanded to JPMorgan Chase. Active.
+JPMorgan Chase,Active,JPMorgan Chase,JPMorgan*Chase*,Input 'JP Morgan Chase' standardized to JPMorgan Chase. Active.
+JPMorgan Chase,Active,JPMorgan Chase,JPMorgan*Chase*,Input 'JP Morgan Chase & Co' cleaned (removed & Co.) → standardized. Active.
+JPMorgan Chase Bank,Active,JPMorgan Chase Bank,JPMorgan*Chase*Bank*,Input 'JP Morgan Chase Bank NA' cleaned (removed NA) → standardized. Active.
+JPMorgan Chase Bank,Active,JPMorgan Chase Bank,JPMorgan*Chase*Bank*,Input 'JPMorgan Chase Bank' no corrections. Active.
+JPMorgan Chase Bank,Active,JPMorgan Chase Bank,JPMorgan*Chase*Bank*,Input cleaned (removed National Association). Active.
+Johnson Bank,Acquired,Old National Bank,(Johnson*Bank* OR Old*National*Bank*),Input 'Johnson Bank NA' cleaned (removed NA). Acquired 2021 by Old National.
+KeyBank,Active,KeyBank,KeyBank*,Input 'Key Bank NA' cleaned (removed NA) → standardized to KeyBank. Active.
+KeyBank,Active,KeyBank,KeyBank*,Input 'KeyBank' no corrections. Active.
+Hancock Bank,Acquired,Hancock Whitney Bank,(Hancock*Bank* OR Hancock*Whitney*Bank*),Input 'Hancock Bank'—merged into Hancock Whitney Bank (active).
+Hancock Whitney Bank,Active,Hancock Whitney Bank,Hancock*Whitney*Bank*,Active regional bank.
+Hanmi Bank,Active,Hanmi Bank,Hanmi*Bank*,Active FDIC-insured Korean-American bank.
+Heartland Bank,Active,Heartland Bank,Heartland*Bank*,Active FDIC-insured community bank.
+Heartland Financial USA,Active,Heartland Financial USA,Heartland*Financial*USA*,Input 'Heartland Financial USA Inc'—cleaned (removed Inc). Active holding company.
+Heritage Bank State Savings Bank,Active,Heritage Bank State Savings Bank,Heritage*Bank*State*Savings*Bank*,Input 'Heritage Bank SSB'—expanded SSB to State Savings Bank. Active FDIC-insured bank.
+Hickory Point Bank & Trust,Active,Hickory Point Bank & Trust,Hickory*Point*Bank*&*Trust*,Active FDIC-insured community bank.
+High Plains Farm Credit Agricultural Credit Association,Active,High Plains Farm Credit Agricultural Credit Association,High*Plains*Farm*Credit*Agricultural*Credit*Association*,Input 'High Plains Farm Credit ACA'—expanded ACA to Agricultural Credit Association. Active farm credit entity.
+Highland Bank,Active,Highland Bank,Highland*Bank*,Active FDIC-insured regional bank.
+Hinsdale Bank,Active,Hinsdale Bank,Hinsdale*Bank*,Active FDIC-insured community bank in Illinois.
+HomeStreet Bank,Active,HomeStreet Bank,HomeStreet*Bank*,Active FDIC-insured full-service bank.
+HomeTrust Bank,Active,HomeTrust Bank,HomeTrust*Bank*,Active FDIC-insured regional bank.
+Horizon Bank,Active,Horizon Bank,Horizon*Bank*,Active FDIC-insured regional bank in Indiana.
+Horizon Farm Credit,Active,Horizon Farm Credit,Horizon*Farm*Credit*,Active farm credit entity.
+Howard Bank,Active,Howard Bank,Howard*Bank*,Active FDIC-insured community bank in Maryland.
+Huntington Bancshares,Active,Huntington Bancshares,Huntington*Bancshares*,Active holding company for Huntington Bank.
+Huntington Bank,Active,Huntington Bank,Huntington*Bank*,Active FDIC-insured regional bank.
+Huntington National Bank,Active,Huntington National Bank,Huntington*National*Bank*,Active FDIC-insured national bank.
+Industrial and Commercial Bank of China New York,Active,Industrial and Commercial Bank of China New York,Industrial*and*Commercial*Bank*of*China*New*York*,Input 'ICBC New York'—expanded ICBC to Industrial and Commercial Bank of China. Active branch.
+Israel Discount Bank,Active,Israel Discount Bank,Israel*Discount*Bank*,Input 'IDB Bank'—expanded IDB to Israel Discount Bank. Active FDIC-insured bank.
+Republic Bank,Active,Republic Bank,Republic*Bank*,Input 'Republic Bank' cleaned (no legal suffixes). Active.
+River Bank & Trust,Active,River Bank & Trust,River*Bank*&*Trust*,Input 'River Bank & Trust' cleaned. Active.
+Robertson Banking,Active,Robertson Banking,Robertson*Banking*,Input 'Robertson Banking Co' cleaned (removed 'Co' suffix). Active.
+Rockland Trust,Active,Rockland Trust,Rockland*Trust*,Input 'Rockland Trust' cleaned. Active.
+Rocky Mountain Bank,Active,Rocky Mountain Bank,Rocky*Mountain*Bank*,Input 'Rocky Mountain Bank' cleaned. Active.
+Royal Bank of Scotland [US],Acquired,Citizens Bank,(Royal*Bank*of*Scotland*[US]* OR Citizens*Bank*),Input 'Royal Bank of Scotland Plc [US]' cleaned (removed 'Plc' suffix). Acquired by Citizens Bank.
+S&T Bank,Active,S&T Bank,S&T*Bank*,Input 'S&T Bank' cleaned. Active.
+Sabadell Bank,Active,Sabadell Bank,Sabadell*Bank*,Input 'Sabadell Bank' cleaned. Active.
+Salem Five Bank,Active,Salem Five Bank,Salem*Five*Bank*,Input 'Salem Five Bank' cleaned. Active.
+Santa Lucia National Bank,Active,Santa Lucia National Bank,Santa*Lucia*National*Bank*,Input 'Santa Lucia National Bank' cleaned (no listed suffixes removed). Active.
+Santander Bank,Active,Santander Bank,Santander*Bank*,Input 'Santander Bank NA' cleaned (removed 'NA' suffix). Active.
+Seacoast National Bank,Active,Seacoast National Bank,Seacoast*National*Bank*,Input 'Seacoast National Bank' cleaned. Active.
+Security National Bank of Omaha,Active,Security National Bank of Omaha,Security*National*Bank*of*Omaha*,Input 'Security National Bank of Omaha' cleaned. Active.
+ServisFirst Bank,Active,ServisFirst Bank,ServisFirst*Bank*,Input 'ServisFirst Bank' cleaned. Active.
+Signature Bank,Failed,Flagstar Bank,(Signature*Bank* OR Flagstar*Bank*),"Input 'Signature Bank' cleaned. Failed 2023, acquired by Flagstar Bank (NYCB)."
+Silicon Valley Bank,Failed,First Citizens Bank,(Silicon*Valley*Bank* OR First*Citizens*Bank*),"Input 'Silicon Valley Bank' cleaned. Failed 2023, acquired by First Citizens Bank."
+Simmons Bank,Active,Simmons Bank,Simmons*Bank*,Input 'Simmons Bank' cleaned. Active.
+SmartBank,Active,SmartBank,SmartBank*,Input 'SmartBank' cleaned. Active.
+Societe Generale Bank & Trust [SGBT],Active,Societe Generale Bank & Trust [SGBT],Societe*Generale*Bank*&*Trust*[SGBT]*,Input 'Societe Generale Bank & Trust [SGBT]' cleaned. Active.
+Solera Bank,Acquired,Independent Bank (Texas),(Solera*Bank* OR Independent*Bank*Texas*),Input 'Solera Bank' cleaned. Acquired by Independent Bank (Texas).
+South State Bank,Active,South State Bank,South*State*Bank*,"Correct name, active regional bank in Southeast US."
+SouthPoint Bank,Active,SouthPoint Bank,SouthPoint*Bank*,"Correct name, active community bank in Alabama."
+SouthState Bank,Active,SouthState Bank,SouthState*Bank*,"Input cleaned (removed NA suffix), active regional bank."
+Southern Bancorp Bank,Active,Southern Bancorp Bank,Southern*Bancorp*Bank*,"Correct name, active community development bank in Arkansas."
+Southside Bank,Active,Southside Bank,Southside*Bank*,"Correct name, active regional bank in Texas."
+Southwest Bank,Active,Southwest Bank,Southwest*Bank*,"Correct name, active regional bank in Missouri."
+Standard Chartered Bank New York,Active,Standard Chartered Bank New York,Standard*Chartered*Bank*New*York*,"Correct name, active international bank branch in New York."
+State Street Bank,Active,State Street Bank,State*Street*Bank*,"Correct name, active global financial institution."
+State Street Bank & Trust,Active,State Street Bank & Trust,State*Street*Bank*&*Trust*,"Correct name, active trust subsidiary of State Street Corp."
+State Street Bank & Trust,Active,State Street Bank & Trust,State*Street*Bank*&*Trust*,"Input cleaned (removed Co suffix), active trust subsidiary."
+Sterling Bank,Active,Sterling Bank,Sterling*Bank*,"Correct name, active regional bank in Texas."
+Sterling National Bank,Active,Sterling National Bank,Sterling*National*Bank*,"Correct name, active regional bank in New York."
+Stifel Bank & Trust,Active,Stifel Bank & Trust,Stifel*Bank*&*Trust*,"Correct name, active investment bank subsidiary of Stifel."
+Stride Bank,Active,Stride Bank,Stride*Bank*,"Correct name (formerly Bank of Internet USA), active online bank."
+Summit Community Bank,Active,Summit Community Bank,Summit*Community*Bank*,"Correct name, active community bank in West Virginia."
+Sun West Bank,Active,Sun West Bank,Sun*West*Bank*,"Correct name, active regional bank in California."
+SunTrust Bank,Acquired,Truist Bank,(SunTrust*Bank* OR Truist*),"Merged with BB&T to form Truist Bank (2019), acquired by Truist."
+Sunflower Bank,Active,Sunflower Bank,Sunflower*Bank*,"Correct name, active regional bank in Kansas."
+Susser Bank,Active,Susser Bank,Susser*Bank*,"Correct name, active community bank in Texas."
+Svenska Handelsbanken New York,Active,Svenska Handelsbanken New York,Svenska*Handelsbanken*New*York*,"Input cleaned (removed AB and Branch suffixes), active Swedish bank branch."
+KeyBank,Active,KeyBank,Key*Bank*,"Input 'Keybank NA' cleaned (removed NA suffix), active regional bank."
+LCA Bank,Active,LCA Bank,LCA*Bank*,"Input 'LCA Bank Corp' cleaned (removed Corp suffix), active community bank."
+Lake City Bank,Active,Lake City Bank,Lake*City*Bank*,"Input 'Lake City Bank' is correct, active Indiana community bank."
+Lake Forest Bank & Trust,Active,Lake Forest Bank & Trust,Lake*Forest*Bank*&*Trust*,"Input 'Lake Forest Bank & Trust' is correct, active Wintrust Financial subsidiary."
+Lakeside Bank,Active,Lakeside Bank,Lakeside*Bank*,"Input 'Lakeside Bank' is correct, active community bank."
+Landesbank Baden-Württemberg,Active,Landesbank Baden-Württemberg,Landesbank*Baden*Wurttemberg*,"Input 'Landesbank Baden-Wurttemberg New York Branch' cleaned (removed Branch suffix), active German bank US branch."
+Leaders Bank,Active,Leaders Bank,Leaders*Bank*,"Input 'Leaders Bank' is correct, active Illinois community bank."
+Liberty Bank,Active,Liberty Bank,Liberty*Bank*,"Input 'Liberty Bank' is correct, active community bank."
+Lincoln Bank,Active,Lincoln Bank,Lincoln*Bank*,"Input 'Lincoln Bank' is correct, active community bank."
+Live Oak Bank,Active,Live Oak Bank,Live*Oak*Bank*,"Input 'Live Oak Bank' is correct, active online small business bank."
+Manufacturers and Traders Trust Company,Active,Manufacturers and Traders Trust Company,Manufacturers*and*Traders*Trust*Company*,"Input 'M&T Bank' expanded to full official name, active regional bank."
+MMG Bank,Active,MMG Bank,MMG*Bank*,"Input 'MMG Bank Corp' cleaned (removed Corp suffix), active Minnesota community bank."
+MUFG Union Bank,Active,MUFG Union Bank,MUFG*Union*Bank*,"Input 'MUFG Union Bank NA' cleaned (removed NA suffix), active Mitsubishi UFJ subsidiary."
+MVB Bank,Active,MVB Bank,MVB*Bank*,"Input 'MVB Bank Inc' cleaned (removed Inc suffix), active West Virginia community bank."
+Mabrey Bank,Active,Mabrey Bank,Mabrey*Bank*,"Input 'Mabrey Bank' is correct, active Oklahoma community bank."
+Manufacturers and Traders Trust,Active,Manufacturers and Traders Trust,Manufacturers*and*Traders*Trust*,"Input 'Manufacturers & Traders Trust Co' cleaned (removed Co suffix, replaced & with and), active M&T subsidiary."
+Manufacturers Bank,Active,Manufacturers Bank,Manufacturers*Bank*,"Input 'Manufacturers Bank' is correct, active California community bank."
+Manufacturers and Traders Trust Company,Active,Manufacturers and Traders Trust Company,Manufacturers*and*Traders*Trust*Company*,"Input 'Manufacturers and Traders Trust Company' is correct, active M&T regional bank."
+MapleMark Bank,Active,MapleMark Bank,MapleMark*Bank*,"Input 'MapleMark Bank' is correct, active Kentucky community bank."
+Marine Bank,Active,Marine Bank,Marine*Bank*,"Input 'Marine Bank' is correct, active Florida community bank."
+Synovus Bank,Active,Synovus Bank,Synovus*Bank*,Input 'Synovous' corrected to 'Synovus Bank'. Active regional bank.
+Synovus Bank,Active,Synovus Bank,Synovus*Bank*,Input 'Synovus Bank' is correct. Active FDIC-insured bank.
+Synovus Financial,Active,Synovus Financial,Synovus*Financial*,Input 'Synovus Financial Corp' cleaned (removed Corp). Active parent of Synovus Bank.
+TBK Bank,Active,TBK Bank,TBK*Bank*,Input 'TBK Bank' correct. Active community bank.
+TCF Bank Minnesota,Acquired,Huntington National Bank,(TCF*Bank*Minnesota* OR Huntington*National*Bank*),Input 'TCF Bank Minnesota' acquired 2021 by Huntington National Bank.
+TCF Financial,Acquired,Huntington Bancshares,(TCF*Financial* OR Huntington*Bancshares*),Input 'TCF Financial Corp' cleaned (removed Corp). Acquired 2021 by Huntington Bancshares.
+TCF National Bank,Acquired,Huntington National Bank,(TCF*National*Bank* OR Huntington*National*Bank*),Input 'TCF National Bank' acquired 2021 by Huntington National Bank.
+TD Bank,Active,TD Bank,TD*Bank*,Input 'TD Bank NA' cleaned (removed NA). Active national bank.
+TIAA FSB,Active,TIAA FSB,TIAA*FSB*,Input 'TIAA FSB Holdings Inc' cleaned (removed Holdings Inc). Active federal savings bank.
+Texas Capital Bank,Active,Texas Capital Bank,Texas*Capital*Bank*,Input 'Texas Capital Bank' correct. Active regional bank.
+Texas Capital Bank,Active,Texas Capital Bank,Texas*Capital*Bank*,Input 'Texas Capital Bank NA' cleaned (removed NA). Active national bank.
+Texas Partners Bank,Active,Texas Partners Bank,Texas*Partners*Bank*,Input 'Texas Partners Bank' correct. Active community bank.
+Third Coast Bank,Active,Third Coast Bank,Third*Coast*Bank*,Input 'Third Coast Bank SSB' cleaned (removed SSB). Active state savings bank.
+Towerbank International,Active,Towerbank International,Towerbank*International*,Input 'Towerbank International Inc' cleaned (removed Inc). Active international bank.
+Transportation Alliance Bank,Active,Transportation Alliance Bank,Transportation*Alliance*Bank*,Input 'Transportation Alliance Bank' correct. Active specialty bank.
+Tri Counties Bank,Active,Tri Counties Bank,Tri*Counties*Bank*,Input 'Tri Counties Bank' correct. Active regional bank.
+Tristate Capital Bank,Active,Tristate Capital Bank,Tristate*Capital*Bank*,Input 'Tristate Capital Bank' correct. Active community bank.
+Truist Bank,Active,Truist Bank,Truist*Bank*,Input 'Truist Bank' correct. Active national bank (BB&T + SunTrust merger).
+Truist Financial,Active,Truist Financial,Truist*Financial*,Input 'Truist Financial' correct. Active parent of Truist Bank.
+Trustmark National Bank,Active,Trustmark National Bank,Trustmark*National*Bank*,Input 'Trustmark National Bank' correct. Active regional national bank.
+Village Bank & Trust,Active,Village Bank & Trust,Village*Bank*&*Trust*,Input 'Village Bank & Trust NA' cleaned (removed NA). Active community bank.
+Wilmington Savings Fund Society Bank,Active,Wilmington Savings Fund Society Bank,Wilmington*Savings*Fund*Society*Bank*,Input 'WSFS Bank' expanded (WSFS → Wilmington Savings Fund Society). Active.
+Washington Federal,Active,Washington Federal,Washington*Federal*,Input 'Washington Federal Inc' cleaned (removed Inc). Active bank holding company.
+Washington Federal Savings Bank,Active,Washington Federal Savings Bank,Washington*Federal*Savings*Bank*,Input cleaned (no suffixes). Active savings bank.
+Washington Financial Bank,Active,Washington Financial Bank,Washington*Financial*Bank*,Input cleaned (no suffixes). Active community bank in Pennsylvania.
+Washington Trust Company,Active,Washington Trust Company,Washington*Trust*Company*,Input 'Washington Trust' expanded to full name. Active regional bank.
+WebBank,Active,WebBank,Web*Bank*,Input cleaned (no suffixes). Active Utah-chartered industrial bank.
+Webster Bank,Active,Webster Bank,Webster*Bank*,Input 'Webster Bank NA' cleaned (removed NA). Active regional bank.
+Webster Business Credit,Active,Webster Bank,Webster*Business*Credit*,Input 'Webster Business Credit Corp' cleaned (removed Corp). Active subsidiary of Webster Bank.
+Wells Fargo,Active,Wells Fargo,Wells*Fargo*,Input 'Wells Fargo & Co' cleaned (removed & Co). Active global bank.
+Wells Fargo Bank,Active,Wells Fargo Bank,Wells*Fargo*Bank*,Input cleaned (no suffixes). Active national bank.
+Wells Fargo Bank International,Active,Wells Fargo Bank International,Wells*Fargo*Bank*International*,Input 'Wells Fargo Bank International (WFBI)' cleaned (removed acronym). Active international subsidiary.
+Wells Fargo Bank,Active,Wells Fargo Bank,Wells*Fargo*Bank*,Input 'Wells Fargo Bank NA' cleaned (removed NA). Active national bank.
+WesBanco,Active,WesBanco Bank,Wes*Banco*,Input 'WesBanco Inc' cleaned (removed Inc). Active parent company; operating bank is WesBanco Bank.
+Wesbanco Bank,Active,Wesbanco Bank,Wes*banco*Bank*,Input 'Wesbanco Bank Inc' cleaned (removed Inc). Active regional bank.
+West Alabama Bank & Trust,Active,West Alabama Bank & Trust,West*Alabama*Bank*&*Trust*,Input cleaned (no suffixes). Active community bank in Alabama.
+West Suburban Bank,Active,West Suburban Bank,West*Suburban*Bank*,Input cleaned (no suffixes). Active community bank in Illinois.
+West Texas National Bank,Active,West Texas National Bank,West*Texas*National*Bank*,Input cleaned (no suffixes). Active community bank in Texas.
+Western Alliance,Active,Western Alliance Bank,Western*Alliance*,Input 'Western Alliance Bancorp' cleaned (removed Bancorp). Active parent company; operating bank is Western Alliance Bank.
+Wheaton Bank & Trust,Active,Wheaton Bank & Trust,Wheaton*Bank*&*Trust*,Input cleaned (no suffixes). Active community bank in Illinois.
+UMB Bank,Active,UMB Bank,UMB*Bank*,Input 'UMB Bank' correct. Active.
+UMB Bank,Active,UMB Bank,UMB*Bank*,Input 'UMB Bank NA' cleaned (removed NA suffix). Active.
+US Bancorp,Active,US Bancorp,US*Bancorp*,Input 'US Bancorp' correct. Active parent company.
+US Bank,Active,US Bank,US*Bank*,Input 'US Bank NA' cleaned (removed NA suffix). Active.
+US Bank,Active,US Bank,US*Bank*,Input 'US Bank National Association' cleaned (removed suffix). Active.
+Umpqua Bank,Active,Umpqua Bank,Umpqua*Bank*,Input 'Umpqua Bank' correct. Active.
+Union Bank & Trust,Active,Union Bank & Trust,Union*Bank*&*Trust*,Input 'Union Bank & Trust Co' cleaned (removed Co suffix). Active.
+Union Bank,Active,Union Bank,Union*Bank*,Input 'Union Bank NA' cleaned (removed NA suffix). Active (subsidiary of MUFG).
+United Bank,Active,United Bank,United*Bank*,Input 'United Bank' correct. Active.
+United Community Bank,Active,United Community Bank,United*Community*Bank*,Input 'United Community Bank' correct. Active.
+United Farm Credit Services,Active,United Farm Credit Services,United*Farm*Credit*Services*,Input 'United FCS' expanded (FCS → Farm Credit Services). Active.
+United Texas Bank,Active,United Texas Bank,United*Texas*Bank*,Input 'United Texas Bank' correct. Active.
+Valley Bank & Trust,Active,Valley Bank & Trust,Valley*Bank*&*Trust*,Input 'Valley Bank & Trust' correct. Active.
+Valley National Bank,Active,Valley National Bank,Valley*National*Bank*,Input 'Valley National Bank' correct. Active.
+Valley Republic Bank,Failed,First Foundation Bank,(Valley*Republic*Bank* OR First*Foundation*Bank*),"Input 'Valley Republic Bank' correct. Failed 2020, acquired by First Foundation Bank."
+Vast Bank,Active,Vast Bank,Vast*Bank*,Input 'Vast Bank' correct. Active.
+Vectra Bank of Colorado,Active,Vectra Bank of Colorado,Vectra*Bank*of*Colorado*,Input 'Vectra Bank of Colorado NA' cleaned (removed NA suffix). Active.
+Vectra Banking,Active,Vectra Banking,Vectra*Banking*,Input 'Vectra Banking Corp' cleaned (removed Corp suffix). Active.
+Veritex Community Bank,Active,Veritex Community Bank,Veritex*Community*Bank*,Input 'Veritex Community Bank' correct. Active.
+Village Bank,Active,Village Bank,Village*Bank*,Input 'Village Bank' correct. Active.
+Whitney Bank,Acquired,Hancock Whitney Bank,(Whitney*Bank* OR Hancock*Whitney*Bank*),"Input 'Whitney Bank'—acquired 2010 by Hancock Bank, now part of Hancock Whitney Bank."
+Wilmington Bank,Acquired,First Citizens Bank,(Wilmington*Bank* OR First*Citizens*Bank*),Input 'Wilmington Bank'—acquired by First Citizens Bank (North Carolina).
+Wilmington Savings Fund Society,Active,Wilmington Savings Fund Society,Wilmington*Savings*Fund*Society*,Input 'Wilmington Savings Fund Society'—active regional bank (WSFS).
+Wilmington Trust,Acquired,M&T Bank,(Wilmington*Trust* OR M&T*Bank*),Input 'Wilmington Trust Co'—cleaned to Wilmington Trust; acquired 2011 by M&T Bank.
+Wilmington Trust,Acquired,M&T Bank,(Wilmington*Trust* OR M&T*Bank*),Input 'Wilmington Trust National Association'—cleaned to Wilmington Trust; acquired 2011 by M&T Bank.
+Wintrust Financial,Active,Wintrust Financial,Wintrust*Financial*,Input 'Wintrust Financial Corp'—cleaned to Wintrust Financial; active holding company with banking subsidiaries.
+Wisconsin Bank & Trust,Active,Wisconsin Bank & Trust,Wisconsin*Bank*&*Trust*,Input 'Wisconsin Bank & Trust'—active regional bank.
+Woodforest National Bank,Active,Woodforest National Bank,Woodforest*National*Bank*,Input 'Wood Forest National Bank'—corrected to Woodforest National Bank (merged 'Wood Forest' to 'Woodforest'); active.
+WoodTrust Bank,Active,WoodTrust Bank,WoodTrust*Bank*,Input 'WoodTrust Bank'—active community bank.
+Woodforest National Bank,Active,Woodforest National Bank,Woodforest*National*Bank*,Input 'Woodforest National Bank'—active national bank.
+Zions Bancorporation,Active,Zions Bancorporation,Zions*Bancorporation*,Input 'Zions Bancorporation'—active holding company; banking subsidiary Zions Bank is active.
+Zions Bank,Active,Zions Bank,Zions*Bank*,Input 'Zions Bank'—active national bank (subsidiary of Zions Bancorporation).
+Oakworth Capital Bank,Acquired,Synovus Bank,(Oakworth*Capital*Bank* OR Synovus*Bank*),Acquired 2021 by Synovus Bank.
+OceanFirst Bank,Active,OceanFirst Bank,OceanFirst*Bank*,Active regional bank.
+Old National Bank,Active,Old National Bank,Old*National*Bank*,Input cleaned (removed Bancorp and /IN/). Active.
+Old National Bank,Active,Old National Bank,Old*National*Bank*,Active.
+Old Second Bancorp,Active,Old Second Bancorp,Old*Second*Bancorp*,Input cleaned (removed Inc). Active holding company.
+Old Second Bank,Active,Old Second Bank,Old*Second*Bank*,Active.
+Old Second National Bank,Active,Old Second National Bank,Old*Second*National*Bank*,Active.
+One National Bank,Active,One National Bank,One*National*Bank*,Active.
+Oriental Bank,Acquired,FirstBank Puerto Rico,(Oriental*Bank* OR FirstBank*Puerto*Rico*),Acquired 2020 by FirstBank Puerto Rico.
+Origin Bank,Active,Origin Bank,Origin*Bank*,Active.
+PNC Bank,Active,PNC Bank,PNC*Bank*,Active national bank.
+PNC Bank,Active,PNC Bank,PNC*Bank*,Input cleaned (removed NA). Active.
+Pacific Mercantile Bank,Active,Pacific Mercantile Bank,Pacific*Mercantile*Bank*,Active.
+Pacific Premier Bank,Active,Pacific Premier Bank,Pacific*Premier*Bank*,Active.
+Pacific Western Bank,Acquired,Banc of California,(Pacific*Western*Bank* OR Banc*of*California*),Acquired 2023 by Banc of California.
+Palatine Bank & Trust,Active,Palatine Bank & Trust,Palatine*Bank*&*Trust*,Input cleaned (removed [PBT]). Active.
+Park National Bank,Active,Park National Bank,Park*National*Bank*,Active.
+People's Bank,Acquired,Webster Bank,(People's*Bank* OR Webster*Bank*),Acquired 2022 by Webster Bank (CT).
+People's Trust Bank,Active,People's Trust Bank,People's*Trust*Bank*,Active.
+People's United Bank,Acquired,M&T Bank,(People's*United*Bank* OR M&T*Bank*),Acquired 2022 by M&T Bank.
